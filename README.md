@@ -13,6 +13,18 @@ Everything is free and open source and runs on a laptop CPU.
 > **Honesty note.** The video numbers are estimates produced by a pipeline that has no ground-truth
 > labels to be scored against. Read "Limitations and failure cases" below before quoting any of them.
 
+## Screenshots
+
+| | |
+|---|---|
+| ![Game stats page: line score and box score](docs/screenshots/game-stats.webp) | ![Team analysis page: four factors and scoring sources](docs/screenshots/team-analysis.webp) |
+| **Game stats** (any 2016-2022 playoff game) | **Team analysis** |
+| ![Player analysis page: headline numbers for one player](docs/screenshots/player-analysis.webp) | ![Tracking page: distance run per player](docs/screenshots/tracking.webp) |
+| **Player analysis** | **Tracking** |
+
+The tables and charts show NBA.com's statistics for the 2022 Finals, Game 4. The video analysis page is
+not pictured because it shows broadcast footage, which is not part of this repository.
+
 ## Quick start
 
 ```
