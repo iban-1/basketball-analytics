@@ -36,6 +36,21 @@ def setup_page(title: str) -> None:
     theme.hero(title)
 
 
+def nba_unreachable(what: str, exc: Exception):
+    """Friendly stop when NBA.com does not answer (common for public cloud servers, which it often blocks)."""
+    st.error(f"Could not load {what} from NBA.com.")
+    st.markdown(
+        "NBA.com's stats servers did not answer in time. They are unofficial and often **block requests that come "
+        "from cloud hosts**, which is what a public website runs on, or they may be rate-limiting. "
+        "Press the button to try again, or run the project on your own computer, where it works from a home "
+        "connection (the README has the three commands).")
+    with st.expander("Technical detail"):
+        st.code(f"{type(exc).__name__}: {exc}")
+    if st.button("Try again"):
+        st.rerun()
+    st.stop()
+
+
 def select_game():
     """Sidebar season + game pickers shared by every page; the choice survives page changes.
 
@@ -58,8 +73,7 @@ def select_game():
     try:
         games = games_for(season)
     except Exception as exc:
-        st.error(f"Could not load the game list from NBA.com: {exc}")
-        st.stop()
+        nba_unreachable("the game list", exc)
     labels = games["label"].tolist()
     ids = games["game_id"].tolist()
     if ss.get("sel_game") in labels:
@@ -76,9 +90,7 @@ def select_game():
     try:
         bundle = game_bundle(game["game_id"])
     except Exception as exc:
-        st.error(f"Could not fetch this game from NBA.com: {exc}\n\nNBA.com sometimes blocks or "
-                 "rate-limits requests. Wait a minute and reload, or pick another game.")
-        st.stop()
+        nba_unreachable("this game", exc)
     return game, bundle
 
 

@@ -43,14 +43,14 @@ def _read_cached(game_id: str, name: str) -> list[pd.DataFrame] | None:
             for f in files]
 
 
-def _fetch(name: str, game_id: str, retries: int = 3) -> list[pd.DataFrame]:
+def _fetch(name: str, game_id: str, retries: int = 3, timeout: float | None = None) -> list[pd.DataFrame]:
     import nba_api.stats.endpoints as E
     cfg = load_config()["nba"]
     cls = getattr(E, ENDPOINTS[name])
     last: Exception | None = None
     for attempt in range(retries):
         try:
-            frames = cls(game_id=game_id, timeout=cfg["request_timeout_s"]).get_data_frames()
+            frames = cls(game_id=game_id, timeout=timeout or cfg["request_timeout_s"]).get_data_frames()
             time.sleep(cfg["pause_between_requests_s"])
             return frames
         except Exception as exc:  # network errors, rate limits, malformed replies
@@ -59,20 +59,29 @@ def _fetch(name: str, game_id: str, retries: int = 3) -> list[pd.DataFrame]:
     raise RuntimeError(f"NBA.com request '{name}' for game {game_id} failed: {last}")
 
 
-def get_endpoint(game_id: str, name: str) -> list[pd.DataFrame]:
+def get_endpoint(game_id: str, name: str, retries: int = 3, timeout: float | None = None) -> list[pd.DataFrame]:
     """Tables of one endpoint for one game: from the local cache, else fetched then cached."""
     cached = _read_cached(game_id, name)
     if cached is not None:
         return cached
-    frames = _fetch(name, game_id)
+    frames = _fetch(name, game_id, retries=retries, timeout=timeout)
     for i, df in enumerate(frames):
         df.to_csv(_cache_dir(game_id) / f"{name}_{i}.csv", index=False)
     return frames
 
 
 def load_game_tables(game_id: str) -> dict[str, list[pd.DataFrame]]:
-    """Every endpoint we use, for one game."""
-    return {name: get_endpoint(game_id, name) for name in ENDPOINTS}
+    """Every endpoint we use, for one game.
+
+    The first request is a quick probe (one try, short timeout): when NBA.com does not answer at all,
+    as it often does for cloud servers, fail within seconds instead of retrying seven endpoints.
+    """
+    cfg = load_config()["nba"]
+    tables = {"traditional": get_endpoint(game_id, "traditional", retries=1, timeout=cfg["probe_timeout_s"])}
+    for name in ENDPOINTS:
+        if name not in tables:
+            tables[name] = get_endpoint(game_id, name)
+    return {name: tables[name] for name in ENDPOINTS}
 
 
 def list_games(season: str, season_type: str) -> pd.DataFrame:
@@ -84,7 +93,7 @@ def list_games(season: str, season_type: str) -> pd.DataFrame:
     cfg = load_config()["nba"]
     raw = leaguegamefinder.LeagueGameFinder(
         season_nullable=season, season_type_nullable=season_type, league_id_nullable="00",
-        timeout=cfg["request_timeout_s"]).get_data_frames()[0]
+        timeout=cfg["probe_timeout_s"]).get_data_frames()[0]
     games = games_from_finder(raw)
     path.parent.mkdir(parents=True, exist_ok=True)
     games.to_csv(path, index=False)

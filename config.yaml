@@ -9,6 +9,7 @@ nba:
   default_season_type: "Playoffs"
   default_game_id: "0042100404"    # 2022 NBA Finals, Game 4 (GSW at BOS, 107-97)
   request_timeout_s: 40
+  probe_timeout_s: 20              # first request of a game / the game list: give up fast if NBA.com is silent
   pause_between_requests_s: 0.8    # be polite to NBA.com
 
 court:                              # NBA court: 94 x 50 ft
