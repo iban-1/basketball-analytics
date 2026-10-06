@@ -39,13 +39,16 @@ attribution").
 ## Quick start
 
 ```
-git clone <your-repo-url>
+git clone https://github.com/iban-1/basketball-analytics
 cd basketball-analytics
 python -m venv .venv
 .venv\Scripts\activate            # Windows  (macOS/Linux: source .venv/bin/activate)
-pip install -r requirements.txt
+pip install -r app/requirements.txt   # just the website (light, a minute)
 streamlit run app/main.py         # the game stats work straight away
 ```
+
+To also re-run the video pipeline (YOLO, OpenCV and PyTorch, a large install) use
+`pip install -r requirements.txt` instead.
 
 The first time you open a game it is downloaded from NBA.com (about 10 seconds) and cached in
 `data/cache/`; after that it opens instantly. Use the sidebar to choose a season (2016-2022 playoffs)

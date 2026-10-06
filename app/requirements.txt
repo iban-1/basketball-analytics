@@ -1,0 +1,8 @@
+# Dependencies for the website only (used by Streamlit Community Cloud, which reads this file first).
+# The video pipeline (YOLO, OpenCV, PyTorch) is NOT needed to run the site: see ../requirements.txt for that.
+streamlit>=1.65
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+pyyaml>=6.0
+nba_api>=1.5
