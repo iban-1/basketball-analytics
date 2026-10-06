@@ -1,0 +1,42 @@
+# Environments and caches
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+*.key
+secrets.toml
+
+# The user's video clip, generated videos and model weights are never committed
+data/video/*
+!data/video/.gitkeep
+*.mp4
+*.avi
+*.mov
+*.webm
+*.pt
+
+# NBA.com responses (the data belongs to NBA.com; cached locally only)
+data/cache/
+data/cache/*
+
+# Self-training ball dataset (crops of the user's video) and trained weights
+data/ball_dataset/
+results/ball_model/
+
+# Large per-frame tables derived from the user's video (small summary tables ARE committed)
+results/video/people*.csv
+results/video/balls*.csv
+results/video/frames.csv
+results/video/player_frames.csv
+results/video/ball_track.csv
+results/video/possession_frames.csv
+results/video/done_shots.txt
+
+# Run logs and scratch frames
+results/*_log.txt
+results/*_err.txt
+results/_*
+
+# Editor/tool configuration
+.claude/

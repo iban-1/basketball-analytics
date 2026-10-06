@@ -1,0 +1,67 @@
+seed: 42
+
+paths:
+  cache: data/cache      # NBA.com responses cached here (git-ignored; the data is NBA.com's)
+  results: results
+
+nba:
+  default_season: "2021-22"
+  default_season_type: "Playoffs"
+  default_game_id: "0042100404"    # 2022 NBA Finals, Game 4 (GSW at BOS, 107-97)
+  request_timeout_s: 40
+  pause_between_requests_s: 0.8    # be polite to NBA.com
+
+court:                              # NBA court: 94 x 50 ft
+  length_m: 28.65
+  width_m: 15.24
+
+video:
+  # The user's own clip. NEVER committed (data/video/ and *.mp4 are git-ignored).
+  path: "data/video/2022Game4Q3.mp4"
+  model: yolo11s.pt
+  imgsz: 1280
+  tracker: botsort.yaml
+  detect_conf: 0.03            # low on purpose: the basketball is often detected at ~0.05-0.1
+  cut_threshold: 0.35
+  min_shot_frames: 30          # shots shorter than 1 s are skipped
+  # Court views calibrated by hand: frame number in the clip + landmark pixels (x, y).
+  # Landmark names are defined in src/bball/video/court.py (court metres).
+  references:
+    - name: A
+      frame: 200               # left basket in view, baseline on the left
+      refine: true             # then snap onto the painted lines (improved the fit by eye)
+      picks:
+        L baseline near lane: [248, 428]
+        L baseline far lane: [395, 312]
+        L ft near corner: [690, 468]
+        L ft far corner: [775, 348]
+        L arc apex: [975, 390]
+    - name: B
+      frame: 800               # right basket in view, baseline on the right
+      picks:
+        R ft near corner: [653, 496]
+        R ft far corner: [567, 364]
+        R baseline far lane: [994, 332]
+        R baseline near lane: [1119, 449]
+        R arc apex: [355, 410]
+    - name: C
+      frame: 1700              # centre court in view, right basket at the right edge
+      refine: true
+      picks:
+        R ft far corner: [1054, 348]
+        R ft near corner: [1122, 474]
+        R ft circle top: [948, 402]
+        R arc apex: [858, 382]
+        centre circle near: [456, 490]
+        centre circle far: [456, 354]
+        centre circle left: [270, 426]
+        centre circle right: [640, 428]
+  min_inliers: 60              # feature matches needed to accept a registration (half-size image)
+  min_alignment: 1.2           # painted-line score needed after refinement
+  # Kit colour -> team. Identified BY EYE from frames of this game (home Celtics in white, Warriors in
+  # dark kits); the code only knows "light" and "dark".
+  teams:
+    light: BOS
+    dark: GSW
+  official_game_id: "0042100404"   # used only to print official Q3 steals next to the video counts
+  period: 3
