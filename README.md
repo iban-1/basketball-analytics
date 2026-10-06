@@ -22,8 +22,15 @@ Everything is free and open source and runs on a laptop CPU.
 | ![Player analysis page: headline numbers for one player](docs/screenshots/player-analysis.webp) | ![Tracking page: distance run per player](docs/screenshots/tracking.webp) |
 | **Player analysis** | **Tracking** |
 
-The tables and charts show NBA.com's statistics for the 2022 Finals, Game 4. The video analysis page is
-not pictured because it shows broadcast footage, which is not part of this repository.
+**Video analysis**: one frame of the annotated output. Player boxes with speed and distance run, the
+top-down radar in the top-left, running pass / interception / possession counters in the top-right, and an
+event banner.
+
+![Annotated video frame: player boxes, radar, team counters](docs/screenshots/video-analysis.webp)
+
+The tables and charts show NBA.com's statistics for the 2022 Finals, Game 4. The video frame is a single
+still from the annotated output of a broadcast clip; the footage belongs to its rights holder (see "Data
+sources and attribution"). The video itself is not in this repository.
 
 ## Quick start
 
@@ -115,8 +122,9 @@ dashboard lists these on screen instead of inventing them.
   learning and check the terms before any other use. Responses are cached only on your machine
   (`data/cache/`, git-ignored) and are never committed. This project is not affiliated with or endorsed by
   the NBA.
-* **Video:** a broadcast recording supplied by the user. The footage remains the rights holder's. It, any
-  frames cut from it, and the trained ball weights are not part of this repository.
+* **Video:** a broadcast recording supplied by the user. The footage remains the rights holder's. The video
+  and the trained ball weights are not part of this repository; the single annotated still in the
+  screenshots is included for illustration, and will be removed on request of the rights holder.
 * **Background photo** (`app/static/background.webp`): supplied by the repository owner, who states it is
   free to use. I could not verify its licence or photographer, so add the credit here if you know it, or
   delete the file (the page falls back to a plain dark gradient).
