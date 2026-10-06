@@ -27,7 +27,9 @@ def season_label(season: str) -> str:
 
 def setup_page(title: str) -> None:
     st.set_page_config(page_title=f"{title} · Basketball analytics", layout="wide")
-    st.title(title)
+    import theme
+    theme.apply()
+    theme.hero(title)
 
 
 def select_game():

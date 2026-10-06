@@ -1,4 +1,4 @@
-# Environments and caches
+﻿# Environments and caches
 .venv/
 __pycache__/
 *.pyc
@@ -41,3 +41,4 @@ results/_*
 # Editor/tool configuration
 .claude/
 results/video/viewer_frames.csv
+app/static/*
