@@ -27,12 +27,12 @@ def test_game_stats_page_runs_and_shows_tables():
 @pytest.mark.skipif(not CACHED_GAME, reason="default game not cached on this machine")
 def test_changing_season_changes_the_game_list():
     at = AppTest.from_file(str(APP / "Home.py"), default_timeout=180).run()
-    first = at.sidebar.selectbox[1].options
+    first = at.selectbox[1].options
     try:
-        at.sidebar.selectbox[0].set_value("2015-16").run()
+        at.selectbox[0].set_value("2015-16").run()
     except Exception:
         pytest.skip("no network for another season")
-    assert at.sidebar.selectbox[1].options != first
+    assert at.selectbox[1].options != first
 
 
 @pytest.mark.skipif(not CACHED_GAME, reason="default game not cached on this machine")

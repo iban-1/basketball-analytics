@@ -26,9 +26,13 @@ def season_label(season: str) -> str:
 
 
 def setup_page(title: str) -> None:
-    st.set_page_config(page_title=f"{title} · Basketball analytics", layout="wide")
+    try:                       # app/main.py has already configured the page when running as the site
+        st.set_page_config(page_title=f"{title} · Basketball analytics", layout="wide")
+    except st.errors.StreamlitAPIException:
+        pass
     import theme
     theme.apply()
+    theme.nav()
     theme.hero(title)
 
 
@@ -48,8 +52,9 @@ def select_game():
     def pick_game():
         ss["sel_game"] = ss["w_game"]
 
-    season = st.sidebar.selectbox("Season", SEASONS, index=SEASONS.index(ss["sel_season"]),
-                                  format_func=season_label, key="w_season", on_change=pick_season)
+    c_season, c_game = st.columns([2, 3])
+    season = c_season.selectbox("Season", SEASONS, index=SEASONS.index(ss["sel_season"]),
+                                format_func=season_label, key="w_season", on_change=pick_season)
     try:
         games = games_for(season)
     except Exception as exc:
@@ -61,13 +66,13 @@ def select_game():
         idx = labels.index(ss["sel_game"])
     else:
         idx = ids.index(default_game) if default_game in ids else len(ids) - 1
-    label = st.sidebar.selectbox("Game", labels, index=idx, key=f"w_game_{season}",
-                                 on_change=lambda: ss.__setitem__("sel_game", ss[f"w_game_{season}"]))
+    label = c_game.selectbox("Game", labels, index=idx, key=f"w_game_{season}",
+                             on_change=lambda: ss.__setitem__("sel_game", ss[f"w_game_{season}"]))
     ss["sel_game"] = label
     game = games[games["label"] == label].iloc[0]
-    st.sidebar.caption(f"Game ID {game['game_id']}. {len(games)} playoff games in this season. "
-                       "The first time you open a game it is downloaded from NBA.com; after that it "
-                       "loads instantly.")
+    st.caption(f"Game ID {game['game_id']}. {len(games)} playoff games in this season. "
+               "The first time you open a game it is downloaded from NBA.com; after that it "
+               "loads instantly.")
     try:
         bundle = game_bundle(game["game_id"])
     except Exception as exc:

@@ -21,7 +21,7 @@ cd basketball-analytics
 python -m venv .venv
 .venv\Scripts\activate            # Windows  (macOS/Linux: source .venv/bin/activate)
 pip install -r requirements.txt
-streamlit run app/Home.py         # the game stats work straight away
+streamlit run app/main.py         # the game stats work straight away
 ```
 
 The first time you open a game it is downloaded from NBA.com (about 10 seconds) and cached in
@@ -105,6 +105,9 @@ dashboard lists these on screen instead of inventing them.
   the NBA.
 * **Video:** a broadcast recording supplied by the user. The footage remains the rights holder's. It, any
   frames cut from it, and the trained ball weights are not part of this repository.
+* **Background photo** (`app/static/background.webp`): supplied by the repository owner, who states it is
+  free to use. I could not verify its licence or photographer, so add the credit here if you know it, or
+  delete the file (the page falls back to a plain dark gradient).
 * **Models:** Ultralytics YOLO (AGPL-3.0) with COCO-pretrained weights; check the AGPL terms before
   deploying or redistributing the video code.
 
