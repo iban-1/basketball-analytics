@@ -28,9 +28,13 @@ event banner.
 
 ![Annotated video frame: player boxes, radar, team counters](docs/screenshots/video-analysis.webp)
 
-The tables and charts show NBA.com's statistics for the 2022 Finals, Game 4. The video frame is a single
-still from the annotated output of a broadcast clip; the footage belongs to its rights holder (see "Data
-sources and attribution"). The video itself is not in this repository.
+The tables and charts show NBA.com's statistics for the 2022 Finals, Game 4. The video frame is a still from
+the annotated output of a broadcast clip; the footage belongs to its rights holder (see "Data sources and
+attribution").
+
+**Watch the full annotated video (6 min 43 s, third quarter of 2022 NBA Finals Game 4):**
+[download from the v1.0.0 release](https://github.com/iban-1/basketball-analytics/releases/download/v1.0.0/basketball-analytics-annotated-demo.mp4)
+(52 MB, kept out of the repository itself so cloning stays small).
 
 ## Quick start
 
@@ -76,8 +80,8 @@ python -m scripts.render_video                  # annotated video with radar and
 python -m scripts.build_summary                 # refresh the results block in this README
 ```
 
-The annotated video is shown on the dashboard's **Video analysis** page (local use only: it contains the
-broadcast footage).
+The annotated video is shown on the dashboard's **Video analysis** page. If you have not run the pipeline,
+the page plays the demo video from this repository's release instead.
 
 ### How it works, in plain words
 
@@ -122,9 +126,10 @@ dashboard lists these on screen instead of inventing them.
   learning and check the terms before any other use. Responses are cached only on your machine
   (`data/cache/`, git-ignored) and are never committed. This project is not affiliated with or endorsed by
   the NBA.
-* **Video:** a broadcast recording supplied by the user. The footage remains the rights holder's. The video
-  and the trained ball weights are not part of this repository; the single annotated still in the
-  screenshots is included for illustration, and will be removed on request of the rights holder.
+* **Video:** a broadcast recording supplied by the user. The footage remains the rights holder's. The
+  original clip and the trained ball weights are not part of this repository. The annotated output (the
+  screenshot above and the demo video in the v1.0.0 release) is shared for illustration, and will be removed
+  on request of the rights holder.
 * **Background photo** (`app/static/background.webp`): supplied by the repository owner, who states it is
   free to use. I could not verify its licence or photographer, so add the credit here if you know it, or
   delete the file (the page falls back to a plain dark gradient).

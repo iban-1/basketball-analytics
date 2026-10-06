@@ -33,14 +33,17 @@ a player's distance restarts at every cut; and **pass/interception/possession nu
 official stats**.
 """)
 
+DEMO_URL = "https://github.com/iban-1/basketball-analytics/releases/download/v1.0.0/basketball-analytics-annotated-demo.mp4"
 video = V / "annotated_web.mp4"
 if video.exists():
     st.video(str(video))
-    st.warning("This video contains broadcast footage, so it is shown only on your own computer. It is not part "
-               "of the repository and must not be put on a public website.")
+    st.caption("The footage belongs to its rights holder. The numbers drawn on it are estimates from computer "
+               "vision (see the quality panel below).")
 else:
-    st.info("No annotated video yet. Run the pipeline (see the README): "
-            "`python -m scripts.run_detection`, `run_analysis`, then `render_video`.")
+    st.video(DEMO_URL)
+    st.caption("Demo video from the project's GitHub release (the footage belongs to its rights holder). To "
+               "produce your own, put a clip in `data/video/` and run the pipeline from the README: "
+               "`run_detection`, `run_analysis`, then `render_video`.")
 
 summary_path = V / "summary.json"
 if not summary_path.exists():

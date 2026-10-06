@@ -70,9 +70,9 @@ one camera, so the replay shows it next to the player the analysis says holds it
 * **Why are some stats missing?** NBA.com does not publish PER, win shares, drives, time of possession,
   potential assists, catch-and-shoot splits or contested-rebound % for a single game; the site lists them
   instead of inventing values.
-* **Is it allowed?** The stats are NBA.com's and covered by its terms (not reviewed in full); the video
-  is not in the repository (one annotated still is, for illustration, and the footage remains the rights
-  holder's). Ultralytics YOLO is AGPL-3.0. The background photo
+* **Is it allowed?** The stats are NBA.com's and covered by its terms (not reviewed in full); the original
+  clip is not in the repository; the annotated output (one still in the README, the full demo as a release
+  asset) is shared for illustration and the footage remains the rights holder's, so it is removed on request. Ultralytics YOLO is AGPL-3.0. The background photo
   was supplied by the repository owner as free to use and could not be verified.
 * **What would improve it most?** A second round of ball training with human-checked labels, and a
   jersey-number reader so a player can be followed across camera cuts.
