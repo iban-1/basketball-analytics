@@ -28,6 +28,11 @@ def _css() -> str:
     radial-gradient(circle at 20% 10%, #2a1f3d 0%, #0b0d12 70%) fixed;
 }}
 header[data-testid="stHeader"] {{ background: transparent; }}
+/* the header bar spans the top of the page and would swallow clicks meant for the navigation words:
+   let clicks fall through it, but keep its own buttons (Deploy, menu) clickable */
+header[data-testid="stHeader"], [data-testid="stToolbar"] {{ pointer-events: none; }}
+[data-testid="stToolbar"] button, [data-testid="stToolbar"] a, [data-testid="stMainMenu"],
+[data-testid="stAppDeployButton"] {{ pointer-events: auto; }}
 
 /* ---- glass panels ---- */
 .block-container {{
