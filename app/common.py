@@ -30,6 +30,51 @@ def setup_page(title: str) -> None:
     st.title(title)
 
 
+def select_game():
+    """Sidebar season + game pickers shared by every page; the choice survives page changes.
+
+    Returns (game row, bundle) or stops the page with a message.
+    """
+    default_game = load_config()["nba"]["default_game_id"]
+    ss = st.session_state
+    ss.setdefault("sel_season", SEASONS[-1])
+
+    def pick_season():
+        ss["sel_season"] = ss["w_season"]
+        ss.pop("sel_game", None)
+
+    def pick_game():
+        ss["sel_game"] = ss["w_game"]
+
+    season = st.sidebar.selectbox("Season", SEASONS, index=SEASONS.index(ss["sel_season"]),
+                                  format_func=season_label, key="w_season", on_change=pick_season)
+    try:
+        games = games_for(season)
+    except Exception as exc:
+        st.error(f"Could not load the game list from NBA.com: {exc}")
+        st.stop()
+    labels = games["label"].tolist()
+    ids = games["game_id"].tolist()
+    if ss.get("sel_game") in labels:
+        idx = labels.index(ss["sel_game"])
+    else:
+        idx = ids.index(default_game) if default_game in ids else len(ids) - 1
+    label = st.sidebar.selectbox("Game", labels, index=idx, key=f"w_game_{season}",
+                                 on_change=lambda: ss.__setitem__("sel_game", ss[f"w_game_{season}"]))
+    ss["sel_game"] = label
+    game = games[games["label"] == label].iloc[0]
+    st.sidebar.caption(f"Game ID {game['game_id']}. {len(games)} playoff games in this season. "
+                       "The first time you open a game it is downloaded from NBA.com; after that it "
+                       "loads instantly.")
+    try:
+        bundle = game_bundle(game["game_id"])
+    except Exception as exc:
+        st.error(f"Could not fetch this game from NBA.com: {exc}\n\nNBA.com sometimes blocks or "
+                 "rate-limits requests. Wait a minute and reload, or pick another game.")
+        st.stop()
+    return game, bundle
+
+
 def nba_attribution() -> None:
     st.divider()
     st.caption("Game statistics: **NBA.com** (stats.nba.com), fetched with the free `nba_api` "

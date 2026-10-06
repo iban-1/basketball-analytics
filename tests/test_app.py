@@ -35,7 +35,15 @@ def test_changing_season_changes_the_game_list():
     assert at.sidebar.selectbox[1].options != first
 
 
+@pytest.mark.skipif(not CACHED_GAME, reason="default game not cached on this machine")
+@pytest.mark.parametrize("page", ["1_Team_analysis", "2_Player_analysis", "3_Tracking"])
+def test_analysis_pages_run(page):
+    at = AppTest.from_file(str(APP / f"pages/{page}.py"), default_timeout=120).run()
+    assert not at.exception, [e.value for e in at.exception]
+    assert len(at.dataframe) >= 1
+
+
 @pytest.mark.skipif(not HAVE_VIDEO, reason="video analysis not run")
 def test_video_page_runs():
-    at = AppTest.from_file(str(APP / "pages/1_Video_analysis.py"), default_timeout=60).run()
+    at = AppTest.from_file(str(APP / "pages/4_Video_analysis.py"), default_timeout=60).run()
     assert not at.exception, [e.value for e in at.exception]

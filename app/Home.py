@@ -3,35 +3,11 @@ import pandas as pd
 import streamlit as st
 
 import common
-from src.bball.config import load_config
 from src.bball.tables import NOT_AVAILABLE
 
 common.setup_page("Game stats")
 
-DEFAULT_GAME = load_config()["nba"]["default_game_id"]
-season = st.sidebar.selectbox("Season", common.SEASONS, index=len(common.SEASONS) - 1,
-                              format_func=common.season_label)
-try:
-    games = common.games_for(season)
-except Exception as exc:
-    st.error(f"Could not load the game list from NBA.com: {exc}")
-    st.stop()
-
-ids = games["game_id"].tolist()
-default_idx = ids.index(DEFAULT_GAME) if DEFAULT_GAME in ids else len(ids) - 1
-label = st.sidebar.selectbox("Game", games["label"].tolist(), index=default_idx,
-                             key=f"game_{season}")
-game = games[games["label"] == label].iloc[0]
-st.sidebar.caption(f"Game ID {game['game_id']}. {len(games)} playoff games in this season. "
-                   "The first time you open a game it is downloaded from NBA.com; after that it "
-                   "loads instantly.")
-
-try:
-    bundle = common.game_bundle(game["game_id"])
-except Exception as exc:
-    st.error(f"Could not fetch this game from NBA.com: {exc}\n\nNBA.com sometimes blocks or "
-             "rate-limits requests. Wait a minute and reload, or pick another game.")
-    st.stop()
+game, bundle = common.select_game()
 
 # ---------- header ----------
 st.header(f"{game['away']} {game['away_pts']} @ {game['home']} {game['home_pts']}")

@@ -26,7 +26,19 @@ streamlit run app/Home.py         # the game stats work straight away
 
 The first time you open a game it is downloaded from NBA.com (about 10 seconds) and cached in
 `data/cache/`; after that it opens instantly. Use the sidebar to choose a season (2016-2022 playoffs)
-and a game. The stats pages need no video.
+and a game; the choice follows you across pages. The stats pages need no video.
+
+| Page | What it shows (for the selected game) |
+|---|---|
+| **Home** | Line score and the full stat tables: box score, shooting, advanced, miscellaneous, hustle, player tracking |
+| **Team analysis** | The four factors, where the points came from, score margin over the game, biggest scoring runs, shot map and shot zones per team |
+| **Player analysis** | One player's headline numbers, share of his team's production, shot map and shot log, hustle and tracking rows, and a side-by-side comparison of any players |
+| **Tracking** | NBA.com's optical tracking (distance, speed, touches, passes, rebound chances, contested shots) as charts and tables, plus this project's own video tracking when the clip's game is selected |
+| **Video analysis** | The annotated clip with radar, passes, interceptions, possession and per-player distance/speed |
+
+Team and player analysis are computed from NBA.com's box-score tables and play-by-play log. The tests
+check that, for a real game, the play-by-play final score and every field-goal attempt and make agree with
+the official box score. Shot locations are NBA.com's play-by-play coordinates.
 
 ## Video analysis
 
