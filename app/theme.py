@@ -158,9 +158,8 @@ def nav() -> None:
         with st.container(horizontal=True, key="pillnav"):
             for page in pages():
                 st.page_link(page, label=page.title)
-    except Exception as exc:   # a page run on its own (tests) has no registered pages to link to
-        import sys
-        print("NAV ERROR:", repr(exc), file=sys.stderr)
+    except Exception:          # a page run on its own (tests) has no registered pages to link to
+        pass
 
 
 def hero(title: str) -> None:
