@@ -10,4 +10,4 @@ matplotlib>=3.8
 pyyaml>=6.0
 pytest>=8.0
 nba_api>=1.5          # official game stats from NBA.com (code MIT; the data is NBA.com's, see README)
-streamlit>=1.35
+streamlit>=1.65     # top-level navigation and horizontal containers need a recent version (tested on 1.65)
