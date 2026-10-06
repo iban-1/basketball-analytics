@@ -9,7 +9,7 @@ from pathlib import Path
 
 import streamlit as st
 
-BACKGROUND = Path(__file__).resolve().parent / "static" / "background.webp"
+BACKGROUND = Path(__file__).resolve().parent / "static" / "background.webp"   # page background and banner
 ACCENT = "#ff9a3c"
 NAV = [("Home", "Home.py"), ("Team analysis", "pages/1_Team_analysis.py"),
        ("Player analysis", "pages/2_Player_analysis.py"), ("Tracking", "pages/3_Tracking.py"),
@@ -23,7 +23,7 @@ def _css() -> str:
 /* ---- page background: photo under a dark veil so text stays readable ---- */
 .stApp {{
   background:
-    linear-gradient(180deg, rgba(8,10,16,.30) 0%, rgba(8,10,16,.58) 100%),
+    linear-gradient(180deg, rgba(8,10,16,.12) 0%, rgba(8,10,16,.45) 100%),
     {photo}
     radial-gradient(circle at 20% 10%, #2a1f3d 0%, #0b0d12 70%) fixed;
 }}
@@ -62,6 +62,11 @@ section[data-testid="stSidebar"] > div {{
   position: fixed; top: 16px; left: 26px; z-index: 999991;
   width: auto !important; flex-direction: row !important; flex-wrap: nowrap; gap: .3rem !important;
   background: none; border: none; box-shadow: none; padding: 0;
+}}
+/* soft dark fade across the very top (behind the words) so they read over any photo */
+.st-key-pillnav::before {{
+  content: ""; position: fixed; top: 0; left: 0; right: 0; height: 76px; z-index: -1; pointer-events: none;
+  background: linear-gradient(180deg, rgba(6,8,12,.78) 0%, rgba(6,8,12,0) 100%);
 }}
 .st-key-pillnav a {{
   padding: .3rem .8rem; white-space: nowrap; background: transparent; text-decoration: none;
@@ -110,7 +115,7 @@ hr {{ border-color: rgba(255,255,255,.12) !important; }}
 /* ---- hero banner: the photo, unveiled, with the page title ---- */
 .hero {{
   position: relative; height: 230px; margin: -.4rem 0 1.4rem 0; border-radius: 18px; overflow: hidden;
-  background: {"url('app/static/background.webp') center 45% / cover no-repeat," if BACKGROUND.exists() else ""}
+  background: {"url('app/static/background.webp') center 14% / cover no-repeat," if BACKGROUND.exists() else ""}
               linear-gradient(135deg, #2a1f3d, #0b0d12);
   border: 1px solid rgba(255,255,255,.14);
 }}
