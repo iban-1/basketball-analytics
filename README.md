@@ -10,6 +10,10 @@ Two connected parts:
 
 Everything is free and open source and runs on a laptop CPU.
 
+**Live demo: https://basketball-analytics.streamlit.app** (the hosted copy shows a bundled sample of every NBA
+Finals game from 2016 to 2022, because NBA.com blocks cloud servers; run it locally for all 584 playoff games.
+If the app is asleep, give it a minute to wake up.)
+
 > **Honesty note.** The video numbers are estimates produced by a pipeline that has no ground-truth
 > labels to be scored against. Read "Limitations and failure cases" below before quoting any of them.
 

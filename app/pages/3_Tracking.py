@@ -67,6 +67,7 @@ else:
     out = pd.DataFrame({"TEAM": tt["teamTricode"], "Distance (km)": (tt["distance"] * MILE_KM).round(1),
                         "Avg speed (km/h)": (tt["speed"] * MILE_KM).round(2), "Touches": tt["touches"], "Passes": tt["passes"],
                         "Rebound chances": tt["reboundChancesTotal"]})
+    out = out.dropna(axis=1, how="all")        # NBA.com publishes no team-level average speed: no empty column
     st.dataframe(out, hide_index=True)
 
 # ---------- our own tracking from video ----------
