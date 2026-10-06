@@ -1,0 +1,3 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,minutes,fieldGoalsMade,fieldGoalsAttempted,fieldGoalsPercentage,threePointersMade,threePointersAttempted,threePointersPercentage,freeThrowsMade,freeThrowsAttempted,freeThrowsPercentage,reboundsOffensive,reboundsDefensive,reboundsTotal,assists,steals,blocks,turnovers,foulsPersonal,points,plusMinusPoints
+0041700401,1610612744,Golden State,Warriors,GSW,warriors,265:00,46,90,0.511,13,36,0.361,19,20,0.95,4,34,38,31,10,6,7,18,124,10.0
+0041700401,1610612739,Cleveland,Cavaliers,CLE,cavaliers,265:00,44,99,0.444,10,37,0.27,16,22,0.727,19,34,53,18,5,3,11,18,114,-10.0

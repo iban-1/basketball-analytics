@@ -1,0 +1,6 @@
+recencyOrder,gameId,gameTimeUTC,gameEt,gameStatus,gameStatusText,awayTeamId,awayTeamCity,awayTeamName,awayTeamTricode,awayTeamScore,awayTeamWins,awayTeamLosses,homeTeamId,homeTeamCity,homeTeamName,homeTeamTricode,homeTeamScore,homeTeamWins,homeTeamLosses
+1,0041800402,2019-06-03T00:00:00Z,2019-06-02T20:00:00Z,3,Final,1610612744,Golden State,Warriors,GSW,109,1,1,1610612761,Toronto,Raptors,TOR,104,1,1
+2,0041800401,2019-05-31T01:00:00Z,2019-05-30T21:00:00Z,3,Final,1610612744,Golden State,Warriors,GSW,109,0,1,1610612761,Toronto,Raptors,TOR,118,1,0
+3,0021800415,2018-12-13T03:30:00Z,2018-12-12T22:30:00Z,3,Final,1610612761,Toronto,Raptors,TOR,113,23,7,1610612744,Golden State,Warriors,GSW,93,19,10
+4,0021800316,2018-11-30T01:00:00Z,2018-11-29T20:00:00Z,3,Final/OT,1610612744,Golden State,Warriors,GSW,128,15,8,1610612761,Toronto,Raptors,TOR,131,19,4
+5,0021700631,2018-01-14T00:30:00Z,2018-01-13T19:30:00Z,3,Final,1610612744,Golden State,Warriors,GSW,127,35,9,1610612761,Toronto,Raptors,TOR,125,29,12

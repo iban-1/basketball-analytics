@@ -1,0 +1,6 @@
+recencyOrder,gameId,gameTimeUTC,gameEt,gameStatus,gameStatusText,awayTeamId,awayTeamCity,awayTeamName,awayTeamTricode,awayTeamScore,awayTeamWins,awayTeamLosses,homeTeamId,homeTeamCity,homeTeamName,homeTeamTricode,homeTeamScore,homeTeamWins,homeTeamLosses
+1,0042100401,2022-06-03T01:00:00Z,2022-06-02T21:00:00Z,3,Final,1610612738,Boston,Celtics,BOS,120,1,0,1610612744,Golden State,Warriors,GSW,108,0,1
+2,0022101042,2022-03-17T02:00:00Z,2022-03-16T22:00:00Z,3,Final,1610612738,Boston,Celtics,BOS,110,42,28,1610612744,Golden State,Warriors,GSW,88,47,23
+3,0022100435,2021-12-18T00:30:00Z,2021-12-17T19:30:00Z,3,Final,1610612744,Golden State,Warriors,GSW,111,24,5,1610612738,Boston,Celtics,BOS,107,14,15
+4,0022000858,2021-04-18T00:30:00Z,2021-04-17T20:30:00Z,3,Final,1610612744,Golden State,Warriors,GSW,114,28,29,1610612738,Boston,Celtics,BOS,119,31,26
+5,0022000326,2021-02-03T03:00:00Z,2021-02-02T22:00:00Z,3,Final,1610612738,Boston,Celtics,BOS,111,11,8,1610612744,Golden State,Warriors,GSW,107,11,10

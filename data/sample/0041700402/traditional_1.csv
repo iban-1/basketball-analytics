@@ -1,0 +1,5 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,minutes,fieldGoalsMade,fieldGoalsAttempted,fieldGoalsPercentage,threePointersMade,threePointersAttempted,threePointersPercentage,freeThrowsMade,freeThrowsAttempted,freeThrowsPercentage,reboundsOffensive,reboundsDefensive,reboundsTotal,assists,steals,blocks,turnovers,foulsPersonal,points,startersBench
+0041700402,1610612744,Golden State,Warriors,GSW,warriors,166:54,37,63,0.587,14,30,0.467,8,11,0.727,4,24,28,23,2,4,10,18,96,Starters
+0041700402,1610612744,Golden State,Warriors,GSW,warriors,166:54,10,19,0.526,1,6,0.167,5,10,0.5,3,10,13,5,1,4,2,7,26,Bench
+0041700402,1610612739,Cleveland,Cavaliers,CLE,cavaliers,167:06,29,67,0.433,9,22,0.409,15,19,0.789,10,17,27,19,8,2,8,10,82,Starters
+0041700402,1610612739,Cleveland,Cavaliers,CLE,cavaliers,167:06,8,23,0.348,0,5,0.0,5,7,0.714,6,9,15,6,1,2,2,5,21,Bench

@@ -51,7 +51,9 @@ To also re-run the video pipeline (YOLO, OpenCV and PyTorch, a large install) us
 `pip install -r requirements.txt` instead.
 
 The first time you open a game it is downloaded from NBA.com (about 10 seconds) and cached in
-`data/cache/`; after that it opens instantly. Use the sidebar to choose a season (2016-2022 playoffs)
+`data/cache/`; after that it opens instantly. **If NBA.com does not answer** (it often blocks public cloud
+servers, so a hosted copy of this site usually falls into this case), the site shows a bundled sample of
+every Finals game from 2016 to 2022 and says so on screen; run it locally for all 584 playoff games. Use the sidebar to choose a season (2016-2022 playoffs)
 and a game; the choice follows you across pages. The stats pages need no video.
 
 | Page | What it shows (for the selected game) |
@@ -126,9 +128,11 @@ dashboard lists these on screen instead of inventing them.
 * **Game statistics: NBA.com** (stats.nba.com), fetched with the free
   [`nba_api`](https://github.com/swar/nba_api) package (MIT-licensed code). **The data belongs to NBA.com
   and is covered by NBA.com's Terms of Use**, which I have not reviewed in full; use the stats for personal
-  learning and check the terms before any other use. Responses are cached only on your machine
-  (`data/cache/`, git-ignored) and are never committed. This project is not affiliated with or endorsed by
-  the NBA.
+  learning and check the terms before any other use. Live responses are cached only on your machine
+  (`data/cache/`, git-ignored). The one exception is a **small demo sample bundled in `data/sample/`**
+  (every NBA Finals game of 2016-2022, about 40 games and a few MB, built by `scripts/build_sample.py`)
+  so the hosted website still works when NBA.com blocks the server; it will be removed on request of the
+  rights holder. This project is not affiliated with or endorsed by the NBA.
 * **Video:** a broadcast recording supplied by the user. The footage remains the rights holder's. The
   original clip and the trained ball weights are not part of this repository. The annotated output (the
   screenshot above and the demo video in the v1.0.0 release) is shared for illustration, and will be removed

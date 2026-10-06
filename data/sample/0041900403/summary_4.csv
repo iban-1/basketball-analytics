@@ -1,0 +1,3 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,teamWins,teamLosses,period1Score,period2Score,period3Score,period4Score,score
+0041900403,1610612748,Miami,Heat,MIA,heat,1,2,26,32,27,30,115
+0041900403,1610612747,Los Angeles,Lakers,LAL,lakers,2,1,23,31,26,24,104

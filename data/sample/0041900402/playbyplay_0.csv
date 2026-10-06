@@ -1,0 +1,459 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0041900402,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (9:11 PM EST),period,start,0,0,1
+0041900402,4,PT12M00.00S,1,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,,,0,h,Jump Ball Howard vs. Leonard: Tip to James,Jump Ball,,1,0,2
+0041900402,7,PT11M42.00S,1,1610612747,LAL,2544,James,L. James,-20,27,3,Missed,1,,,0,h,MISS James 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,3
+0041900402,8,PT11M41.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+0041900402,9,PT11M30.00S,1,1610612748,MIA,1629130,Robinson,D. Robinson,120,215,25,Missed,1,,,0,v,MISS Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,5
+0041900402,10,PT11M29.00S,1,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,,,0,h,Howard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+0041900402,11,PT11M10.00S,1,1610612747,LAL,203076,Davis,A. Davis,54,117,13,Made,1,2,0,2,h,Davis 13' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,1,2,7
+0041900402,12,PT10M49.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,8
+0041900402,12,PT10M49.00S,1,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope STEAL (1 STL),,,1,0,9
+0041900402,14,PT10M40.00S,1,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,-231,6,0,Missed,1,,,0,h,MISS Caldwell-Pope 3PT Jump Shot,Missed Shot,Jump Shot,1,3,10
+0041900402,15,PT10M39.00S,1,1610612748,MIA,203109,Crowder,J. Crowder,0,0,0,,0,,,0,v,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,11
+0041900402,16,PT10M26.00S,1,1610612748,MIA,203109,Crowder,J. Crowder,18,15,2,Made,1,2,2,4,v,Crowder 2' Driving Finger Roll Layup (2 PTS) (Butler 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,12
+0041900402,18,PT10M08.00S,1,1610612747,LAL,2730,Howard,D. Howard,-9,22,2,Made,1,4,2,6,h,Howard 2' Alley Oop Dunk (2 PTS) (Green 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,13
+0041900402,20,PT09M48.00S,1,1610612748,MIA,203086,Leonard,M. Leonard,-36,251,25,Made,1,4,5,9,v,Leonard 25' 3PT Jump Shot (3 PTS) (Butler 2 AST),Made Shot,Jump Shot,1,3,14
+0041900402,22,PT09M35.00S,1,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,84,58,10,Made,1,6,5,11,h,Caldwell-Pope 10' Driving Floating Bank Jump Shot (2 PTS) (James 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,15
+0041900402,24,PT09M15.00S,1,1610612748,MIA,1629639,Herro,T. Herro,239,53,24,Made,1,6,8,14,v,Herro 24' 3PT Step Back Jump Shot (3 PTS) (Leonard 1 AST),Made Shot,Step Back Jump shot,1,3,16
+0041900402,26,PT09M06.00S,1,1610612747,LAL,201980,Green,D. Green,55,249,26,Missed,1,,,0,h,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,17
+0041900402,27,PT09M05.00S,1,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,0,0,18
+0041900402,29,PT08M56.00S,1,1610612747,LAL,201980,Green,D. Green,227,-4,0,Missed,1,,,0,h,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,1,3,19
+0041900402,30,PT08M55.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,20
+0041900402,31,PT08M43.00S,1,1610612748,MIA,203086,Leonard,M. Leonard,-21,3,2,Missed,1,,,0,v,MISS Leonard 2' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,21
+0041900402,31,PT08M43.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James BLOCK (1 BLK),,,1,2,22
+0041900402,33,PT08M42.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,23
+0041900402,34,PT08M35.00S,1,1610612747,LAL,2730,Howard,D. Howard,-12,16,2,Made,1,8,8,16,h,Howard 2' Hook Shot (4 PTS) (Davis 1 AST),Made Shot,Hook Shot,1,2,24
+0041900402,36,PT08M14.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,12,15,2,Missed,1,,,0,v,MISS Butler 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,25
+0041900402,37,PT08M12.00S,1,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,26
+0041900402,38,PT08M08.00S,1,1610612747,LAL,2730,Howard,D. Howard,-9,21,2,Made,1,10,8,18,h,Howard 2' Running Dunk (6 PTS) (James 2 AST),Made Shot,Running Dunk Shot,1,2,27
+0041900402,40,PT08M08.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro S.FOUL (P1.T1) (E.Lewis),Foul,Shooting,1,0,28
+0041900402,42,PT08M08.00S,1,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,,,0,h,MISS Howard Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,29
+0041900402,43,PT08M07.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,30
+0041900402,44,PT08M03.00S,1,1610612747,LAL,203076,Davis,A. Davis,-38,136,14,Made,1,12,8,20,h,Davis 14' Turnaround Fadeaway (4 PTS),Made Shot,Turnaround Fadeaway shot,1,2,31
+0041900402,45,PT07M47.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,-18,21,3,Missed,1,,,0,v,MISS Butler 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,32
+0041900402,45,PT07M47.00S,1,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,,,0,h,Howard BLOCK (1 BLK),,,1,2,33
+0041900402,47,PT07M46.00S,1,1610612747,LAL,201980,Green,D. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,34
+0041900402,48,PT07M41.00S,1,1610612747,LAL,2544,James,L. James,13,-4,1,Made,1,14,8,22,h,James 1' Driving Layup (2 PTS) (Green 2 AST),Made Shot,Driving Layup Shot,1,2,35
+0041900402,50,PT07M34.00S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,36
+0041900402,51,PT07M34.00S,1,1610612748,MIA,203086,Leonard,M. Leonard,0,0,0,,0,,,0,v,SUB: Olynyk FOR Leonard,Substitution,,0,0,37
+0041900402,53,PT07M25.00S,1,1610612748,MIA,203109,Crowder,J. Crowder,232,-6,0,Missed,1,,,0,v,MISS Crowder 3PT Jump Shot,Missed Shot,Jump Shot,1,3,38
+0041900402,54,PT07M24.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,39
+0041900402,55,PT07M20.00S,1,1610612748,MIA,203482,Olynyk,K. Olynyk,51,282,29,Made,1,14,11,25,v,Olynyk 29' 3PT Jump Shot (3 PTS) (Butler 3 AST),Made Shot,Jump Shot,1,3,40
+0041900402,57,PT07M06.00S,1,1610612748,MIA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,v,Olynyk P.FOUL (P1.T2) (D.Guthrie),Foul,Personal,1,0,41
+0041900402,59,PT07M00.00S,1,1610612747,LAL,203076,Davis,A. Davis,55,127,14,Missed,1,,,0,h,MISS Davis 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,42
+0041900402,60,PT06M59.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,43
+0041900402,61,PT06M47.00S,1,1610612748,MIA,1629639,Herro,T. Herro,36,256,26,Missed,1,,,0,v,MISS Herro 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,44
+0041900402,62,PT06M46.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,45
+0041900402,63,PT06M35.00S,1,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,-234,-22,24,Missed,1,,,0,h,MISS Caldwell-Pope 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,46
+0041900402,64,PT06M34.00S,1,1610612748,MIA,203109,Crowder,J. Crowder,0,0,0,,0,,,0,v,Crowder REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,47
+0041900402,65,PT06M26.00S,1,1610612748,MIA,203109,Crowder,J. Crowder,-4,20,2,Made,1,14,13,27,v,Crowder 2' Driving Dunk (4 PTS) (Butler 4 AST),Made Shot,Driving Dunk Shot,1,2,48
+0041900402,67,PT06M10.00S,1,1610612747,LAL,201980,Green,D. Green,227,1,0,Missed,1,,,0,h,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,1,3,49
+0041900402,68,PT06M09.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,50
+0041900402,69,PT05M57.00S,1,1610612748,MIA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,v,Olynyk Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,51
+0041900402,69,PT05M57.00S,1,1610612747,LAL,201980,Green,D. Green,0,0,0,,0,,,0,h,Green STEAL (1 STL),,,1,0,52
+0041900402,71,PT05M50.00S,1,1610612747,LAL,2544,James,L. James,18,265,27,Made,1,17,13,30,h,James 27' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,3,53
+0041900402,72,PT05M30.00S,1,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,,,0,h,Howard S.FOUL (P1.T1) (D.Guthrie),Foul,Shooting,1,0,54
+0041900402,74,PT05M30.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,MISS Butler Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,55
+0041900402,75,PT05M30.00S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Normal Rebound,0,0,56
+0041900402,76,PT05M30.00S,1,1610612747,LAL,201980,Green,D. Green,0,0,0,,0,,,0,h,SUB: Kuzma FOR Green,Substitution,,0,0,57
+0041900402,77,PT05M30.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,SUB: Rondo FOR James,Substitution,,0,0,58
+0041900402,78,PT05M30.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,SUB: Nunn FOR Herro,Substitution,,0,0,59
+0041900402,82,PT05M30.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,17,14,31,v,Butler Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,60
+0041900402,83,PT05M13.00S,1,1610612747,LAL,1628398,Kuzma,K. Kuzma,124,212,25,Made,1,20,14,34,h,Kuzma 25' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,1,3,61
+0041900402,84,PT04M58.00S,1,1610612748,MIA,203482,Olynyk,K. Olynyk,94,258,27,Missed,1,,,0,v,MISS Olynyk 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,62
+0041900402,85,PT04M57.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,63
+0041900402,86,PT04M42.00S,1,1610612748,MIA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,v,Olynyk P.FOUL (P2.T3) (D.Guthrie),Foul,Personal,1,0,64
+0041900402,88,PT04M42.00S,1,1610612748,MIA,203109,Crowder,J. Crowder,0,0,0,,0,,,0,v,SUB: Iguodala FOR Crowder,Substitution,,0,0,65
+0041900402,90,PT04M36.00S,1,1610612747,LAL,200765,Rondo,R. Rondo,0,0,0,,0,,,0,h,Rondo Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,66
+0041900402,90,PT04M36.00S,1,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,Robinson STEAL (1 STL),,,1,0,67
+0041900402,92,PT04M27.00S,1,1610612748,MIA,1629130,Robinson,D. Robinson,-233,1,0,Missed,1,,,0,v,MISS Robinson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,68
+0041900402,93,PT04M26.00S,1,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,,,0,h,Howard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,69
+0041900402,94,PT04M07.00S,1,1610612747,LAL,1628398,Kuzma,K. Kuzma,-19,10,2,Made,1,22,14,36,h,Kuzma 2' Cutting Finger Roll Layup Shot (5 PTS) (Howard 1 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,70
+0041900402,96,PT03M53.00S,1,1610612747,LAL,200765,Rondo,R. Rondo,0,0,0,,0,,,0,h,Rondo S.FOUL (P1.T2) (J.Capers),Foul,Shooting,1,0,71
+0041900402,98,PT03M53.00S,1,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,72
+0041900402,99,PT03M53.00S,1,0,,96,Schrempf,D. Schrempf,0,0,0,,0,22,14,36,,Instant Replay1st Period (9:26 PM EST),Instant Replay,Coach Challenge Support Ruling,1,0,73
+0041900402,100,PT03M53.00S,1,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,22,15,37,v,Robinson Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,1,0,74
+0041900402,101,PT03M53.00S,1,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,22,16,38,v,Robinson Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,1,0,75
+0041900402,102,PT03M53.00S,1,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,22,17,39,v,Robinson Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,1,0,76
+0041900402,103,PT03M35.00S,1,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,-231,0,0,Missed,1,,,0,h,MISS Caldwell-Pope 3PT Jump Shot,Missed Shot,Jump Shot,1,3,77
+0041900402,104,PT03M34.00S,1,1610612748,MIA,1629134,Nunn,K. Nunn,0,0,0,,0,,,0,v,Nunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,78
+0041900402,105,PT03M26.00S,1,1610612748,MIA,203482,Olynyk,K. Olynyk,232,79,25,Missed,1,,,0,v,MISS Olynyk 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,79
+0041900402,106,PT03M25.00S,1,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,80
+0041900402,107,PT03M05.00S,1,1610612747,LAL,200765,Rondo,R. Rondo,-212,148,26,Made,1,25,17,42,h,Rondo 26' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,1,3,81
+0041900402,108,PT02M53.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis S.FOUL (P1.T3) (D.Guthrie),Foul,Shooting,1,0,82
+0041900402,110,PT02M53.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,25,18,43,v,Butler Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,83
+0041900402,111,PT02M53.00S,1,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,SUB: Caruso FOR Caldwell-Pope,Substitution,,0,0,84
+0041900402,112,PT02M53.00S,1,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,,,0,h,SUB: James FOR Howard,Substitution,,0,0,85
+0041900402,113,PT02M53.00S,1,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,SUB: Herro FOR Robinson,Substitution,,0,0,86
+0041900402,117,PT02M53.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,25,19,44,v,Butler Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,87
+0041900402,118,PT02M37.00S,1,1610612747,LAL,203076,Davis,A. Davis,-11,10,1,Made,1,27,19,46,h,Davis 1' Cutting Dunk Shot (6 PTS) (James 3 AST),Made Shot,Cutting Dunk Shot,1,2,88
+0041900402,120,PT02M25.00S,1,1610612748,MIA,1629134,Nunn,K. Nunn,29,263,26,Missed,1,,,0,v,MISS Nunn 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,89
+0041900402,121,PT02M24.00S,1,1610612747,LAL,200765,Rondo,R. Rondo,0,0,0,,0,,,0,h,Rondo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,90
+0041900402,122,PT02M17.00S,1,1610612747,LAL,200765,Rondo,R. Rondo,11,6,1,Missed,1,,,0,h,MISS Rondo 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,91
+0041900402,123,PT02M16.00S,1,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,92
+0041900402,124,PT02M16.00S,1,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma Step Out of Bounds Turnover (P1.T2),Turnover,Step Out of Bounds Turnover,1,0,93
+0041900402,125,PT01M56.00S,1,1610612748,MIA,1629134,Nunn,K. Nunn,18,16,2,Made,1,27,21,48,v,Nunn 2' Driving Layup (2 PTS) (Olynyk 1 AST),Made Shot,Driving Layup Shot,1,2,94
+0041900402,127,PT01M45.00S,1,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma Out of Bounds - Bad Pass Turnover Turnover (P2.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,95
+0041900402,128,PT01M33.00S,1,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma P.FOUL (P1.T4) (D.Guthrie),Foul,Personal,1,0,96
+0041900402,130,PT01M33.00S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Turnover: 5 Second Violation (T#3),Turnover,5 Second Violation,0,0,97
+0041900402,131,PT01M14.00S,1,1610612747,LAL,200765,Rondo,R. Rondo,-228,113,25,Missed,1,,,0,h,MISS Rondo 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,98
+0041900402,132,PT01M13.00S,1,1610612747,LAL,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,99
+0041900402,133,PT01M09.00S,1,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma Lost Ball Turnover (P3.T4),Turnover,Lost Ball,1,0,100
+0041900402,133,PT01M09.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler STEAL (1 STL),,,1,0,101
+0041900402,135,PT01M06.00S,1,1610612748,MIA,1629134,Nunn,K. Nunn,0,0,0,,0,,,0,v,Nunn Offensive Charge Foul (P1.T4) (E.Lewis),Foul,Offensive Charge,1,0,102
+0041900402,137,PT01M06.00S,1,1610612748,MIA,1629134,Nunn,K. Nunn,0,0,0,,0,,,0,v,Nunn Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0,103
+0041900402,138,PT00M57.50S,1,1610612747,LAL,203076,Davis,A. Davis,-1,13,1,Made,1,29,21,50,h,Davis 1' Cutting Dunk Shot (8 PTS) (James 4 AST),Made Shot,Cutting Dunk Shot,1,2,104
+0041900402,140,PT00M46.80S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro Offensive Charge Foul (P2.PN) (J.Capers),Foul,Offensive Charge,1,0,105
+0041900402,142,PT00M46.80S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,106
+0041900402,143,PT00M31.30S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,107
+0041900402,144,PT00M16.70S,1,1610612748,MIA,202710,Butler III,J. Butler III,100,83,13,Made,1,29,23,52,v,Butler 13' Fadeaway Jumper (5 PTS),Made Shot,Fadeaway Jump Shot,1,2,108
+0041900402,145,PT00M01.70S,1,1610612747,LAL,2544,James,L. James,133,233,27,Missed,1,,,0,h,MISS James 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,109
+0041900402,146,PT00M00.60S,1,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,0,0,110
+0041900402,147,PT00M00.60S,1,1610612748,MIA,1629134,Nunn,K. Nunn,0,0,0,,0,,,0,v,Nunn L.B.FOUL (P2.PN) (E.Lewis),Foul,Loose Ball,1,0,111
+0041900402,149,PT00M00.60S,1,1610612748,MIA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,v,SUB: Leonard FOR Olynyk,Substitution,,0,0,112
+0041900402,150,PT00M00.60S,1,1610612748,MIA,1629134,Nunn,K. Nunn,0,0,0,,0,,,0,v,SUB: Jones Jr. FOR Nunn,Substitution,,0,0,113
+0041900402,151,PT00M00.60S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,SUB: Crowder FOR Herro,Substitution,,0,0,114
+0041900402,155,PT00M00.00S,1,1610612747,LAL,1627936,Caruso,A. Caruso,-164,237,29,Missed,1,,,0,h,MISS Caruso 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,115
+0041900402,156,PT00M00.00S,1,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,0,0,116
+0041900402,157,PT00M00.00S,1,0,,0,,,0,0,0,,0,29,23,52,,End of 1st Period (9:39 PM EST),period,end,1,0,117
+0041900402,166,PT12M00.00S,2,0,,0,,,0,0,0,,0,29,23,52,,Start of 2nd Period (9:43 PM EST),period,start,0,0,118
+0041900402,167,PT11M47.00S,2,1610612748,MIA,1629134,Nunn,K. Nunn,57,179,19,Missed,1,,,0,v,MISS Nunn 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,119
+0041900402,168,PT11M46.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,120
+0041900402,169,PT11M39.00S,2,1610612747,LAL,202693,Morris,M. Morris,-212,137,25,Missed,1,,,0,h,MISS Morris 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,121
+0041900402,170,PT11M38.00S,2,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,0,0,122
+0041900402,172,PT11M24.00S,2,1610612747,LAL,2544,James,L. James,-231,-4,0,Made,1,32,23,55,h,James 3PT Jump Shot (8 PTS),Made Shot,Jump Shot,1,3,123
+0041900402,173,PT11M00.00S,2,1610612748,MIA,2738,Iguodala,A. Iguodala,-3,17,2,Made,1,32,25,57,v,Iguodala 2' Layup (2 PTS) (Nunn 1 AST),Made Shot,Layup Shot,1,2,124
+0041900402,175,PT10M45.00S,2,1610612747,LAL,1627936,Caruso,A. Caruso,-170,205,27,Made,1,35,25,60,h,Caruso 27' 3PT Jump Shot (3 PTS) (James 5 AST),Made Shot,Jump Shot,1,3,125
+0041900402,177,PT10M27.00S,2,1610612747,LAL,200765,Rondo,R. Rondo,0,0,0,,0,,,0,h,Rondo P.FOUL (P2.T1) (E.Lewis),Foul,Personal,1,0,126
+0041900402,179,PT10M27.00S,2,1610612747,LAL,200765,Rondo,R. Rondo,0,0,0,,0,,,0,h,SUB: Green FOR Rondo,Substitution,,0,0,127
+0041900402,181,PT10M19.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,-95,237,26,Missed,1,,,0,v,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,128
+0041900402,182,PT10M18.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,129
+0041900402,183,PT10M03.00S,2,1610612747,LAL,1628398,Kuzma,K. Kuzma,-154,220,27,Missed,1,,,0,h,MISS Kuzma 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,130
+0041900402,184,PT10M02.00S,2,1610612748,MIA,203109,Crowder,J. Crowder,0,0,0,,0,,,0,v,Crowder REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,131
+0041900402,185,PT09M46.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,-167,200,26,Missed,1,,,0,v,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,132
+0041900402,186,PT09M45.00S,2,1610612747,LAL,202693,Morris,M. Morris,0,0,0,,0,,,0,h,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,133
+0041900402,187,PT09M28.00S,2,1610612747,LAL,2544,James,L. James,-18,27,3,Made,1,37,25,62,h,James 3' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,134
+0041900402,188,PT09M28.00S,2,1610612748,MIA,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,v,Iguodala S.FOUL (P1.T1) (E.Lewis),Foul,Shooting,1,0,135
+0041900402,190,PT09M28.00S,2,1610612748,MIA,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,v,SUB: Herro FOR Iguodala,Substitution,,0,0,136
+0041900402,191,PT09M28.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,SUB: Butler FOR Robinson,Substitution,,0,0,137
+0041900402,194,PT09M28.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,MISS James Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,138
+0041900402,195,PT09M28.00S,2,1610612748,MIA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,v,Olynyk REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,139
+0041900402,196,PT09M19.00S,2,1610612747,LAL,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso S.FOUL (P1.T2) (E.Lewis),Foul,Shooting,1,0,140
+0041900402,198,PT09M19.00S,2,1610612748,MIA,1629134,Nunn,K. Nunn,0,0,0,,0,37,26,63,v,Nunn Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,141
+0041900402,199,PT09M19.00S,2,1610612748,MIA,1629134,Nunn,K. Nunn,0,0,0,,0,37,27,64,v,Nunn Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,142
+0041900402,200,PT09M05.00S,2,1610612747,LAL,1628398,Kuzma,K. Kuzma,231,12,0,Missed,1,,,0,h,MISS Kuzma 3PT Jump Shot,Missed Shot,Jump Shot,1,3,143
+0041900402,201,PT09M04.00S,2,1610612747,LAL,202693,Morris,M. Morris,0,0,0,,0,,,0,h,Morris REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,144
+0041900402,202,PT09M01.00S,2,1610612747,LAL,201980,Green,D. Green,-157,206,26,Made,1,40,27,67,h,Green 26' 3PT Jump Shot (3 PTS) (Morris 1 AST),Made Shot,Jump Shot,1,3,145
+0041900402,204,PT08M48.00S,2,1610612748,MIA,1629639,Herro,T. Herro,-24,166,17,Missed,1,,,0,v,MISS Herro 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,146
+0041900402,205,PT08M47.00S,2,1610612747,LAL,202693,Morris,M. Morris,0,0,0,,0,,,0,h,Morris REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,147
+0041900402,206,PT08M38.00S,2,1610612747,LAL,202693,Morris,M. Morris,109,233,26,Missed,1,,,0,h,MISS Morris 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,148
+0041900402,207,PT08M37.00S,2,1610612748,MIA,203109,Crowder,J. Crowder,0,0,0,,0,,,0,v,Crowder REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,149
+0041900402,208,PT08M32.00S,2,1610612748,MIA,1629134,Nunn,K. Nunn,0,0,0,,0,,,0,v,Nunn Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,150
+0041900402,208,PT08M32.00S,2,1610612747,LAL,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso STEAL (1 STL),,,1,0,151
+0041900402,210,PT08M31.00S,2,1610612748,MIA,203109,Crowder,J. Crowder,0,0,0,,0,,,0,v,Crowder Personal Take Foul (P1.T2) (E.Lewis),Foul,Personal Take,1,0,152
+0041900402,212,PT08M13.00S,2,1610612747,LAL,2544,James,L. James,231,67,24,Missed,1,,,0,h,MISS James 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,153
+0041900402,213,PT08M12.00S,2,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,154
+0041900402,214,PT08M02.00S,2,1610612748,MIA,203109,Crowder,J. Crowder,237,84,25,Made,1,40,30,70,v,Crowder 25' 3PT Jump Shot (7 PTS) (Nunn 2 AST),Made Shot,Jump Shot,1,3,155
+0041900402,216,PT08M01.00S,2,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,156
+0041900402,217,PT07M51.00S,2,1610612747,LAL,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,157
+0041900402,218,PT07M31.00S,2,1610612748,MIA,1629639,Herro,T. Herro,-24,5,2,Made,1,40,32,72,v,Herro 2' Driving Layup (5 PTS) (Butler 5 AST),Made Shot,Driving Layup Shot,1,2,158
+0041900402,220,PT07M09.00S,2,1610612747,LAL,202693,Morris,M. Morris,-235,-15,24,Missed,1,,,0,h,MISS Morris 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,159
+0041900402,221,PT07M08.00S,2,1610612748,MIA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,v,Olynyk REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,160
+0041900402,222,PT07M02.00S,2,1610612747,LAL,202693,Morris,M. Morris,0,0,0,,0,,,0,h,Morris S.FOUL (P1.T3) (J.Capers),Foul,Shooting,1,0,161
+0041900402,224,PT07M02.00S,2,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,40,33,73,v,Butler Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,162
+0041900402,225,PT07M02.00S,2,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,SUB: Rondo FOR Kuzma,Substitution,,0,0,163
+0041900402,226,PT07M02.00S,2,1610612747,LAL,201980,Green,D. Green,0,0,0,,0,,,0,h,SUB: Caldwell-Pope FOR Green,Substitution,,0,0,164
+0041900402,227,PT07M02.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,SUB: Davis FOR James,Substitution,,0,0,165
+0041900402,231,PT07M02.00S,2,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,40,34,74,v,Butler Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,166
+0041900402,232,PT06M51.00S,2,1610612747,LAL,1627936,Caruso,A. Caruso,-210,153,26,Made,1,43,34,77,h,Caruso 26' 3PT Jump Shot (6 PTS) (Morris 2 AST),Made Shot,Jump Shot,1,3,167
+0041900402,234,PT06M42.00S,2,1610612747,LAL,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso S.FOUL (P2.T4) (E.Lewis),Foul,Shooting,1,0,168
+0041900402,236,PT06M42.00S,2,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,43,35,78,v,Butler Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,169
+0041900402,237,PT06M42.00S,2,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,43,36,79,v,Butler Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,170
+0041900402,238,PT06M30.00S,2,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,217,120,25,Missed,1,,,0,h,MISS Caldwell-Pope 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,171
+0041900402,239,PT06M29.00S,2,1610612748,MIA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,v,Olynyk REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,172
+0041900402,240,PT06M17.00S,2,1610612748,MIA,1629134,Nunn,K. Nunn,239,42,24,Missed,1,,,0,v,MISS Nunn 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,173
+0041900402,241,PT06M16.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,174
+0041900402,242,PT06M09.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis Traveling Turnover (P2.T7),Turnover,Traveling,1,0,175
+0041900402,243,PT05M49.00S,2,1610612748,MIA,203482,Olynyk,K. Olynyk,-9,1,1,Made,1,43,38,81,v,Olynyk 1' Cutting Finger Roll Layup Shot (5 PTS) (Nunn 3 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,176
+0041900402,245,PT05M33.00S,2,1610612747,LAL,203076,Davis,A. Davis,8,11,1,Made,1,45,38,83,h,Davis 1' Dunk (10 PTS) (Rondo 1 AST),Made Shot,Dunk Shot,1,2,177
+0041900402,247,PT05M11.00S,2,1610612748,MIA,1629134,Nunn,K. Nunn,-228,14,0,Made,1,45,41,86,v,Nunn 3PT Jump Shot (7 PTS) (Butler 6 AST),Made Shot,Jump Shot,1,3,178
+0041900402,249,PT04M56.00S,2,1610612747,LAL,200765,Rondo,R. Rondo,-41,110,12,Made,1,47,41,88,h,Rondo 12' Floating Jump Shot (5 PTS) (Caruso 1 AST),Made Shot,Floating Jump shot,1,2,179
+0041900402,251,PT04M38.00S,2,1610612748,MIA,203109,Crowder,J. Crowder,11,21,2,Made,1,47,43,90,v,Crowder 2' Layup (9 PTS) (Butler 7 AST),Made Shot,Layup Shot,1,2,180
+0041900402,254,PT04M30.00S,2,1610612747,LAL,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,SUB: Kuzma FOR Caruso,Substitution,,0,0,181
+0041900402,256,PT04M25.00S,2,1610612747,LAL,203076,Davis,A. Davis,144,-10,14,Made,1,49,43,92,h,Davis 14' Jump Shot (12 PTS) (Caldwell-Pope 1 AST),Made Shot,Jump Shot,0,2,182
+0041900402,258,PT04M10.00S,2,1610612748,MIA,202710,Butler III,J. Butler III,117,105,16,Missed,1,,,0,v,MISS Butler 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,183
+0041900402,259,PT04M08.00S,2,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,184
+0041900402,260,PT03M59.00S,2,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,46,259,26,Missed,1,,,0,h,MISS Caldwell-Pope 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,185
+0041900402,261,PT03M57.00S,2,1610612748,MIA,203109,Crowder,J. Crowder,0,0,0,,0,,,0,v,Crowder REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,186
+0041900402,262,PT03M50.00S,2,1610612748,MIA,202710,Butler III,J. Butler III,-8,40,4,Missed,1,,,0,v,MISS Butler 4' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,187
+0041900402,263,PT03M49.00S,2,1610612748,MIA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,v,Olynyk REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,188
+0041900402,264,PT03M49.00S,2,1610612748,MIA,203482,Olynyk,K. Olynyk,0,-6,1,Made,1,49,45,94,v,Olynyk 1' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,1,2,189
+0041900402,265,PT03M39.00S,2,1610612747,LAL,202693,Morris,M. Morris,27,263,26,Made,1,52,45,97,h,Morris 26' 3PT Jump Shot (3 PTS) (Rondo 2 AST),Made Shot,Jump Shot,1,3,190
+0041900402,267,PT03M39.00S,2,1610612748,MIA,1629134,Nunn,K. Nunn,0,0,0,,0,,,0,v,Nunn AWAY.FROM.PLAY.FOUL (P3.T3) (E.Lewis),Foul,Away From Play,1,0,191
+0041900402,269,PT03M39.00S,2,1610612747,LAL,202693,Morris,M. Morris,0,0,0,,0,,,0,h,SUB: James FOR Morris,Substitution,,0,0,192
+0041900402,271,PT03M39.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,193
+0041900402,272,PT03M39.00S,2,1610612748,MIA,1629134,Nunn,K. Nunn,0,0,0,,0,,,0,v,SUB: Robinson FOR Nunn,Substitution,,0,0,194
+0041900402,274,PT03M39.00S,2,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,53,45,98,h,Caldwell-Pope Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,195
+0041900402,275,PT03M19.00S,2,1610612748,MIA,1629639,Herro,T. Herro,41,83,9,Missed,1,,,0,v,MISS Herro 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,196
+0041900402,276,PT03M18.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,197
+0041900402,277,PT03M06.00S,2,1610612748,MIA,203109,Crowder,J. Crowder,0,0,0,,0,,,0,v,Crowder S.FOUL (P2.T4) (D.Guthrie),Foul,Shooting,1,0,198
+0041900402,279,PT03M06.00S,2,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,54,45,99,h,Kuzma Free Throw 1 of 3 (6 PTS),Free Throw,Free Throw 1 of 3,1,0,199
+0041900402,280,PT03M06.00S,2,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,55,45,100,h,Kuzma Free Throw 2 of 3 (7 PTS),Free Throw,Free Throw 2 of 3,1,0,200
+0041900402,281,PT03M06.00S,2,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,56,45,101,h,Kuzma Free Throw 3 of 3 (8 PTS),Free Throw,Free Throw 3 of 3,1,0,201
+0041900402,282,PT02M46.00S,2,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope P.FOUL (P1.PN) (E.Lewis),Foul,Personal,1,0,202
+0041900402,284,PT02M46.00S,2,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,56,46,102,v,Herro Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,203
+0041900402,285,PT02M46.00S,2,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,56,47,103,v,Herro Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,204
+0041900402,286,PT02M26.00S,2,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,-202,163,26,Made,1,59,47,106,h,Caldwell-Pope 26' 3PT Jump Shot (6 PTS) (James 6 AST),Made Shot,Jump Shot,1,3,205
+0041900402,288,PT02M13.00S,2,1610612748,MIA,202710,Butler III,J. Butler III,16,13,2,Made,1,59,49,108,v,Butler 2' Layup (11 PTS) (Herro 1 AST),Made Shot,Layup Shot,1,2,206
+0041900402,290,PT02M02.00S,2,1610612747,LAL,2544,James,L. James,18,4,2,Made,1,61,49,110,h,James 2' Alley Oop Layup (12 PTS) (Rondo 3 AST),Made Shot,Alley Oop Layup shot,1,2,207
+0041900402,292,PT02M02.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,Robinson S.FOUL (P1.PN) (E.Lewis),Foul,Shooting,1,0,208
+0041900402,294,PT02M02.00S,2,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,SUB: Green FOR Kuzma,Substitution,,0,0,209
+0041900402,296,PT02M02.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,MISS James Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,210
+0041900402,297,PT02M00.00S,2,1610612748,MIA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,v,Olynyk REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,211
+0041900402,298,PT01M52.00S,2,1610612748,MIA,203482,Olynyk,K. Olynyk,-31,52,6,Missed,1,,,0,v,MISS Olynyk 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,212
+0041900402,299,PT01M51.00S,2,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,0,0,213
+0041900402,301,PT01M48.00S,2,1610612747,LAL,203076,Davis,A. Davis,18,26,3,Made,1,63,49,112,h,Davis 3' Alley Oop Layup (14 PTS) (Rondo 4 AST),Made Shot,Alley Oop Layup shot,0,2,214
+0041900402,303,PT01M48.00S,2,1610612748,MIA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,v,Olynyk S.FOUL (P3.PN) (D.Guthrie),Foul,Shooting,0,0,215
+0041900402,305,PT01M48.00S,2,1610612748,MIA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,v,SUB: Iguodala FOR Olynyk,Substitution,,0,0,216
+0041900402,307,PT01M48.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,64,49,113,h,Davis Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,1,0,217
+0041900402,308,PT01M27.00S,2,1610612748,MIA,1629639,Herro,T. Herro,77,156,17,Made,1,64,51,115,v,Herro 17' Pullup Jump Shot (9 PTS) (Robinson 1 AST),Made Shot,Pullup Jump shot,1,2,218
+0041900402,310,PT01M11.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,Robinson S.FOUL (P2.PN) (E.Lewis),Foul,Shooting,1,0,219
+0041900402,312,PT01M11.00S,2,1610612747,LAL,200765,Rondo,R. Rondo,0,0,0,,0,65,51,116,h,Rondo Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,220
+0041900402,313,PT01M11.00S,2,1610612747,LAL,200765,Rondo,R. Rondo,0,0,0,,0,66,51,117,h,Rondo Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,221
+0041900402,314,PT00M55.90S,2,1610612748,MIA,202710,Butler III,J. Butler III,1,5,1,Missed,1,,,0,v,MISS Butler 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,222
+0041900402,315,PT00M54.30S,2,1610612747,LAL,200765,Rondo,R. Rondo,0,0,0,,0,,,0,h,Rondo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,223
+0041900402,316,PT00M49.30S,2,1610612747,LAL,200765,Rondo,R. Rondo,16,13,2,Made,1,68,51,119,h,Rondo 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,224
+0041900402,317,PT00M44.60S,2,1610612748,MIA,1629130,Robinson,D. Robinson,188,167,25,Made,1,68,54,122,v,Robinson 25' 3PT Jump Shot (6 PTS) (Butler 8 AST),Made Shot,Jump Shot,1,3,225
+0041900402,319,PT00M28.80S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis OFF.Foul (P2) (E.Lewis),Foul,Offensive,1,0,226
+0041900402,321,PT00M28.80S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis Offensive Foul Turnover (P3.T8),Turnover,Offensive Foul Turnover,1,0,227
+0041900402,322,PT00M28.80S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,SUB: Morris FOR Davis,Substitution,,0,0,228
+0041900402,323,PT00M28.80S,2,1610612747,LAL,200765,Rondo,R. Rondo,0,0,0,,0,,,0,h,SUB: Kuzma FOR Rondo,Substitution,,0,0,229
+0041900402,326,PT00M11.60S,2,1610612748,MIA,1629130,Robinson,D. Robinson,-81,250,26,Missed,1,,,0,v,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,230
+0041900402,327,PT00M10.00S,2,1610612747,LAL,202693,Morris,M. Morris,0,0,0,,0,,,0,h,Morris REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,231
+0041900402,328,PT00M00.00S,2,1610612747,LAL,2544,James,L. James,-7,283,28,Missed,1,,,0,h,MISS James 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,232
+0041900402,329,PT00M00.00S,2,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,0,0,233
+0041900402,330,PT00M00.00S,2,0,,0,,,0,0,0,,0,68,54,122,,End of 2nd Period (10:13 PM EST),period,end,1,0,234
+0041900402,337,PT12M00.00S,3,0,,0,,,0,0,0,,0,68,54,122,,Start of 3rd Period (10:28 PM EST),period,start,0,0,235
+0041900402,338,PT11M48.00S,3,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,,,0,h,Howard P.FOUL (P2.T1) (D.Guthrie),Foul,Personal,1,0,236
+0041900402,340,PT11M37.00S,3,1610612748,MIA,1629639,Herro,T. Herro,-19,264,26,Missed,1,,,0,v,MISS Herro 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,237
+0041900402,340,PT11M37.00S,3,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,,,0,h,Howard BLOCK (2 BLK),,,1,3,238
+0041900402,342,PT11M36.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,239
+0041900402,343,PT11M10.00S,3,1610612747,LAL,2544,James,L. James,-11,116,12,Made,1,70,54,124,h,James 12' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,2,240
+0041900402,344,PT10M54.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,-7,20,2,Made,1,70,56,126,v,Butler 2' Cutting Layup Shot (13 PTS) (Robinson 2 AST),Made Shot,Cutting Layup Shot,1,2,241
+0041900402,346,PT10M32.00S,3,1610612747,LAL,203076,Davis,A. Davis,159,110,19,Made,1,72,56,128,h,Davis 19' Step Back Jump Shot (17 PTS),Made Shot,Step Back Jump shot,1,2,242
+0041900402,347,PT10M17.00S,3,1610612748,MIA,203109,Crowder,J. Crowder,-32,259,26,Made,1,72,59,131,v,Crowder 26' 3PT Jump Shot (12 PTS) (Butler 9 AST),Made Shot,Jump Shot,1,3,243
+0041900402,349,PT09M54.00S,3,1610612747,LAL,203076,Davis,A. Davis,174,53,18,Made,1,74,59,133,h,Davis 18' Jump Shot (19 PTS),Made Shot,Jump Shot,1,2,244
+0041900402,350,PT09M35.00S,3,1610612748,MIA,1629130,Robinson,D. Robinson,223,5,0,Made,1,74,62,136,v,Robinson 3PT Jump Shot (9 PTS) (Crowder 1 AST),Made Shot,Jump Shot,1,3,245
+0041900402,352,PT09M16.00S,3,1610612747,LAL,203076,Davis,A. Davis,-232,11,0,Made,1,77,62,139,h,Davis 3PT Jump Shot (22 PTS) (Caldwell-Pope 2 AST),Made Shot,Jump Shot,1,3,246
+0041900402,354,PT09M00.00S,3,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,,,0,h,Howard P.FOUL (P3.T2) (D.Guthrie),Foul,Personal,1,0,247
+0041900402,356,PT08M53.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James S.FOUL (P1.T3) (J.Capers),Foul,Shooting,1,0,248
+0041900402,358,PT08M53.00S,3,1610612748,MIA,203086,Leonard,M. Leonard,0,0,0,,0,77,63,140,v,Leonard Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,249
+0041900402,359,PT08M53.00S,3,1610612748,MIA,203086,Leonard,M. Leonard,0,0,0,,0,77,64,141,v,Leonard Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,250
+0041900402,360,PT08M40.00S,3,1610612747,LAL,203076,Davis,A. Davis,54,8,5,Made,1,79,64,143,h,Davis 5' Driving Floating Jump Shot (24 PTS),Made Shot,Driving Floating Jump Shot,1,2,251
+0041900402,361,PT08M27.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,252
+0041900402,361,PT08M27.00S,3,1610612747,LAL,201980,Green,D. Green,0,0,0,,0,,,0,h,Green STEAL (2 STL),,,1,0,253
+0041900402,363,PT08M24.00S,3,1610612747,LAL,2544,James,L. James,19,9,2,Made,1,81,64,145,h,James 2' Running Layup (16 PTS),Made Shot,Running Layup Shot,1,2,254
+0041900402,364,PT08M24.00S,3,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,Robinson S.FOUL (P3.T1) (J.Capers),Foul,Shooting,1,0,255
+0041900402,366,PT08M24.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,82,64,146,h,James Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,1,0,256
+0041900402,367,PT08M24.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,257
+0041900402,368,PT08M08.00S,3,1610612748,MIA,1629639,Herro,T. Herro,26,26,4,Made,1,82,66,148,v,Herro 4' Driving Bank Hook Shot (11 PTS) (Robinson 3 AST),Made Shot,Driving Bank Hook Shot,1,2,258
+0041900402,370,PT07M53.00S,3,1610612747,LAL,2544,James,L. James,43,132,14,Made,1,84,66,150,h,James 14' Driving Floating Jump Shot (19 PTS) (Caldwell-Pope 3 AST),Made Shot,Driving Floating Jump Shot,1,2,259
+0041900402,372,PT07M28.00S,3,1610612748,MIA,203086,Leonard,M. Leonard,-68,69,10,Made,1,84,68,152,v,Leonard 10' Turnaround Hook Shot (7 PTS) (Butler 10 AST),Made Shot,Turnaround Hook Shot,1,2,260
+0041900402,374,PT07M15.00S,3,1610612748,MIA,203086,Leonard,M. Leonard,0,0,0,,0,,,0,v,Leonard S.FOUL (P1.T2) (D.Guthrie),Foul,Shooting,1,0,261
+0041900402,376,PT07M15.00S,3,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,,,0,h,MISS Howard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,262
+0041900402,377,PT07M15.00S,3,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Normal Rebound,0,0,263
+0041900402,378,PT07M15.00S,3,1610612748,MIA,203109,Crowder,J. Crowder,0,0,0,,0,,,0,v,SUB: Iguodala FOR Crowder,Substitution,,0,0,264
+0041900402,379,PT07M15.00S,3,1610612748,MIA,203086,Leonard,M. Leonard,0,0,0,,0,,,0,v,SUB: Olynyk FOR Leonard,Substitution,,0,0,265
+0041900402,382,PT07M15.00S,3,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,,,0,h,MISS Howard Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,266
+0041900402,383,PT07M15.00S,3,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,267
+0041900402,384,PT07M02.00S,3,1610612747,LAL,201980,Green,D. Green,-232,3,0,Missed,1,,,0,h,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,1,3,268
+0041900402,385,PT07M00.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,0,269
+0041900402,386,PT07M00.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis L.B.FOUL (P3.T4) (J.Capers),Foul,Loose Ball,1,0,270
+0041900402,388,PT06M43.00S,3,1610612748,MIA,2738,Iguodala,A. Iguodala,-18,8,2,Made,1,84,70,154,v,Iguodala 2' Driving Finger Roll Layup (4 PTS) (Robinson 4 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,271
+0041900402,390,PT06M20.00S,3,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,45,193,20,Made,1,86,70,156,h,Caldwell-Pope 20' Pullup Jump Shot (8 PTS) (James 7 AST),Made Shot,Pullup Jump shot,1,2,272
+0041900402,392,PT06M07.00S,3,1610612748,MIA,1629639,Herro,T. Herro,40,132,14,Missed,1,,,0,v,MISS Herro 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,273
+0041900402,393,PT06M06.00S,3,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,274
+0041900402,394,PT05M55.00S,3,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,Robinson P.FOUL (P4.T3) (J.Capers),Foul,Personal,1,0,275
+0041900402,396,PT05M55.00S,3,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,SUB: Nunn FOR Robinson,Substitution,,0,0,276
+0041900402,398,PT05M52.00S,3,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,208,158,26,Missed,1,,,0,h,MISS Caldwell-Pope 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,277
+0041900402,399,PT05M51.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,278
+0041900402,400,PT05M51.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,-6,1,Made,1,88,70,158,h,Davis 1' Tip Layup Shot (26 PTS),Made Shot,Tip Layup Shot,1,2,279
+0041900402,401,PT05M30.00S,3,1610612747,LAL,201980,Green,D. Green,0,0,0,,0,,,0,h,Green S.FOUL (P1.PN) (J.Capers),Foul,Shooting,1,0,280
+0041900402,403,PT05M30.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,88,71,159,v,Butler Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,281
+0041900402,404,PT05M30.00S,3,1610612747,LAL,201980,Green,D. Green,0,0,0,,0,,,0,h,SUB: Kuzma FOR Green,Substitution,,0,0,282
+0041900402,405,PT05M30.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,SUB: Rondo FOR James,Substitution,,0,0,283
+0041900402,408,PT05M30.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,88,72,160,v,Butler Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,284
+0041900402,410,PT05M08.00S,3,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,-160,124,20,Missed,1,,,0,h,MISS Caldwell-Pope 20' Jump Shot,Missed Shot,Jump Shot,1,2,285
+0041900402,411,PT05M07.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,286
+0041900402,412,PT05M07.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,-6,1,Made,1,90,72,162,h,Davis 1' Tip Layup Shot (28 PTS),Made Shot,Tip Layup Shot,1,2,287
+0041900402,413,PT04M53.00S,3,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,,,0,h,Howard S.FOUL (P4.PN) (D.Guthrie),Foul,Shooting,1,0,288
+0041900402,415,PT04M53.00S,3,1610612748,MIA,1629134,Nunn,K. Nunn,0,0,0,,0,90,73,163,v,Nunn Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,289
+0041900402,416,PT04M53.00S,3,1610612748,MIA,1629134,Nunn,K. Nunn,0,0,0,,0,90,74,164,v,Nunn Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,290
+0041900402,417,PT04M39.00S,3,1610612747,LAL,1628398,Kuzma,K. Kuzma,149,225,27,Missed,1,,,0,h,MISS Kuzma 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,291
+0041900402,418,PT04M38.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,292
+0041900402,419,PT04M36.00S,3,1610612747,LAL,203076,Davis,A. Davis,18,56,6,Made,1,92,74,166,h,Davis 6' Floating Jump Shot (30 PTS),Made Shot,Floating Jump shot,1,2,293
+0041900402,420,PT04M26.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,27,22,3,Made,1,92,76,168,v,Butler 3' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,2,294
+0041900402,421,PT04M10.00S,3,1610612747,LAL,203076,Davis,A. Davis,105,183,21,Missed,1,,,0,h,MISS Davis 21' Jump Shot,Missed Shot,Jump Shot,1,2,295
+0041900402,422,PT04M09.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,296
+0041900402,423,PT04M01.00S,3,1610612748,MIA,1629639,Herro,T. Herro,-14,31,3,Missed,1,,,0,v,MISS Herro 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,297
+0041900402,424,PT04M00.00S,3,1610612748,MIA,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,v,Iguodala REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,298
+0041900402,425,PT03M56.00S,3,1610612748,MIA,203482,Olynyk,K. Olynyk,32,265,27,Made,1,92,79,171,v,Olynyk 27' 3PT Jump Shot (10 PTS),Made Shot,Jump Shot,1,3,299
+0041900402,426,PT03M56.00S,3,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,300
+0041900402,428,PT03M56.00S,3,1610612747,LAL,2730,Howard,D. Howard,0,0,0,,0,,,0,h,SUB: Caruso FOR Howard,Substitution,,0,0,301
+0041900402,430,PT03M47.00S,3,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,-234,6,0,Missed,1,,,0,h,MISS Caldwell-Pope 3PT Jump Shot,Missed Shot,Jump Shot,1,3,302
+0041900402,431,PT03M46.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,303
+0041900402,432,PT03M25.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,-54,107,12,Missed,1,,,0,v,MISS Butler 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,304
+0041900402,433,PT03M24.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,305
+0041900402,434,PT03M18.00S,3,1610612748,MIA,1629134,Nunn,K. Nunn,0,0,0,,0,,,0,v,Nunn S.FOUL (P4.T4) (D.Guthrie),Foul,Shooting,1,0,306
+0041900402,436,PT03M18.00S,3,1610612747,LAL,200765,Rondo,R. Rondo,0,0,0,,0,93,79,172,h,Rondo Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,307
+0041900402,437,PT03M18.00S,3,1610612747,LAL,200765,Rondo,R. Rondo,0,0,0,,0,,,0,h,MISS Rondo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,308
+0041900402,438,PT03M18.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,309
+0041900402,439,PT03M08.00S,3,1610612748,MIA,203482,Olynyk,K. Olynyk,-164,221,28,Made,1,93,82,175,v,Olynyk 28' 3PT Jump Shot (13 PTS) (Herro 2 AST),Made Shot,Jump Shot,1,3,310
+0041900402,441,PT02M55.00S,3,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,-152,213,26,Missed,1,,,0,h,MISS Caldwell-Pope 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,311
+0041900402,442,PT02M54.00S,3,1610612747,LAL,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,312
+0041900402,443,PT02M49.00S,3,1610612747,LAL,200765,Rondo,R. Rondo,180,178,25,Made,1,96,82,178,h,Rondo 25' 3PT Jump Shot (13 PTS) (Kuzma 1 AST),Made Shot,Jump Shot,1,3,313
+0041900402,446,PT02M39.00S,3,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,SUB: James FOR Caldwell-Pope,Substitution,,0,0,314
+0041900402,448,PT02M27.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,29,22,4,Missed,1,,,0,v,MISS Butler 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,315
+0041900402,450,PT02M26.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,316
+0041900402,451,PT02M26.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,0,-6,1,Made,1,96,84,180,v,Butler 1' Tip Layup Shot (19 PTS),Made Shot,Tip Layup Shot,1,2,317
+0041900402,452,PT02M14.00S,3,1610612747,LAL,2544,James,L. James,-93,241,26,Made,1,99,84,183,h,James 26' 3PT Jump Shot (22 PTS) (Rondo 5 AST),Made Shot,Jump Shot,1,3,318
+0041900402,454,PT01M54.00S,3,1610612748,MIA,1629639,Herro,T. Herro,9,126,13,Made,1,99,86,185,v,Herro 13' Floating Jump Shot (13 PTS) (Olynyk 2 AST),Made Shot,Floating Jump shot,1,2,319
+0041900402,455,PT01M47.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler P.FOUL (P1.PN) (J.Capers),Foul,Personal,1,0,320
+0041900402,457,PT01M47.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,100,86,186,h,James Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0,321
+0041900402,458,PT01M47.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,MISS James Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,322
+0041900402,459,PT01M47.00S,3,1610612748,MIA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,v,Olynyk REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,323
+0041900402,460,PT01M27.00S,3,1610612748,MIA,203482,Olynyk,K. Olynyk,20,27,3,Made,1,100,88,188,v,Olynyk 3' Driving Layup (15 PTS) (Iguodala 1 AST),Made Shot,Driving Layup Shot,1,2,324
+0041900402,462,PT01M27.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James S.FOUL (P2.PN) (J.Capers),Foul,Shooting,1,0,325
+0041900402,464,PT01M27.00S,3,1610612748,MIA,203482,Olynyk,K. Olynyk,0,0,0,,0,100,89,189,v,Olynyk Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,1,0,326
+0041900402,465,PT01M12.00S,3,1610612747,LAL,1628398,Kuzma,K. Kuzma,225,20,0,Missed,1,,,0,h,MISS Kuzma 3PT Jump Shot,Missed Shot,Jump Shot,1,3,327
+0041900402,466,PT01M11.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,328
+0041900402,467,PT01M01.00S,3,1610612747,LAL,2544,James,L. James,-63,134,15,Missed,1,,,0,h,MISS James 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,329
+0041900402,468,PT00M59.50S,3,1610612748,MIA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,v,Olynyk REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,330
+0041900402,469,PT00M48.80S,3,1610612747,LAL,200765,Rondo,R. Rondo,0,0,0,,0,,,0,h,Rondo S.FOUL (P3.PN) (D.Guthrie),Foul,Shooting,1,0,331
+0041900402,471,PT00M48.80S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,100,90,190,v,Herro Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,332
+0041900402,487,PT00M48.80S,3,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,SUB: S. Hill FOR Butler,Substitution,,0,0,333
+0041900402,506,PT00M48.80S,3,1610612748,MIA,1629134,Nunn,K. Nunn,0,0,0,,0,,,0,v,SUB: Robinson FOR Nunn,Substitution,,0,0,334
+0041900402,477,PT00M48.80S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,100,91,191,v,Herro Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,335
+0041900402,478,PT00M37.20S,3,1610612747,LAL,200765,Rondo,R. Rondo,-188,180,26,Made,1,103,91,194,h,Rondo 26' 3PT Jump Shot (16 PTS) (James 8 AST),Made Shot,Jump Shot,1,3,336
+0041900402,480,PT00M19.60S,3,1610612747,LAL,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso P.FOUL (P3.PN) (E.Lewis),Foul,Personal,1,0,337
+0041900402,482,PT00M19.60S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,103,92,195,v,Herro Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,338
+0041900402,507,PT00M19.60S,3,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,SUB: Jones Jr. FOR Robinson,Substitution,,0,0,339
+0041900402,516,PT00M19.60S,3,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,SUB: Smith FOR Kuzma,Substitution,,0,0,340
+0041900402,493,PT00M19.60S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,103,93,196,v,Herro Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,341
+0041900402,494,PT00M05.00S,3,1610612747,LAL,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso Offensive Charge Foul (P4.PN) (J.Capers),Foul,Offensive Charge,1,0,342
+0041900402,496,PT00M05.00S,3,1610612747,LAL,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,1,0,343
+0041900402,498,PT00M05.00S,3,1610612748,MIA,203524,Hill,S. Hill,0,0,0,,0,,,0,v,SUB: Butler FOR S. Hill,Substitution,,0,0,344
+0041900402,499,PT00M05.00S,3,1610612748,MIA,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,v,SUB: Robinson FOR Jones Jr.,Substitution,,0,0,345
+0041900402,524,PT00M05.00S,3,1610612747,LAL,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,SUB: Kuzma FOR Caruso,Substitution,,0,0,346
+0041900402,503,PT00M00.00S,3,1610612748,MIA,203482,Olynyk,K. Olynyk,-5,207,21,Missed,1,,,0,v,MISS Olynyk 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,347
+0041900402,504,PT00M00.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,0,348
+0041900402,505,PT00M00.00S,3,0,,0,,,0,0,0,,0,103,93,196,,End of 3rd Period (10:59 PM EST),period,end,1,0,349
+0041900402,513,PT12M00.00S,4,0,,0,,,0,0,0,,0,103,93,196,,Start of 4th Period (11:03 PM EST),period,start,0,0,350
+0041900402,514,PT11M53.00S,4,1610612747,LAL,2544,James,L. James,17,5,2,Made,1,105,93,198,h,James 2' Driving Layup (25 PTS) (Rondo 6 AST),Made Shot,Driving Layup Shot,0,2,351
+0041900402,518,PT11M36.00S,4,1610612747,LAL,2747,Smith,J. Smith,0,0,0,,0,,,0,h,Smith P.FOUL (P1.T1) (J.Capers),Foul,Personal,1,0,352
+0041900402,520,PT11M34.00S,4,1610612747,LAL,202693,Morris,M. Morris,0,0,0,,0,,,0,h,Morris S.FOUL (P2.T2) (D.Guthrie),Foul,Shooting,1,0,353
+0041900402,522,PT11M34.00S,4,1610612748,MIA,1629134,Nunn,K. Nunn,0,0,0,,0,105,94,199,v,Nunn Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,354
+0041900402,523,PT11M34.00S,4,1610612748,MIA,1629134,Nunn,K. Nunn,0,0,0,,0,105,95,200,v,Nunn Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,355
+0041900402,526,PT11M13.00S,4,1610612747,LAL,1628398,Kuzma,K. Kuzma,-232,4,0,Made,1,108,95,203,h,Kuzma 3PT Jump Shot (11 PTS) (Rondo 7 AST),Made Shot,Jump Shot,1,3,356
+0041900402,528,PT10M53.00S,4,1610612748,MIA,1629134,Nunn,K. Nunn,183,181,26,Missed,1,,,0,v,MISS Nunn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,357
+0041900402,529,PT10M52.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,358
+0041900402,530,PT10M46.00S,4,1610612747,LAL,200765,Rondo,R. Rondo,-11,22,2,Missed,1,,,0,h,MISS Rondo 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,359
+0041900402,531,PT10M45.00S,4,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,360
+0041900402,532,PT10M41.00S,4,1610612748,MIA,1629134,Nunn,K. Nunn,3,23,2,Made,1,108,97,205,v,Nunn 2' Running Layup (13 PTS) (Butler 11 AST),Made Shot,Running Layup Shot,1,2,361
+0041900402,534,PT10M24.00S,4,1610612747,LAL,2544,James,L. James,-108,247,27,Missed,1,,,0,h,MISS James 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,362
+0041900402,535,PT10M23.00S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,363
+0041900402,536,PT10M12.00S,4,1610612748,MIA,1629639,Herro,T. Herro,16,15,2,Missed,1,,,0,v,MISS Herro 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,364
+0041900402,537,PT10M11.00S,4,1610612748,MIA,1629134,Nunn,K. Nunn,0,0,0,,0,,,0,v,Nunn REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,365
+0041900402,538,PT10M01.00S,4,1610612747,LAL,2747,Smith,J. Smith,0,0,0,,0,,,0,h,Smith S.FOUL (P2.T3) (E.Lewis),Foul,Shooting,1,0,366
+0041900402,541,PT10M01.00S,4,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,108,98,206,v,Butler Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,367
+0041900402,542,PT10M01.00S,4,1610612747,LAL,200765,Rondo,R. Rondo,0,0,0,,0,,,0,h,SUB: Green FOR Rondo,Substitution,,0,0,368
+0041900402,544,PT10M01.00S,4,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,108,99,207,v,Butler Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,369
+0041900402,545,PT09M41.00S,4,1610612747,LAL,202693,Morris,M. Morris,228,31,0,Made,1,111,99,210,h,Morris 3PT Jump Shot (6 PTS) (James 9 AST),Made Shot,Jump Shot,1,3,370
+0041900402,547,PT09M23.00S,4,1610612748,MIA,202710,Butler III,J. Butler III,-6,7,1,Made,1,111,101,212,v,Butler 1' Driving Dunk (23 PTS),Made Shot,Driving Dunk Shot,1,2,371
+0041900402,548,PT09M00.00S,4,1610612747,LAL,1628398,Kuzma,K. Kuzma,147,-6,15,Missed,1,,,0,h,MISS Kuzma 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,372
+0041900402,549,PT09M00.00S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,0,0,373
+0041900402,550,PT09M00.00S,4,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler L.B.FOUL (P2.T1) (J.Capers),Foul,Loose Ball,1,0,374
+0041900402,552,PT09M00.00S,4,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,SUB: Caruso FOR Kuzma,Substitution,,0,0,375
+0041900402,553,PT09M00.00S,4,1610612747,LAL,2747,Smith,J. Smith,0,0,0,,0,,,0,h,SUB: Davis FOR Smith,Substitution,,0,0,376
+0041900402,556,PT09M00.00S,4,1610612748,MIA,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,v,SUB: Crowder FOR Iguodala,Substitution,,0,0,377
+0041900402,558,PT08M50.00S,4,1610612747,LAL,201980,Green,D. Green,-189,162,25,Missed,1,,,0,h,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,378
+0041900402,559,PT08M49.00S,4,1610612747,LAL,201980,Green,D. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,379
+0041900402,560,PT08M45.00S,4,1610612747,LAL,201980,Green,D. Green,-178,193,26,Missed,1,,,0,h,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,380
+0041900402,561,PT08M45.00S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,381
+0041900402,562,PT08M38.00S,4,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0,382
+0041900402,562,PT08M38.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James STEAL (1 STL),,,1,0,383
+0041900402,564,PT08M31.00S,4,1610612748,MIA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,v,Olynyk P.FOUL (P4.T2) (D.Guthrie),Foul,Personal,1,0,384
+0041900402,566,PT08M25.00S,4,1610612747,LAL,1627936,Caruso,A. Caruso,-21,17,3,Missed,1,,,0,h,MISS Caruso 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,385
+0041900402,567,PT08M24.00S,4,1610612748,MIA,203109,Crowder,J. Crowder,0,0,0,,0,,,0,v,Crowder REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,386
+0041900402,568,PT08M18.00S,4,1610612748,MIA,203482,Olynyk,K. Olynyk,127,227,26,Missed,1,,,0,v,MISS Olynyk 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,387
+0041900402,569,PT08M17.00S,4,1610612747,LAL,202693,Morris,M. Morris,0,0,0,,0,,,0,h,Morris REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,388
+0041900402,570,PT08M00.00S,4,1610612747,LAL,1627936,Caruso,A. Caruso,-62,247,25,Missed,1,,,0,h,MISS Caruso 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,389
+0041900402,571,PT07M57.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:6 Def:4),Rebound,Unknown,1,0,390
+0041900402,572,PT07M54.00S,4,1610612747,LAL,201980,Green,D. Green,-179,184,26,Missed,1,,,0,h,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,391
+0041900402,573,PT07M53.00S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,392
+0041900402,574,PT07M49.00S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,393
+0041900402,575,PT07M35.00S,4,1610612748,MIA,202710,Butler III,J. Butler III,144,139,20,Missed,1,,,0,v,MISS Butler 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,394
+0041900402,576,PT07M34.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:6 Def:5),Rebound,Unknown,1,0,395
+0041900402,577,PT07M20.00S,4,1610612747,LAL,203076,Davis,A. Davis,24,-1,2,Missed,1,,,0,h,MISS Davis 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,396
+0041900402,577,PT07M20.00S,4,1610612748,MIA,1629134,Nunn,K. Nunn,0,0,0,,0,,,0,v,Nunn BLOCK (1 BLK),,,1,2,397
+0041900402,579,PT07M19.00S,4,1610612748,MIA,1629134,Nunn,K. Nunn,0,0,0,,0,,,0,v,Nunn REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,398
+0041900402,580,PT07M02.00S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro Offensive Charge Foul (P3.T3) (D.Guthrie),Foul,Offensive Charge,1,0,399
+0041900402,582,PT07M02.00S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,1,0,400
+0041900402,583,PT06M41.00S,4,1610612747,LAL,2544,James,L. James,230,53,24,Missed,1,,,0,h,MISS James 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,401
+0041900402,584,PT06M40.00S,4,1610612748,MIA,203109,Crowder,J. Crowder,0,0,0,,0,,,0,v,Crowder REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,402
+0041900402,585,PT06M21.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis P.FOUL (P4.T4) (J.Capers),Foul,Personal,1,0,403
+0041900402,587,PT06M21.00S,4,1610612747,LAL,201980,Green,D. Green,0,0,0,,0,,,0,h,SUB: Caldwell-Pope FOR Green,Substitution,,0,0,404
+0041900402,588,PT06M21.00S,4,1610612748,MIA,203109,Crowder,J. Crowder,0,0,0,,0,,,0,v,SUB: Iguodala FOR Crowder,Substitution,,0,0,405
+0041900402,591,PT06M16.00S,4,1610612748,MIA,203482,Olynyk,K. Olynyk,138,214,25,Missed,1,,,0,v,MISS Olynyk 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,406
+0041900402,592,PT06M15.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:6 Def:6),Rebound,Unknown,1,0,407
+0041900402,593,PT06M01.00S,4,1610612747,LAL,2544,James,L. James,23,14,3,Missed,1,,,0,h,MISS James 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,408
+0041900402,594,PT06M00.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:7 Def:6),Rebound,Unknown,1,0,409
+0041900402,595,PT05M59.00S,4,1610612747,LAL,203076,Davis,A. Davis,12,17,2,Missed,1,,,0,h,MISS Davis 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,410
+0041900402,596,PT05M58.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,411
+0041900402,597,PT05M58.00S,4,1610612747,LAL,2544,James,L. James,0,-6,1,Made,1,113,101,214,h,James 1' Tip Layup Shot (27 PTS),Made Shot,Tip Layup Shot,1,2,412
+0041900402,598,PT05M40.00S,4,1610612748,MIA,203482,Olynyk,K. Olynyk,6,15,2,Made,1,113,103,216,v,Olynyk 2' Cutting Finger Roll Layup Shot (18 PTS) (Butler 12 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,413
+0041900402,600,PT05M20.00S,4,1610612747,LAL,2544,James,L. James,8,5,1,Made,1,115,103,218,h,James 1' Layup (29 PTS) (Caldwell-Pope 4 AST),Made Shot,Layup Shot,1,2,414
+0041900402,602,PT05M09.00S,4,1610612747,LAL,202693,Morris,M. Morris,0,0,0,,0,,,0,h,Morris P.FOUL (P3.PN) (D.Guthrie),Foul,Personal,1,0,415
+0041900402,604,PT05M09.00S,4,1610612748,MIA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,v,MISS Olynyk Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,416
+0041900402,605,PT05M09.00S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Normal Rebound,0,0,417
+0041900402,606,PT05M09.00S,4,1610612748,MIA,203482,Olynyk,K. Olynyk,0,0,0,,0,115,104,219,v,Olynyk Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,418
+0041900402,608,PT04M55.00S,4,1610612747,LAL,202693,Morris,M. Morris,0,0,0,,0,,,0,h,SUB: Rondo FOR Morris,Substitution,,0,0,419
+0041900402,610,PT04M45.00S,4,1610612747,LAL,2544,James,L. James,7,208,21,Missed,1,,,0,h,MISS James 21' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,420
+0041900402,611,PT04M44.00S,4,1610612748,MIA,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,v,Iguodala REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,421
+0041900402,612,PT04M37.00S,4,1610612748,MIA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,v,Olynyk Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0,422
+0041900402,612,PT04M37.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis STEAL (1 STL),,,1,0,423
+0041900402,614,PT04M36.00S,4,1610612748,MIA,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,v,Iguodala P.FOUL (P2.T4) (E.Lewis),Foul,Personal,1,0,424
+0041900402,616,PT04M36.00S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,425
+0041900402,617,PT04M18.00S,4,1610612747,LAL,200765,Rondo,R. Rondo,103,0,10,Missed,1,,,0,h,MISS Rondo 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,426
+0041900402,618,PT04M17.00S,4,1610612748,MIA,1629134,Nunn,K. Nunn,0,0,0,,0,,,0,v,Nunn REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,427
+0041900402,619,PT03M52.00S,4,1610612748,MIA,202710,Butler III,J. Butler III,135,235,27,Missed,1,,,0,v,MISS Butler 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,428
+0041900402,620,PT03M51.00S,4,1610612747,LAL,200765,Rondo,R. Rondo,0,0,0,,0,,,0,h,Rondo REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,429
+0041900402,621,PT03M44.00S,4,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,-119,226,26,Missed,1,,,0,h,MISS Caldwell-Pope 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,430
+0041900402,622,PT03M43.00S,4,1610612748,MIA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,v,Olynyk REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,431
+0041900402,623,PT03M20.00S,4,1610612748,MIA,203482,Olynyk,K. Olynyk,53,190,20,Missed,1,,,0,v,MISS Olynyk 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,432
+0041900402,624,PT03M19.00S,4,1610612747,LAL,200765,Rondo,R. Rondo,0,0,0,,0,,,0,h,Rondo REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,433
+0041900402,626,PT03M12.00S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,434
+0041900402,627,PT03M02.00S,4,1610612747,LAL,2544,James,L. James,-44,109,12,Made,1,117,104,221,h,James 12' Turnaround Fadeaway (31 PTS) (Rondo 8 AST),Made Shot,Turnaround Fadeaway shot,1,2,435
+0041900402,629,PT02M43.00S,4,1610612748,MIA,202710,Butler III,J. Butler III,14,7,2,Missed,1,,,0,v,MISS Butler 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,436
+0041900402,630,PT02M42.00S,4,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,437
+0041900402,631,PT02M42.00S,4,1610612748,MIA,202710,Butler III,J. Butler III,0,-6,1,Made,1,117,106,223,v,Butler 1' Tip Layup Shot (25 PTS),Made Shot,Tip Layup Shot,1,2,438
+0041900402,632,PT02M29.00S,4,1610612748,MIA,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,v,Iguodala Violation:Kicked Ball (J.Capers),Violation,Kicked Ball,0,0,439
+0041900402,633,PT02M15.00S,4,1610612747,LAL,2544,James,L. James,-194,-11,19,Missed,1,,,0,h,MISS James 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,440
+0041900402,634,PT02M14.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:8 Def:6),Rebound,Unknown,1,0,441
+0041900402,635,PT02M14.00S,4,1610612748,MIA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,v,Olynyk P.FOUL (P5.PN) (D.Guthrie),Foul,Personal,1,0,442
+0041900402,637,PT02M06.00S,4,1610612747,LAL,203076,Davis,A. Davis,174,14,17,Missed,1,,,0,h,MISS Davis 17' Jump Shot,Missed Shot,Jump Shot,1,2,443
+0041900402,638,PT02M05.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,444
+0041900402,639,PT01M59.00S,4,1610612747,LAL,203076,Davis,A. Davis,-5,14,1,Made,1,119,106,225,h,Davis 1' Cutting Dunk Shot (32 PTS) (Caruso 2 AST),Made Shot,Cutting Dunk Shot,1,2,445
+0041900402,641,PT01M45.00S,4,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope S.FOUL (P2.PN) (D.Guthrie),Foul,Shooting,1,0,446
+0041900402,643,PT01M45.00S,4,1610612748,MIA,203482,Olynyk,K. Olynyk,0,0,0,,0,119,107,226,v,Olynyk Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,447
+0041900402,644,PT01M45.00S,4,1610612748,MIA,1629134,Nunn,K. Nunn,0,0,0,,0,,,0,v,SUB: Crowder FOR Nunn,Substitution,,0,0,448
+0041900402,646,PT01M45.00S,4,1610612748,MIA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,v,MISS Olynyk Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,449
+0041900402,647,PT01M45.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,James REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,450
+0041900402,648,PT01M28.00S,4,1610612747,LAL,2544,James,L. James,-13,56,6,Made,1,121,107,228,h,James 6' Finger Roll Layup (33 PTS) (Rondo 9 AST),Made Shot,Finger Roll Layup Shot,1,2,451
+0041900402,650,PT01M14.00S,4,1610612748,MIA,2738,Iguodala,A. Iguodala,225,-5,0,Made,1,121,110,231,v,Iguodala 3PT Jump Shot (7 PTS) (Butler 13 AST),Made Shot,Jump Shot,1,3,452
+0041900402,652,PT00M53.30S,4,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,-233,-2,0,Made,1,124,110,234,h,Caldwell-Pope 3PT Jump Shot (11 PTS) (Rondo 10 AST),Made Shot,Jump Shot,1,3,453
+0041900402,654,PT00M43.00S,4,1610612748,MIA,203482,Olynyk,K. Olynyk,-27,17,3,Made,1,124,112,236,v,Olynyk 3' Layup (22 PTS) (Crowder 2 AST),Made Shot,Layup Shot,1,2,454
+0041900402,656,PT00M23.90S,4,1610612747,LAL,2544,James,L. James,-19,3,2,Missed,1,,,0,h,MISS James 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,455
+0041900402,657,PT00M22.50S,4,1610612748,MIA,203482,Olynyk,K. Olynyk,0,0,0,,0,,,0,v,Olynyk REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,456
+0041900402,658,PT00M15.70S,4,1610612748,MIA,203482,Olynyk,K. Olynyk,5,21,2,Made,1,124,114,238,v,Olynyk 2' Driving Finger Roll Layup (24 PTS) (Herro 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,457
+0041900402,660,PT00M00.00S,4,0,,0,,,0,0,0,,0,124,114,238,,End of 4th Period (11:33 PM EST),period,end,1,0,458

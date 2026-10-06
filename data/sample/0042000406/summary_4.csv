@@ -1,0 +1,3 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,teamWins,teamLosses,period1Score,period2Score,period3Score,period4Score,score
+0042000406,1610612749,Milwaukee,Bucks,MIL,bucks,4,2,29,13,35,28,105
+0042000406,1610612756,Phoenix,Suns,PHX,suns,2,4,16,31,30,21,98

@@ -1,0 +1,2 @@
+gameId,gameCode,gameStatus,gameStatusText,period,gameClock,gameTimeUTC,gameEt,awayTeamId,homeTeamId,duration,attendance,sellout
+0042000402,20210708/MILPHX,3,Final,4,PT00M00.00S,2021-07-09T01:00:00Z,2021-07-08T21:00:00Z,1610612749,1610612756,2:22,16583,1

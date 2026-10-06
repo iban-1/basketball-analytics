@@ -1,0 +1,31 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,personId,firstName,familyName,nameI,playerSlug,position,comment,jerseyNum,minutes,fieldGoalsMade,fieldGoalsAttempted,fieldGoalsPercentage,threePointersMade,threePointersAttempted,threePointersPercentage,freeThrowsMade,freeThrowsAttempted,freeThrowsPercentage,reboundsOffensive,reboundsDefensive,reboundsTotal,assists,steals,blocks,turnovers,foulsPersonal,points,plusMinusPoints
+0042000406,1610612749,Milwaukee,Bucks,MIL,bucks,200782,P.J.,Tucker,P. Tucker,pj-tucker,F,,,36:27,0,1,0.0,0,1,0.0,0,0,0.0,2,4,6,1,1,0,1,2,0,13.0
+0042000406,1610612749,Milwaukee,Bucks,MIL,bucks,203507,Giannis,Antetokounmpo,G. Antetokounmpo,giannis-antetokounmpo,F,,,42:27,16,25,0.64,1,3,0.333,17,19,0.895,4,10,14,2,0,5,6,2,50,10.0
+0042000406,1610612749,Milwaukee,Bucks,MIL,bucks,201572,Brook,Lopez,B. Lopez,brook-lopez,C,,,26:45,5,10,0.5,0,3,0.0,0,0,0.0,2,6,8,0,1,0,1,2,10,9.0
+0042000406,1610612749,Milwaukee,Bucks,MIL,bucks,203114,Khris,Middleton,K. Middleton,khris-middleton,G,,,40:38,6,13,0.462,1,4,0.25,4,4,1.0,0,5,5,5,4,0,5,3,17,11.0
+0042000406,1610612749,Milwaukee,Bucks,MIL,bucks,201950,Jrue,Holiday,J. Holiday,jrue-holiday,G,,,46:17,4,19,0.211,2,7,0.286,2,2,1.0,1,8,9,11,4,0,3,1,12,12.0
+0042000406,1610612749,Milwaukee,Bucks,MIL,bucks,1626192,Pat,Connaughton,P. Connaughton,pat-connaughton,,,,22:56,0,4,0.0,0,4,0.0,0,2,0.0,2,6,8,1,0,0,2,2,0,-21.0
+0042000406,1610612749,Milwaukee,Bucks,MIL,bucks,1626171,Bobby,Portis,B. Portis,bobby-portis,,,,22:47,6,10,0.6,2,5,0.4,2,2,1.0,0,3,3,0,0,1,0,5,16,6.0
+0042000406,1610612749,Milwaukee,Bucks,MIL,bucks,201952,Jeff,Teague,J. Teague,jeff-teague,,,,1:43,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-5.0
+0042000406,1610612749,Milwaukee,Bucks,MIL,bucks,1629091,Elijah,Bryant,E. Bryant,elijah-bryant,,DNP - Coach's Decision,,,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0.0
+0042000406,1610612749,Milwaukee,Bucks,MIL,bucks,1629603,Mamadi,Diakite,M. Diakite,mamadi-diakite,,DNP - Coach's Decision,,,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0.0
+0042000406,1610612749,Milwaukee,Bucks,MIL,bucks,1627854,Bryn,Forbes,B. Forbes,bryn-forbes,,DNP - Coach's Decision,,,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0.0
+0042000406,1610612749,Milwaukee,Bucks,MIL,bucks,1628382,Justin,Jackson,J. Jackson,justin-jackson,,DNP - Coach's Decision,,,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0.0
+0042000406,1610612749,Milwaukee,Bucks,MIL,bucks,1630241,Sam,Merrill,S. Merrill,sam-merrill,,DNP - Coach's Decision,,,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0.0
+0042000406,1610612749,Milwaukee,Bucks,MIL,bucks,1629670,Jordan,Nwora,J. Nwora,jordan-nwora,,DNP - Coach's Decision,,,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0.0
+0042000406,1610612749,Milwaukee,Bucks,MIL,bucks,1626253,Axel,Toupane,A. Toupane,axel-toupane,,DNP - Coach's Decision,,,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0.0
+0042000406,1610612756,Phoenix,Suns,PHX,suns,1628969,Mikal,Bridges,M. Bridges,mikal-bridges,F,,,39:28,3,7,0.429,0,1,0.0,1,2,0.5,1,5,6,2,2,0,0,4,7,-18.0
+0042000406,1610612756,Phoenix,Suns,PHX,suns,203109,Jae,Crowder,J. Crowder,jae-crowder,F,,,40:33,4,11,0.364,2,9,0.222,5,5,1.0,2,11,13,0,4,1,2,3,15,4.0
+0042000406,1610612756,Phoenix,Suns,PHX,suns,1629028,Deandre,Ayton,D. Ayton,deandre-ayton,C,,,36:12,4,12,0.333,0,0,0.0,4,5,0.8,1,5,6,1,2,2,2,5,12,-7.0
+0042000406,1610612756,Phoenix,Suns,PHX,suns,1626164,Devin,Booker,D. Booker,devin-booker,G,,,46:15,8,22,0.364,0,7,0.0,3,3,1.0,0,3,3,5,0,0,6,4,19,-15.0
+0042000406,1610612756,Phoenix,Suns,PHX,suns,101108,Chris,Paul,C. Paul,chris-paul,G,,,39:13,11,19,0.579,1,2,0.5,3,4,0.75,1,1,2,5,1,0,3,5,26,-8.0
+0042000406,1610612756,Phoenix,Suns,PHX,suns,1629661,Cameron,Johnson,C. Johnson,cameron-johnson,,,,16:04,1,5,0.2,1,4,0.25,0,0,0.0,0,3,3,0,1,1,0,0,3,0.0
+0042000406,1610612756,Phoenix,Suns,PHX,suns,1626163,Frank,Kaminsky,F. Kaminsky,frank-kaminsky,,,,10:60,3,4,0.75,0,0,0.0,0,0,0.0,1,1,2,1,1,0,0,0,6,0.0
+0042000406,1610612756,Phoenix,Suns,PHX,suns,1626166,Cameron,Payne,C. Payne,cameron-payne,,,,10:27,4,6,0.667,2,2,1.0,0,0,0.0,0,2,2,0,0,0,1,0,10,9.0
+0042000406,1610612756,Phoenix,Suns,PHX,suns,1628470,Torrey,Craig,T. Craig,torrey-craig,,,,0:49,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0.0
+0042000406,1610612756,Phoenix,Suns,PHX,suns,1630234,Ty-Shon,Alexander,T. Alexander,ty-shon-alexander,,DNP - Coach's Decision,,,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0.0
+0042000406,1610612756,Phoenix,Suns,PHX,suns,1628975,Jevon,Carter,J. Carter,jevon-carter,,DNP - Coach's Decision,,,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0.0
+0042000406,1610612756,Phoenix,Suns,PHX,suns,204038,Langston,Galloway,L. Galloway,langston-galloway,,DNP - Coach's Decision,,,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0.0
+0042000406,1610612756,Phoenix,Suns,PHX,suns,202734,E'Twaun,Moore,E. Moore,etwaun-moore,,DNP - Coach's Decision,,,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0.0
+0042000406,1610612756,Phoenix,Suns,PHX,suns,1627846,Abdel,Nader,A. Nader,abdel-nader,,DNP - Coach's Decision,,,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0.0
+0042000406,1610612756,Phoenix,Suns,PHX,suns,1630188,Jalen,Smith,J. Smith,jalen-smith,,DNP - Coach's Decision,,,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0.0

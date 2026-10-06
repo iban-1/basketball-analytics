@@ -1,0 +1,27 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,personId,firstName,familyName,nameI,playerSlug,position,comment,jerseyNum,minutes,fieldGoalsMade,fieldGoalsAttempted,fieldGoalsPercentage,threePointersMade,threePointersAttempted,threePointersPercentage,freeThrowsMade,freeThrowsAttempted,freeThrowsPercentage,reboundsOffensive,reboundsDefensive,reboundsTotal,assists,steals,blocks,turnovers,foulsPersonal,points,plusMinusPoints
+0041500407,1610612744,Golden State,Warriors,GSW,warriors,203084,Harrison,Barnes,H. Barnes,harrison-barnes,G,,,29:24,3,10,0.3,2,4,0.5,2,2,1.0,0,2,2,1,1,0,0,4,10,-6.0
+0041500407,1610612744,Golden State,Warriors,GSW,warriors,203110,Draymond,Green,D. Green,draymond-green,G,,,46:54,11,15,0.733,6,8,0.75,4,4,1.0,1,14,15,9,2,0,2,3,32,-1.0
+0041500407,1610612744,Golden State,Warriors,GSW,warriors,203105,Festus,Ezeli,F. Ezeli,festus-ezeli,C,,,10:45,0,4,0.0,0,0,0.0,0,0,0.0,0,1,1,1,0,0,0,2,0,-9.0
+0041500407,1610612744,Golden State,Warriors,GSW,warriors,202691,Klay,Thompson,K. Thompson,klay-thompson,G,,,42:17,6,17,0.353,2,10,0.2,0,0,0.0,1,1,2,2,1,0,3,2,14,-11.0
+0041500407,1610612744,Golden State,Warriors,GSW,warriors,201939,Stephen,Curry,S. Curry,stephen-curry,G,,,39:16,6,19,0.316,4,14,0.286,1,1,1.0,0,5,5,2,1,1,4,4,17,-3.0
+0041500407,1610612744,Golden State,Warriors,GSW,warriors,2738,Andre,Iguodala,A. Iguodala,andre-iguodala,G,,,37:53,2,6,0.333,0,3,0.0,0,2,0.0,2,7,9,4,2,2,0,3,4,3.0
+0041500407,1610612744,Golden State,Warriors,GSW,warriors,2760,Anderson,Varejao,A. Varejao,anderson-varejao,,,,8:29,0,1,0.0,0,0,0.0,1,2,0.5,0,0,0,1,0,0,0,3,1,-9.0
+0041500407,1610612744,Golden State,Warriors,GSW,warriors,2733,Shaun,Livingston,S. Livingston,shaun-livingston,G,,,16:04,3,7,0.429,0,0,0.0,2,2,1.0,1,0,1,2,0,0,1,1,8,8.0
+0041500407,1610612744,Golden State,Warriors,GSW,warriors,2571,Leandro,Barbosa,L. Barbosa,leandro-barbosa,,,,4:24,1,2,0.5,1,1,1.0,0,0,0.0,0,0,0,0,0,0,0,1,3,5.0
+0041500407,1610612744,Golden State,Warriors,GSW,warriors,201578,Marreese,Speights,M. Speights,marreese-speights,F,,,4:34,0,2,0.0,0,1,0.0,0,0,0.0,2,2,4,0,0,2,0,0,0,3.0
+0041500407,1610612744,Golden State,Warriors,GSW,warriors,203546,Ian,Clark,I. Clark,ian-clark,,DNP - Coach's Decision,,,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0.0
+0041500407,1610612744,Golden State,Warriors,GSW,warriors,203949,James Michael,McAdoo,J. McAdoo,james-michael-mcadoo,,DNP - Coach's Decision,,,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0.0
+0041500407,1610612744,Golden State,Warriors,GSW,warriors,201575,Brandon,Rush,B. Rush,brandon-rush,,DNP - Coach's Decision,,,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0.0
+0041500407,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2544,LeBron,James,L. James,lebron-james,F,,,46:49,9,24,0.375,1,5,0.2,8,10,0.8,1,10,11,11,2,3,5,1,27,4.0
+0041500407,1610612739,Cleveland,Cavaliers,CLE,cavaliers,201567,Kevin,Love,K. Love,kevin-love,G,,,30:02,3,9,0.333,0,3,0.0,3,4,0.75,4,10,14,3,2,0,1,2,9,19.0
+0041500407,1610612739,Cleveland,Cavaliers,CLE,cavaliers,202684,Tristan,Thompson,T. Thompson,tristan-thompson,G,,,31:49,3,3,1.0,0,0,0.0,3,4,0.75,0,3,3,0,0,2,0,4,9,2.0
+0041500407,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2747,JR,Smith,J. Smith,jr-smith,G,,,38:55,5,13,0.385,2,8,0.25,0,0,0.0,0,4,4,2,1,0,2,3,12,7.0
+0041500407,1610612739,Cleveland,Cavaliers,CLE,cavaliers,202681,Kyrie,Irving,K. Irving,kyrie-irving,G,,,43:00,10,23,0.435,2,5,0.4,4,4,1.0,3,3,6,1,1,1,2,3,26,10.0
+0041500407,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2210,Richard,Jefferson,R. Jefferson,richard-jefferson,F,,,25:30,1,4,0.25,0,0,0.0,0,0,0.0,1,8,9,0,1,0,0,1,2,-8.0
+0041500407,1610612739,Cleveland,Cavaliers,CLE,cavaliers,202697,Iman,Shumpert,I. Shumpert,iman-shumpert,C,,,19:10,1,3,0.333,1,3,0.333,3,3,1.0,0,1,1,0,0,0,0,0,6,-9.0
+0041500407,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2590,Mo,Williams,M. Williams,mo-williams,G,,,4:45,1,3,0.333,0,1,0.0,0,0,0.0,0,0,0,0,0,0,1,1,2,-5.0
+0041500407,1610612739,Cleveland,Cavaliers,CLE,cavaliers,203521,Matthew,Dellavedova,M. Dellavedova,matthew-dellavedova,,DNP - Coach's Decision,,,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0.0
+0041500407,1610612739,Cleveland,Cavaliers,CLE,cavaliers,101112,Channing,Frye,C. Frye,channing-frye,,DNP - Coach's Decision,,,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0.0
+0041500407,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2563,Dahntay,Jones,D. Jones,dahntay-jones,,DNP - Coach's Decision,,,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0.0
+0041500407,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2592,James,Jones,J. Jones,james-jones,,DNP - Coach's Decision,,,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0.0
+0041500407,1610612739,Cleveland,Cavaliers,CLE,cavaliers,202389,Timofey,Mozgov,T. Mozgov,timofey-mozgov,,DNP - Coach's Decision,,,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0.0

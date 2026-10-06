@@ -1,0 +1,5 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,minutes,fieldGoalsMade,fieldGoalsAttempted,fieldGoalsPercentage,threePointersMade,threePointersAttempted,threePointersPercentage,freeThrowsMade,freeThrowsAttempted,freeThrowsPercentage,reboundsOffensive,reboundsDefensive,reboundsTotal,assists,steals,blocks,turnovers,foulsPersonal,points,startersBench
+0042000402,1610612756,Phoenix,Suns,PHX,suns,202:32,38,78,0.487,16,31,0.516,10,12,0.833,10,27,37,22,6,2,10,16,102,Starters
+0042000402,1610612756,Phoenix,Suns,PHX,suns,202:32,5,10,0.5,4,9,0.444,2,2,1.0,1,5,6,4,1,0,2,3,16,Bench
+0042000402,1610612749,Milwaukee,Bucks,MIL,bucks,183:46,34,74,0.459,4,17,0.235,13,21,0.619,13,24,37,20,7,7,7,14,85,Starters
+0042000402,1610612749,Milwaukee,Bucks,MIL,bucks,183:46,8,19,0.421,5,14,0.357,2,2,1.0,5,4,9,1,1,0,2,3,23,Bench

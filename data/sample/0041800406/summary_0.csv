@@ -1,0 +1,2 @@
+gameId,gameCode,gameStatus,gameStatusText,period,gameClock,gameTimeUTC,gameEt,awayTeamId,homeTeamId,duration,attendance,sellout
+0041800406,20190613/TORGSW,3,Final,4,PT00M00.00S,2019-06-14T01:00:00Z,2019-06-13T21:00:00Z,1610612761,1610612744,2:43,19596,1

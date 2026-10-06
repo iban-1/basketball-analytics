@@ -12,7 +12,8 @@ import pandas as pd  # noqa: E402
 import streamlit as st  # noqa: E402
 
 from src.bball.config import load_config, resolve  # noqa: E402
-from src.bball.nba_stats import list_games, load_game_tables  # noqa: E402
+from src.bball.nba_stats import (list_games, load_game_tables, load_sample_tables, nba_reachable,  # noqa: E402
+                                 sample_games, season_list_cached)
 from src.bball.tables import build_tabs, did_not_play, game_info, team_summary  # noqa: E402
 
 RESULTS = resolve(load_config()["paths"]["results"])
@@ -84,11 +85,18 @@ def select_game():
                              on_change=lambda: ss.__setitem__("sel_game", ss[f"w_game_{season}"]))
     ss["sel_game"] = label
     game = games[games["label"] == label].iloc[0]
-    st.caption(f"Game ID {game['game_id']}. {len(games)} playoff games in this season. "
-               "The first time you open a game it is downloaded from NBA.com; after that it "
-               "loads instantly.")
+    sample = bool(game.get("sample", False))
+    if sample:
+        st.info("**Demo sample.** NBA.com does not answer requests from this server (it often blocks public "
+                "cloud hosts), so this site is showing a bundled sample: every NBA Finals game from 2016 to "
+                "2022. Run the project on your own computer to browse all 584 playoff games live; the README "
+                "has the three commands.")
+    else:
+        st.caption(f"Game ID {game['game_id']}. {len(games)} playoff games in this season. "
+                   "The first time you open a game it is downloaded from NBA.com; after that it "
+                   "loads instantly.")
     try:
-        bundle = game_bundle(game["game_id"])
+        bundle = game_bundle(game["game_id"], sample)
     except Exception as exc:
         nba_unreachable("this game", exc)
     return game, bundle
@@ -97,19 +105,31 @@ def select_game():
 def nba_attribution() -> None:
     st.divider()
     st.caption("Game statistics: **NBA.com** (stats.nba.com), fetched with the free `nba_api` "
-               "package. The data belongs to NBA.com and is covered by NBA.com's Terms of Use; "
-               "it is downloaded to your computer when you open a game and is not part of the "
-               "project's repository. This project is not affiliated with or endorsed by the NBA.")
+               "package. The data belongs to NBA.com and is covered by NBA.com's Terms of Use; it is "
+               "downloaded to your computer when you open a game. The repository bundles only a small demo "
+               "sample (the Finals games of 2016-2022), shown when NBA.com cannot be reached. This project is "
+               "not affiliated with or endorsed by the NBA.")
 
 
-@st.cache_data(show_spinner="Loading the list of games…")
+@st.cache_resource(ttl=600, show_spinner="Checking whether NBA.com answers…")
+def nba_live() -> bool:
+    """Does NBA.com answer? Checked once per 10 minutes, so a blocked server pays the wait only once."""
+    return nba_reachable()
+
+
+@st.cache_data(ttl=600, show_spinner="Loading the list of games…")
 def games_for(season: str) -> pd.DataFrame:
-    return list_games(season, "Playoffs")
+    """Live (or locally cached) game list; the bundled Finals sample when NBA.com is not reachable."""
+    if season_list_cached(season) or nba_live():
+        return list_games(season, "Playoffs").assign(sample=False)
+    sample = sample_games(season)
+    if sample.empty:
+        raise RuntimeError("NBA.com did not answer and there is no bundled sample for this season")
+    return sample.assign(sample=True)
 
 
-@st.cache_data(show_spinner="Fetching this game from NBA.com (first time takes ~10 s)…",
-               max_entries=20)
-def game_bundle(game_id: str) -> dict:
-    tables = load_game_tables(game_id)
+@st.cache_data(show_spinner="Loading this game…", max_entries=20)
+def game_bundle(game_id: str, sample: bool = False) -> dict:
+    tables = load_sample_tables(game_id) if sample else load_game_tables(game_id)
     return {"tabs": build_tabs(tables), "summary": team_summary(tables),
             "info": game_info(tables), "dnp": did_not_play(tables), "tables": tables}

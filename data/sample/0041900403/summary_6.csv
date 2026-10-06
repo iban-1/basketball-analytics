@@ -1,0 +1,6 @@
+recencyOrder,gameId,gameTimeUTC,gameEt,gameStatus,gameStatusText,awayTeamId,awayTeamCity,awayTeamName,awayTeamTricode,awayTeamScore,awayTeamWins,awayTeamLosses,homeTeamId,homeTeamCity,homeTeamName,homeTeamTricode,homeTeamScore,homeTeamWins,homeTeamLosses
+1,0041900402,2020-10-03T01:00:00Z,2020-10-02T21:00:00Z,3,Final,1610612748,Miami,Heat,MIA,114,0,2,1610612747,Los Angeles,Lakers,LAL,124,2,0
+2,0041900401,2020-10-01T01:00:00Z,2020-09-30T21:00:00Z,3,Final,1610612748,Miami,Heat,MIA,98,0,1,1610612747,Los Angeles,Lakers,LAL,116,1,0
+3,0021900374,2019-12-14T00:00:00Z,2019-12-13T19:00:00Z,3,Final,1610612747,Los Angeles,Lakers,LAL,113,23,3,1610612748,Miami,Heat,MIA,110,18,7
+4,0021900126,2019-11-09T03:30:00Z,2019-11-08T22:30:00Z,3,Final,1610612748,Miami,Heat,MIA,80,6,3,1610612747,Los Angeles,Lakers,LAL,95,7,1
+5,0021800401,2018-12-11T03:30:00Z,2018-12-10T22:30:00Z,3,Final,1610612748,Miami,Heat,MIA,105,11,15,1610612747,Los Angeles,Lakers,LAL,108,17,10

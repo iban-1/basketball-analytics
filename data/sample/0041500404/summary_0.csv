@@ -1,0 +1,2 @@
+gameId,gameCode,gameStatus,gameStatusText,period,gameClock,gameTimeUTC,gameEt,awayTeamId,homeTeamId,duration,attendance,sellout
+0041500404,20160610/GSWCLE,3,Final,4,PT00M00.00S,2016-06-11T01:00:00Z,2016-06-10T21:00:00Z,1610612744,1610612739,2:40,20562,1

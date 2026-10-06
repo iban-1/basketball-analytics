@@ -1,0 +1,3 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,minutes,speed,distance,reboundChancesOffensive,reboundChancesDefensive,reboundChancesTotal,touches,secondaryAssists,freeThrowAssists,passes,assists,contestedFieldGoalsMade,contestedFieldGoalsAttempted,contestedFieldGoalPercentage,uncontestedFieldGoalsMade,uncontestedFieldGoalsAttempted,uncontestedFieldGoalsPercentage,fieldGoalPercentage,defendedAtRimFieldGoalsMade,defendedAtRimFieldGoalsAttempted,defendedAtRimFieldGoalPercentage
+0041800402,1610612761,Toronto,Raptors,TOR,raptors,240:00,,18.13,31,53,81,464,4,2,330,17,17,44,0.386,18,49,0.367,0.372,16,23,0.696
+0041800402,1610612744,Golden State,Warriors,GSW,warriors,240:00,,17.73,11,58,69,458,8,1,338,34,18,34,0.529,20,48,0.417,0.463,15,26,0.577

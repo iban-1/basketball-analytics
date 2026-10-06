@@ -1,0 +1,3 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,minutes,pointsOffTurnovers,pointsSecondChance,pointsFastBreak,pointsPaint,oppPointsOffTurnovers,oppPointsSecondChance,oppPointsFastBreak,oppPointsPaint,blocks,blocksAgainst,foulsPersonal,foulsDrawn
+0041800404,1610612744,Golden State,Warriors,GSW,warriors,240:00,10,11,32,36,14,13,19,34,6,4,23,21
+0041800404,1610612761,Toronto,Raptors,TOR,raptors,240:00,14,13,19,34,10,11,32,36,4,6,21,23

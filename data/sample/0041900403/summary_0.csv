@@ -1,0 +1,2 @@
+gameId,gameCode,gameStatus,gameStatusText,period,gameClock,gameTimeUTC,gameEt,awayTeamId,homeTeamId,duration,attendance,sellout
+0041900403,20201004/LALMIA,3,Final,4,PT00M00.00S,2020-10-04T23:30:00Z,2020-10-04T19:30:00Z,1610612747,1610612748,2:27,0,0

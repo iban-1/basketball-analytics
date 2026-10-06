@@ -1,0 +1,509 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0041800402,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:11 PM EST),period,start,0,0,1
+0041800402,4,PT12M00.00S,1,1610612761,TOR,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Jump Ball Gasol vs. Cousins: Tip to Siakam,Jump Ball,,1,0,2
+0041800402,7,PT11M43.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,237,0,24,Missed,1,,,0,h,MISS Lowry 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,3
+0041800402,8,PT11M41.00S,1,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Rebound,Rebound,Unknown,0,0,4
+0041800402,10,PT11M33.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,183,169,25,Missed,1,,,0,h,MISS Siakam 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,5
+0041800402,11,PT11M30.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+0041800402,12,PT11M24.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,144,9,14,Missed,1,,,0,v,MISS Thompson 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,7
+0041800402,13,PT11M21.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,8
+0041800402,15,PT11M09.00S,1,1610612744,GSW,2738,Iguodala,A. Iguodala,-15,101,10,Missed,1,,,0,v,MISS Iguodala 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,9
+0041800402,16,PT11M06.00S,1,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,10
+0041800402,17,PT10M58.00S,1,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,,,0,v,Cousins P.FOUL (P1.T1) (T.Brothers),Foul,Personal,1,0,11
+0041800402,19,PT10M49.00S,1,1610612761,TOR,202695,Leonard,K. Leonard,-139,134,19,Made,1,2,0,2,h,Leonard 19' Jump Shot (2 PTS),Made Shot,Jump Shot,1,2,12
+0041800402,20,PT10M30.00S,1,1610612744,GSW,201939,Curry,S. Curry,79,250,26,Missed,1,,,0,v,MISS Curry 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,13
+0041800402,21,PT10M28.00S,1,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,,,0,v,Cousins REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,14
+0041800402,22,PT10M21.00S,1,1610612744,GSW,202326,Cousins,D. Cousins,43,53,7,Missed,1,,,0,v,MISS Cousins 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,15
+0041800402,23,PT10M19.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,,,0,h,Siakam REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,16
+0041800402,24,PT10M13.00S,1,1610612761,TOR,201188,Gasol,M. Gasol,-20,248,25,Missed,1,,,0,h,MISS Gasol 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,17
+0041800402,25,PT10M10.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,18
+0041800402,26,PT10M04.00S,1,1610612761,TOR,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol P.FOUL (P1.T1) (E.Malloy),Foul,Personal,1,0,19
+0041800402,28,PT09M54.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,212,147,26,Made,1,2,3,5,v,Thompson 26' 3PT Pullup Jump Shot (3 PTS) (Iguodala 1 AST),Made Shot,Pullup Jump shot,1,3,20
+0041800402,30,PT09M36.00S,1,1610612761,TOR,202695,Leonard,K. Leonard,-119,244,27,Made,1,5,3,8,h,Leonard 27' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,3,21
+0041800402,31,PT09M22.00S,1,1610612744,GSW,203110,Green,D. Green,-82,247,26,Missed,1,,,0,v,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,22
+0041800402,32,PT09M19.00S,1,1610612761,TOR,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,23
+0041800402,33,PT09M15.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,11,50,5,Missed,1,,,0,h,MISS Siakam 5' Running Jump Shot,Missed Shot,Running Jump Shot,1,2,24
+0041800402,34,PT09M15.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,25
+0041800402,35,PT09M06.00S,1,1610612744,GSW,203110,Green,D. Green,30,46,5,Missed,1,,,0,v,MISS Green 5' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,2,26
+0041800402,36,PT09M04.00S,1,1610612761,TOR,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,27
+0041800402,37,PT08M55.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,63,185,20,Missed,1,,,0,h,MISS Lowry 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,28
+0041800402,38,PT08M52.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,29
+0041800402,39,PT08M43.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,-108,136,17,Made,1,5,5,10,v,Thompson 17' Turnaround Jump Shot (5 PTS),Made Shot,Turnaround Jump Shot,1,2,30
+0041800402,40,PT08M29.00S,1,1610612761,TOR,202695,Leonard,K. Leonard,188,191,27,Missed,1,,,0,h,MISS Leonard 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,31
+0041800402,41,PT08M27.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,32
+0041800402,42,PT08M26.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green Traveling Turnover (P1.T1),Turnover,Traveling,1,0,33
+0041800402,43,PT08M18.00S,1,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,,,0,v,Cousins S.FOUL (P2.T2) (E.Malloy),Foul,Shooting,1,0,34
+0041800402,45,PT08M18.00S,1,1610612761,TOR,201188,Gasol,M. Gasol,0,0,0,,0,6,5,11,h,Gasol Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,35
+0041800402,46,PT08M18.00S,1,1610612761,TOR,201188,Gasol,M. Gasol,0,0,0,,0,7,5,12,h,Gasol Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,36
+0041800402,47,PT08M01.00S,1,1610612744,GSW,203110,Green,D. Green,9,75,8,Missed,1,,,0,v,MISS Green 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,37
+0041800402,48,PT07M59.00S,1,1610612761,TOR,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,38
+0041800402,49,PT07M51.00S,1,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard Traveling Turnover (P1.T1),Turnover,Traveling,1,0,39
+0041800402,50,PT07M33.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,228,68,24,Made,1,7,8,15,v,Thompson 24' 3PT Jump Shot (8 PTS) (Green 1 AST),Made Shot,Jump Shot,1,3,40
+0041800402,52,PT07M16.00S,1,1610612761,TOR,201980,Green,D. Green,0,0,0,,0,,,0,h,Green Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,41
+0041800402,52,PT07M16.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,v,Thompson STEAL (1 STL),,,1,0,42
+0041800402,54,PT07M14.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,Lowry S.FOUL (P1.T2) (E.Malloy),Foul,Shooting,1,0,43
+0041800402,56,PT07M14.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,7,9,16,v,Thompson Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,44
+0041800402,57,PT07M14.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,v,MISS Thompson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,45
+0041800402,58,PT07M13.00S,1,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,46
+0041800402,59,PT07M05.00S,1,1610612761,TOR,202695,Leonard,K. Leonard,6,263,26,Missed,1,,,0,h,MISS Leonard 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,47
+0041800402,60,PT07M03.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,48
+0041800402,61,PT06M56.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,,,0,h,Siakam P.FOUL (P1.T3) (T.Brothers),Foul,Personal,1,0,49
+0041800402,63,PT06M56.00S,1,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,50
+0041800402,64,PT06M56.00S,1,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,,,0,v,SUB: Looney FOR Cousins,Substitution,,0,0,51
+0041800402,66,PT06M49.00S,1,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,v,Iguodala Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,52
+0041800402,67,PT06M34.00S,1,1610612761,TOR,201188,Gasol,M. Gasol,49,47,7,Missed,1,,,0,h,MISS Gasol 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,53
+0041800402,68,PT06M32.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,54
+0041800402,69,PT06M27.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,137,141,20,Missed,1,,,0,v,MISS Thompson 20' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,55
+0041800402,70,PT06M24.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,,,0,h,Siakam REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,56
+0041800402,71,PT06M21.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,122,215,25,Made,1,10,9,19,h,Lowry 25' 3PT Running Jump Shot (3 PTS) (Siakam 1 AST),Made Shot,Running Jump Shot,1,3,57
+0041800402,73,PT06M02.00S,1,1610612744,GSW,203110,Green,D. Green,19,1,2,Missed,1,,,0,v,MISS Green 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,58
+0041800402,74,PT06M00.00S,1,1610612761,TOR,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,59
+0041800402,75,PT05M52.00S,1,1610612761,TOR,202695,Leonard,K. Leonard,6,32,3,Missed,1,,,0,h,MISS Leonard 3' Hook Shot,Missed Shot,Hook Shot,1,2,60
+0041800402,76,PT05M49.00S,1,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,61
+0041800402,77,PT05M49.00S,1,1610612761,TOR,202695,Leonard,K. Leonard,0,-6,1,Made,1,12,9,21,h,Leonard 1' Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,1,2,62
+0041800402,78,PT05M31.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,v,Thompson Offensive Charge Foul (P1.T3) (E.Malloy),Foul,Offensive Charge,1,0,63
+0041800402,80,PT05M31.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,v,Thompson Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1,0,64
+0041800402,81,PT05M31.00S,1,1610612761,TOR,201980,Green,D. Green,0,0,0,,0,,,0,h,SUB: VanVleet FOR Green,Substitution,,0,0,65
+0041800402,83,PT05M25.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green P.FOUL (P1.T4) (S.Foster),Foul,Personal,1,0,66
+0041800402,85,PT05M20.00S,1,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney S.FOUL (P1.PN) (E.Malloy),Foul,Shooting,1,0,67
+0041800402,87,PT05M20.00S,1,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,13,9,22,h,Leonard Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,68
+0041800402,88,PT05M20.00S,1,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,14,9,23,h,Leonard Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,69
+0041800402,89,PT05M05.00S,1,1610612744,GSW,203110,Green,D. Green,-8,-2,1,Made,1,14,11,25,v,Green 1' Cutting Dunk Shot (2 PTS) (Curry 1 AST),Made Shot,Cutting Dunk Shot,1,2,70
+0041800402,91,PT04M47.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,-7,10,1,Missed,1,,,0,h,MISS Siakam 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,71
+0041800402,92,PT04M45.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,72
+0041800402,93,PT04M36.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,-195,63,20,Made,1,14,13,27,v,Thompson 20' Jump Shot (11 PTS) (Green 2 AST),Made Shot,Jump Shot,1,2,73
+0041800402,95,PT04M27.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,-19,158,16,Made,1,16,13,29,h,Lowry 16' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,2,74
+0041800402,96,PT04M27.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,v,Thompson S.FOUL (P2.PN) (E.Malloy),Foul,Shooting,1,0,75
+0041800402,98,PT04M27.00S,1,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,76
+0041800402,99,PT04M27.00S,1,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,v,SUB: McKinnie FOR Iguodala,Substitution,,0,0,77
+0041800402,100,PT04M27.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,v,SUB: Livingston FOR Thompson,Substitution,,0,0,78
+0041800402,103,PT04M27.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,17,13,30,h,Lowry Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,79
+0041800402,104,PT04M12.00S,1,1610612744,GSW,1628035,McKinnie,A. McKinnie,0,0,0,,0,,,0,v,McKinnie Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,80
+0041800402,104,PT04M12.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,Lowry STEAL (1 STL),,,1,0,81
+0041800402,106,PT04M07.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,-7,20,2,Made,1,19,13,32,h,Siakam 2' Running Alley Oop Dunk Shot (2 PTS) (VanVleet 1 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,82
+0041800402,108,PT03M59.00S,1,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet S.FOUL (P1.T4) (S.Foster),Foul,Shooting,1,0,83
+0041800402,110,PT03M59.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,19,14,33,v,Curry Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,0,0,84
+0041800402,111,PT03M59.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,MISS Curry Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,0,0,85
+0041800402,112,PT03M59.00S,1,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Normal Rebound,0,0,86
+0041800402,113,PT03M59.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,19,15,34,v,Curry Free Throw 3 of 3 (2 PTS),Free Throw,Free Throw 3 of 3,0,0,87
+0041800402,114,PT03M41.00S,1,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,88
+0041800402,115,PT03M35.00S,1,1610612744,GSW,203110,Green,D. Green,3,1,0,Made,1,19,17,36,v,Green Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,89
+0041800402,117,PT03M20.00S,1,1610612761,TOR,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,SUB: Ibaka FOR Gasol,Substitution,,0,0,90
+0041800402,119,PT03M12.00S,1,1610612761,TOR,202695,Leonard,K. Leonard,-1,168,17,Missed,1,,,0,h,MISS Leonard 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,91
+0041800402,120,PT03M09.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,92
+0041800402,121,PT03M03.00S,1,1610612744,GSW,2733,Livingston,S. Livingston,0,16,2,Made,1,19,19,38,v,Livingston 2' Cutting Dunk Shot (2 PTS) (Green 3 AST),Made Shot,Cutting Dunk Shot,1,2,93
+0041800402,123,PT02M55.00S,1,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,94
+0041800402,124,PT02M50.00S,1,1610612761,TOR,1627832,VanVleet,F. VanVleet,57,270,28,Missed,1,,,0,h,MISS VanVleet 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,95
+0041800402,125,PT02M47.00S,1,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,1,0,96
+0041800402,128,PT02M47.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,,,0,h,Ibaka L.B.FOUL (P1.PN) (S.Foster),Foul,Loose Ball,1,0,97
+0041800402,130,PT02M47.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,19,20,39,v,Green Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,98
+0041800402,131,PT02M47.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,19,21,40,v,Green Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,99
+0041800402,132,PT02M25.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,11,11,2,Missed,1,,,0,h,MISS Ibaka 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,100
+0041800402,133,PT02M24.00S,1,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,1,0,101
+0041800402,134,PT02M24.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,Lowry L.B.FOUL (P2.PN) (S.Foster),Foul,Loose Ball,1,0,102
+0041800402,136,PT02M24.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,19,22,41,v,Green Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,103
+0041800402,137,PT02M24.00S,1,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,SUB: Green FOR Leonard,Substitution,,0,0,104
+0041800402,138,PT02M24.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,SUB: Powell FOR Lowry,Substitution,,0,0,105
+0041800402,141,PT02M24.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,19,23,42,v,Green Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,106
+0041800402,142,PT02M06.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,2,53,5,Made,1,21,23,44,h,Siakam 5' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,107
+0041800402,143,PT01M44.00S,1,1610612744,GSW,201939,Curry,S. Curry,232,6,0,Missed,1,,,0,v,MISS Curry 3PT Jump Shot,Missed Shot,Jump Shot,1,3,108
+0041800402,144,PT01M40.00S,1,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,109
+0041800402,146,PT01M20.00S,1,1610612761,TOR,201980,Green,D. Green,-38,268,27,Missed,1,,,0,h,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,110
+0041800402,147,PT01M17.00S,1,1610612761,TOR,201980,Green,D. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,111
+0041800402,148,PT01M15.00S,1,1610612761,TOR,201980,Green,D. Green,-5,109,11,Made,1,23,23,46,h,Green 11' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,1,2,112
+0041800402,149,PT01M07.00S,1,1610612744,GSW,2733,Livingston,S. Livingston,33,141,14,Missed,1,,,0,v,MISS Livingston 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,113
+0041800402,150,PT01M04.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,,,0,h,Ibaka REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,114
+0041800402,151,PT00M57.20S,1,1610612761,TOR,1627832,VanVleet,F. VanVleet,11,-4,1,Made,1,25,23,48,h,VanVleet 1' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,1,2,115
+0041800402,152,PT00M48.90S,1,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet P.FOUL (P2.PN) (E.Malloy),Foul,Personal,1,0,116
+0041800402,154,PT00M48.90S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,25,24,49,v,Curry Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,117
+0041800402,155,PT00M48.90S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,25,25,50,v,Curry Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,118
+0041800402,156,PT00M33.80S,1,1610612761,TOR,1627832,VanVleet,F. VanVleet,22,5,2,Missed,1,,,0,h,MISS VanVleet 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,119
+0041800402,157,PT00M31.90S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,120
+0041800402,158,PT00M25.60S,1,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,,,0,h,Siakam P.FOUL (P2.PN) (E.Malloy),Foul,Personal,1,0,121
+0041800402,160,PT00M25.60S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,25,26,51,v,Green Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,122
+0041800402,161,PT00M25.60S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,MISS Green Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,123
+0041800402,162,PT00M24.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,,,0,h,Ibaka REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,124
+0041800402,163,PT00M02.80S,1,1610612761,TOR,1627783,Siakam,P. Siakam,31,16,3,Missed,1,,,0,h,MISS Siakam 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,125
+0041800402,164,PT00M00.70S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,,,0,h,Ibaka REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,126
+0041800402,165,PT00M00.70S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,0,-6,1,Missed,1,,,0,h,MISS Ibaka 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,127
+0041800402,166,PT00M00.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,,,0,h,Ibaka REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,128
+0041800402,167,PT00M00.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,0,-6,1,Made,1,27,26,53,h,Ibaka 1' Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,129
+0041800402,168,PT00M00.00S,1,1610612744,GSW,201939,Curry,S. Curry,1,570,57,Missed,1,,,0,v,MISS Curry 57' 3PT Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,3,130
+0041800402,169,PT00M00.00S,1,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,0,0,131
+0041800402,170,PT00M00.00S,1,0,,0,,,0,0,0,,0,27,26,53,,End of 1st Period (8:44 PM EST),period,end,1,0,132
+0041800402,179,PT12M00.00S,2,0,,0,,,0,0,0,,0,27,26,53,,Start of 2nd Period (8:47 PM EST),period,start,0,0,133
+0041800402,180,PT11M45.00S,2,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,,,0,v,Cousins Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,134
+0041800402,180,PT11M45.00S,2,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,,,0,h,Ibaka STEAL (1 STL),,,1,0,135
+0041800402,182,PT11M44.00S,2,1610612761,TOR,201980,Green,D. Green,0,0,0,,0,,,0,h,Green Step Out of Bounds Turnover (P2.T4),Turnover,Step Out of Bounds Turnover,1,0,136
+0041800402,183,PT11M34.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,-150,11,15,Made,1,27,28,55,v,Thompson 15' Fadeaway Jumper (13 PTS) (Cousins 1 AST),Made Shot,Fadeaway Jump Shot,1,2,137
+0041800402,185,PT11M06.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,11,15,2,Made,1,29,28,57,h,Siakam 2' Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,138
+0041800402,186,PT10M46.00S,2,1610612761,TOR,201980,Green,D. Green,0,0,0,,0,,,0,h,Green P.FOUL (P1.T1) (T.Brothers),Foul,Personal,1,0,139
+0041800402,188,PT10M40.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,139,55,15,Missed,1,,,0,v,MISS Thompson 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,140
+0041800402,189,PT10M37.00S,2,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,,,0,h,Ibaka REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,141
+0041800402,190,PT10M30.00S,2,1610612761,TOR,1627832,VanVleet,F. VanVleet,119,230,26,Made,1,32,28,60,h,VanVleet 26' 3PT Running Jump Shot (5 PTS) (Green 1 AST),Made Shot,Running Jump Shot,1,3,142
+0041800402,192,PT10M19.00S,2,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,143
+0041800402,193,PT10M05.00S,2,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,,,0,v,Cousins Lost Ball Turnover (P2.T6),Turnover,Lost Ball,1,0,144
+0041800402,193,PT10M05.00S,2,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,,,0,h,Ibaka STEAL (2 STL),,,1,0,145
+0041800402,195,PT09M53.00S,2,1610612761,TOR,201980,Green,D. Green,73,13,7,Missed,1,,,0,h,MISS Green 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,146
+0041800402,196,PT09M51.00S,2,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,,,0,v,Cousins REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,147
+0041800402,197,PT09M39.00S,2,1610612744,GSW,201973,Jerebko,J. Jerebko,-234,-4,0,Missed,1,,,0,v,MISS Jerebko 3PT Jump Shot,Missed Shot,Jump Shot,1,3,148
+0041800402,198,PT09M36.00S,2,1610612761,TOR,201980,Green,D. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,149
+0041800402,199,PT09M26.00S,2,1610612761,TOR,1627832,VanVleet,F. VanVleet,-77,260,27,Missed,1,,,0,h,MISS VanVleet 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,150
+0041800402,200,PT09M23.00S,2,1610612744,GSW,201973,Jerebko,J. Jerebko,0,0,0,,0,,,0,v,Jerebko REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,151
+0041800402,201,PT09M16.00S,2,1610612744,GSW,2733,Livingston,S. Livingston,-128,1,13,Missed,1,,,0,v,MISS Livingston 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,152
+0041800402,202,PT09M13.00S,2,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,153
+0041800402,203,PT09M09.00S,2,1610612761,TOR,201980,Green,D. Green,-192,175,26,Missed,1,,,0,h,MISS Green 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,154
+0041800402,204,PT09M08.00S,2,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,0,0,155
+0041800402,205,PT09M08.00S,2,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,,,0,h,Ibaka L.B.FOUL (P2.T2) (E.Malloy),Foul,Loose Ball,1,0,156
+0041800402,207,PT09M08.00S,2,1610612761,TOR,201980,Green,D. Green,0,0,0,,0,,,0,h,SUB: Leonard FOR Green,Substitution,,0,0,157
+0041800402,208,PT09M08.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,,,0,h,SUB: Lowry FOR Siakam,Substitution,,0,0,158
+0041800402,211,PT09M02.00S,2,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,,,0,h,Ibaka P.FOUL (P3.T3) (T.Brothers),Foul,Personal,1,0,159
+0041800402,213,PT09M02.00S,2,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,,,0,h,SUB: Gasol FOR Ibaka,Substitution,,0,0,160
+0041800402,215,PT08M54.00S,2,1610612744,GSW,1626188,Cook,Q. Cook,197,159,25,Missed,1,,,0,v,MISS Cook 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,161
+0041800402,216,PT08M52.00S,2,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,162
+0041800402,217,PT08M41.00S,2,1610612761,TOR,1627832,VanVleet,F. VanVleet,-29,18,3,Made,1,34,28,62,h,VanVleet 3' Driving Floating Bank Jump Shot (7 PTS) (Powell 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,163
+0041800402,219,PT08M41.00S,2,1610612744,GSW,1626188,Cook,Q. Cook,0,0,0,,0,,,0,v,Cook S.FOUL (P1.T1) (S.Foster),Foul,Shooting,1,0,164
+0041800402,221,PT08M41.00S,2,1610612744,GSW,1626188,Cook,Q. Cook,0,0,0,,0,,,0,v,SUB: Curry FOR Cook,Substitution,,0,0,165
+0041800402,222,PT08M41.00S,2,1610612744,GSW,201973,Jerebko,J. Jerebko,0,0,0,,0,,,0,v,SUB: Green FOR Jerebko,Substitution,,0,0,166
+0041800402,223,PT08M41.00S,2,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,,,0,v,SUB: McKinnie FOR Livingston,Substitution,,0,0,167
+0041800402,227,PT08M41.00S,2,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,35,28,63,h,VanVleet Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,168
+0041800402,228,PT08M25.00S,2,1610612744,GSW,1628035,McKinnie,A. McKinnie,-228,-16,0,Missed,1,,,0,v,MISS McKinnie 3PT Jump Shot,Missed Shot,Jump Shot,1,3,169
+0041800402,229,PT08M22.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,170
+0041800402,230,PT08M20.00S,2,1610612744,GSW,201939,Curry,S. Curry,1,251,25,Missed,1,,,0,v,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,171
+0041800402,231,PT08M18.00S,2,1610612744,GSW,1628035,McKinnie,A. McKinnie,0,0,0,,0,,,0,v,McKinnie REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,172
+0041800402,232,PT08M15.00S,2,1610612744,GSW,201939,Curry,S. Curry,-209,-4,21,Missed,1,,,0,v,MISS Curry 21' Jump Shot,Missed Shot,Jump Shot,1,2,173
+0041800402,233,PT08M13.00S,2,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,174
+0041800402,234,PT08M06.00S,2,1610612744,GSW,1628035,McKinnie,A. McKinnie,0,0,0,,0,,,0,v,McKinnie S.FOUL (P1.T2) (E.Malloy),Foul,Shooting,1,0,175
+0041800402,236,PT08M06.00S,2,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,36,28,64,h,Leonard Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,176
+0041800402,237,PT08M06.00S,2,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,37,28,65,h,Leonard Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,177
+0041800402,238,PT07M55.00S,2,1610612744,GSW,1628035,McKinnie,A. McKinnie,240,10,24,Missed,1,,,0,v,MISS McKinnie 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,178
+0041800402,239,PT07M53.00S,2,1610612761,TOR,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,179
+0041800402,240,PT07M42.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,-11,-3,1,Missed,1,,,0,h,MISS Lowry 1' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,2,180
+0041800402,241,PT07M40.00S,2,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,,,0,v,Cousins REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,181
+0041800402,243,PT07M37.00S,2,1610612744,GSW,1628035,McKinnie,A. McKinnie,0,0,0,,0,,,0,v,SUB: Iguodala FOR McKinnie,Substitution,,0,0,182
+0041800402,245,PT07M35.00S,2,1610612761,TOR,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol S.FOUL (P2.T4) (T.Brothers),Foul,Shooting,1,0,183
+0041800402,247,PT07M35.00S,2,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,37,29,66,v,Cousins Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,184
+0041800402,248,PT07M35.00S,2,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,37,30,67,v,Cousins Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,185
+0041800402,249,PT07M12.00S,2,1610612761,TOR,201188,Gasol,M. Gasol,-7,2,1,Made,1,39,30,69,h,Gasol 1' Cutting Layup Shot (4 PTS) (VanVleet 2 AST),Made Shot,Cutting Layup Shot,1,2,186
+0041800402,251,PT07M01.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,Lowry S.FOUL (P3.PN) (S.Foster),Foul,Shooting,1,0,187
+0041800402,253,PT07M01.00S,2,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,39,31,70,v,Cousins Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,188
+0041800402,254,PT07M01.00S,2,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,39,32,71,v,Cousins Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,189
+0041800402,255,PT06M39.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,-232,11,0,Missed,1,,,0,h,MISS Lowry 3PT Jump Shot,Missed Shot,Jump Shot,1,3,190
+0041800402,256,PT06M36.00S,2,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,191
+0041800402,257,PT06M34.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,-240,-3,24,Made,1,42,32,74,h,Lowry 24' 3PT Jump Shot (9 PTS) (Leonard 1 AST),Made Shot,Jump Shot,1,3,192
+0041800402,259,PT06M20.00S,2,1610612744,GSW,202326,Cousins,D. Cousins,-47,256,26,Made,1,42,35,77,v,Cousins 26' 3PT Jump Shot (7 PTS) (Green 4 AST),Made Shot,Jump Shot,1,3,193
+0041800402,262,PT06M12.00S,2,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,,,0,v,Cousins P.FOUL (P3.T3) (S.Foster),Foul,Personal,1,0,194
+0041800402,264,PT06M12.00S,2,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,,,0,v,SUB: Jerebko FOR Cousins,Substitution,,0,0,195
+0041800402,266,PT06M00.00S,2,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard Step Out of Bounds Turnover (P2.T5),Turnover,Step Out of Bounds Turnover,1,0,196
+0041800402,267,PT05M54.00S,2,1610612744,GSW,203110,Green,D. Green,101,88,13,Missed,1,,,0,v,MISS Green 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,197
+0041800402,268,PT05M52.00S,2,1610612744,GSW,201973,Jerebko,J. Jerebko,0,0,0,,0,,,0,v,Jerebko REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,198
+0041800402,269,PT05M52.00S,2,1610612744,GSW,201973,Jerebko,J. Jerebko,0,-6,1,Missed,1,,,0,v,MISS Jerebko 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,199
+0041800402,270,PT05M52.00S,2,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Rebound,Rebound,Unknown,0,0,200
+0041800402,272,PT05M52.00S,2,1610612744,GSW,201973,Jerebko,J. Jerebko,0,0,0,,0,,,0,v,Jerebko L.B.FOUL (P1.T4) (E.Malloy),Foul,Loose Ball,1,0,201
+0041800402,274,PT05M52.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,SUB: Siakam FOR Lowry,Substitution,,0,0,202
+0041800402,276,PT05M42.00S,2,1610612761,TOR,1626181,Powell,N. Powell,0,-1,0,Made,1,44,35,79,h,Powell Cutting Dunk Shot (2 PTS) (Gasol 1 AST),Made Shot,Cutting Dunk Shot,1,2,203
+0041800402,278,PT05M28.00S,2,1610612744,GSW,201973,Jerebko,J. Jerebko,-230,27,0,Missed,1,,,0,v,MISS Jerebko 3PT Jump Shot,Missed Shot,Jump Shot,1,3,204
+0041800402,279,PT05M25.00S,2,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,205
+0041800402,280,PT05M16.00S,2,1610612761,TOR,202695,Leonard,K. Leonard,5,5,1,Made,1,46,35,81,h,Leonard 1' Reverse Layup (13 PTS) (Siakam 2 AST),Made Shot,Reverse Layup Shot,1,2,206
+0041800402,282,PT05M16.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry S.FOUL (P1.PN) (S.Foster),Foul,Shooting,1,0,207
+0041800402,284,PT05M16.00S,2,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,208
+0041800402,285,PT05M16.00S,2,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,47,35,82,h,Leonard Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0,209
+0041800402,286,PT04M55.00S,2,1610612744,GSW,201939,Curry,S. Curry,-25,6,3,Missed,1,,,0,v,MISS Curry 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,210
+0041800402,287,PT04M53.00S,2,1610612761,TOR,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,211
+0041800402,288,PT04M41.00S,2,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard Step Out of Bounds Turnover (P3.T6),Turnover,Step Out of Bounds Turnover,1,0,212
+0041800402,289,PT04M26.00S,2,1610612744,GSW,201973,Jerebko,J. Jerebko,-10,1,1,Made,1,47,37,84,v,Jerebko 1' Reverse Layup (2 PTS) (Iguodala 2 AST),Made Shot,Reverse Layup Shot,1,2,213
+0041800402,291,PT04M08.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,-134,155,20,Missed,1,,,0,h,MISS Siakam 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,214
+0041800402,292,PT04M04.00S,2,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,v,Iguodala REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,215
+0041800402,293,PT03M53.00S,2,1610612744,GSW,201939,Curry,S. Curry,-234,64,24,Made,1,47,40,87,v,Curry 24' 3PT Jump Shot (7 PTS) (Iguodala 3 AST),Made Shot,Jump Shot,1,3,216
+0041800402,295,PT03M35.00S,2,1610612761,TOR,1626181,Powell,N. Powell,-188,188,27,Made,1,50,40,90,h,Powell 27' 3PT Jump Shot (5 PTS) (Siakam 3 AST),Made Shot,Jump Shot,1,3,217
+0041800402,297,PT03M27.00S,2,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,218
+0041800402,298,PT03M27.00S,2,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,v,SUB: Cook FOR Iguodala,Substitution,,0,0,219
+0041800402,299,PT03M27.00S,2,1610612744,GSW,201973,Jerebko,J. Jerebko,0,0,0,,0,,,0,v,SUB: Looney FOR Jerebko,Substitution,,0,0,220
+0041800402,302,PT03M22.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,-73,138,16,Made,1,50,42,92,v,Thompson 16' Pullup Jump Shot (15 PTS) (Curry 2 AST),Made Shot,Pullup Jump shot,1,2,221
+0041800402,304,PT02M58.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney S.FOUL (P2.PN) (T.Brothers),Foul,Shooting,1,0,222
+0041800402,306,PT02M58.00S,2,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,51,42,93,h,Leonard Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,223
+0041800402,307,PT02M58.00S,2,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,52,42,94,h,Leonard Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,224
+0041800402,308,PT02M51.00S,2,1610612744,GSW,201939,Curry,S. Curry,-112,232,26,Made,1,52,45,97,v,Curry 26' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,3,225
+0041800402,309,PT02M30.00S,2,1610612761,TOR,201188,Gasol,M. Gasol,-46,47,7,Missed,1,,,0,h,MISS Gasol 7' Hook Shot,Missed Shot,Hook Shot,1,2,226
+0041800402,310,PT02M28.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,227
+0041800402,311,PT02M26.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,228
+0041800402,311,PT02M26.00S,2,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard STEAL (1 STL),,,1,0,229
+0041800402,313,PT02M21.00S,2,1610612761,TOR,201188,Gasol,M. Gasol,-3,8,1,Made,1,54,45,99,h,Gasol 1' Cutting Finger Roll Layup Shot (6 PTS) (Leonard 2 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,230
+0041800402,315,PT02M08.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0,231
+0041800402,315,PT02M08.00S,2,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet STEAL (1 STL),,,1,0,232
+0041800402,317,PT02M04.00S,2,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,4,0,Made,1,56,45,101,h,VanVleet Running Finger Roll Layup (10 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,233
+0041800402,318,PT01M50.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney OFF.Foul (P3) (T.Brothers),Foul,Offensive,1,0,234
+0041800402,320,PT01M50.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,1,0,235
+0041800402,321,PT01M38.00S,2,1610612761,TOR,1626181,Powell,N. Powell,171,176,25,Missed,1,,,0,h,MISS Powell 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,236
+0041800402,322,PT01M35.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,237
+0041800402,323,PT01M28.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,-231,34,0,Made,1,56,48,104,v,Thompson 3PT Jump Shot (18 PTS) (Green 5 AST),Made Shot,Jump Shot,1,3,238
+0041800402,325,PT01M03.00S,2,1610612761,TOR,1627832,VanVleet,F. VanVleet,20,62,7,Made,1,58,48,106,h,VanVleet 7' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,1,2,239
+0041800402,326,PT00M53.70S,2,1610612744,GSW,201939,Curry,S. Curry,-96,35,10,Made,1,58,50,108,v,Curry 10' Driving Floating Bank Jump Shot (12 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,240
+0041800402,327,PT00M30.80S,2,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard Lost Ball Turnover (P4.T7),Turnover,Lost Ball,1,0,241
+0041800402,327,PT00M30.80S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry STEAL (1 STL),,,1,0,242
+0041800402,329,PT00M28.40S,2,1610612744,GSW,201939,Curry,S. Curry,8,4,1,Made,1,58,52,110,v,Curry 1' Running Finger Roll Layup (14 PTS) (Thompson 1 AST),Made Shot,Running Finger Roll Layup Shot,1,2,243
+0041800402,332,PT00M27.20S,2,0,,1610612744,,,0,0,0,,0,,,0,,Delay Of Game,Violation,Delay Of Game,0,0,244
+0041800402,333,PT00M18.90S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green P.FOUL (P2.PN) (T.Brothers),Foul,Personal,1,0,245
+0041800402,335,PT00M18.90S,2,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,,,0,h,MISS Siakam Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,246
+0041800402,336,PT00M18.90S,2,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Rebound,Rebound,Normal Rebound,0,0,247
+0041800402,337,PT00M18.90S,2,1610612761,TOR,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,SUB: Green FOR Gasol,Substitution,,0,0,248
+0041800402,339,PT00M18.90S,2,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,59,52,111,h,Siakam Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,249
+0041800402,340,PT00M04.10S,2,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,,,0,h,Siakam S.FOUL (P3.PN) (T.Brothers),Foul,Shooting,1,0,250
+0041800402,342,PT00M04.10S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,59,53,112,v,Curry Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,251
+0041800402,343,PT00M04.10S,2,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,SUB: Gasol FOR Powell,Substitution,,0,0,252
+0041800402,344,PT00M04.10S,2,1610612744,GSW,1626188,Cook,Q. Cook,0,0,0,,0,,,0,v,SUB: Evans FOR Cook,Substitution,,0,0,253
+0041800402,345,PT00M04.10S,2,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,v,SUB: Bell FOR Thompson,Substitution,,0,0,254
+0041800402,346,PT00M04.10S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,SUB: McKinnie FOR Green,Substitution,,0,0,255
+0041800402,351,PT00M04.10S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,59,54,113,v,Curry Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,256
+0041800402,352,PT00M00.00S,2,0,,0,,,0,0,0,,0,59,54,113,,End of 2nd Period (9:20 PM EST),period,end,1,0,257
+0041800402,363,PT12M00.00S,3,0,,0,,,0,0,0,,0,59,54,113,,Start of 3rd Period (9:36 PM EST),period,start,0,0,258
+0041800402,364,PT11M43.00S,3,1610612744,GSW,202326,Cousins,D. Cousins,-33,10,3,Missed,1,,,0,v,MISS Cousins 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,259
+0041800402,364,PT11M43.00S,3,1610612761,TOR,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol BLOCK (1 BLK),,,1,2,260
+0041800402,366,PT11M43.00S,3,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,0,0,261
+0041800402,382,PT11M37.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,32,652,65,Missed,1,,,0,v,MISS Thompson 65' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,262
+0041800402,383,PT11M35.00S,3,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,0,0,263
+0041800402,368,PT11M35.00S,3,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,0,0,264
+0041800402,369,PT11M15.00S,3,1610612761,TOR,202695,Leonard,K. Leonard,229,88,25,Missed,1,,,0,h,MISS Leonard 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,265
+0041800402,370,PT11M13.00S,3,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,,,0,v,Cousins REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,266
+0041800402,371,PT11M01.00S,3,1610612744,GSW,2738,Iguodala,A. Iguodala,-180,23,18,Made,1,59,56,115,v,Iguodala 18' Jump Shot (2 PTS) (Thompson 2 AST),Made Shot,Jump Shot,1,2,267
+0041800402,385,PT10M53.00S,3,1610612761,TOR,201980,Green,D. Green,0,0,0,,0,,,0,h,Green Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0,268
+0041800402,385,PT10M53.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green STEAL (1 STL),,,1,0,269
+0041800402,376,PT10M43.00S,3,1610612744,GSW,201939,Curry,S. Curry,-107,18,11,Made,1,59,58,117,v,Curry 11' Driving Floating Bank Jump Shot (18 PTS) (Thompson 3 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,270
+0041800402,378,PT10M20.00S,3,1610612761,TOR,202695,Leonard,K. Leonard,-134,6,13,Missed,1,,,0,h,MISS Leonard 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,271
+0041800402,379,PT10M17.00S,3,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,,,0,v,Cousins REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,272
+0041800402,380,PT10M11.00S,3,1610612744,GSW,2738,Iguodala,A. Iguodala,238,21,24,Made,1,59,61,120,v,Iguodala 24' 3PT Running Jump Shot (5 PTS) (Cousins 2 AST),Made Shot,Running Jump Shot,1,3,273
+0041800402,384,PT10M02.00S,3,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,274
+0041800402,387,PT09M55.00S,3,1610612761,TOR,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol OFF.Foul (P3) (T.Brothers),Foul,Offensive,1,0,275
+0041800402,389,PT09M55.00S,3,1610612761,TOR,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,1,0,276
+0041800402,390,PT09M44.00S,3,1610612744,GSW,203110,Green,D. Green,4,7,1,Made,1,59,63,122,v,Green 1' Cutting Layup Shot (11 PTS) (Thompson 4 AST),Made Shot,Cutting Layup Shot,1,2,277
+0041800402,392,PT09M31.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,Lowry Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,0,278
+0041800402,392,PT09M31.00S,3,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,v,Iguodala STEAL (1 STL),,,1,0,279
+0041800402,394,PT09M26.00S,3,1610612744,GSW,201939,Curry,S. Curry,-122,228,26,Missed,1,,,0,v,MISS Curry 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,280
+0041800402,395,PT09M22.00S,3,1610612761,TOR,201980,Green,D. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,281
+0041800402,396,PT09M20.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,Lowry Lost Ball Turnover (P2.T11),Turnover,Lost Ball,1,0,282
+0041800402,396,PT09M20.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry STEAL (2 STL),,,1,0,283
+0041800402,399,PT09M17.00S,3,1610612744,GSW,201939,Curry,S. Curry,-1,17,2,Missed,1,,,0,v,MISS Curry 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,284
+0041800402,400,PT09M15.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,Lowry REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,285
+0041800402,401,PT09M15.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green P.FOUL (P3.T1) (S.Foster),Foul,Personal,1,0,286
+0041800402,403,PT09M09.00S,3,1610612761,TOR,201188,Gasol,M. Gasol,11,264,26,Missed,1,,,0,h,MISS Gasol 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,287
+0041800402,404,PT09M06.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,288
+0041800402,405,PT09M00.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,-16,-8,2,Made,1,59,65,124,v,Thompson 2' Reverse Layup (20 PTS) (Cousins 3 AST),Made Shot,Reverse Layup Shot,1,2,289
+0041800402,407,PT08M42.00S,3,1610612761,TOR,201188,Gasol,M. Gasol,-78,188,20,Missed,1,,,0,h,MISS Gasol 20' Jump Shot,Missed Shot,Jump Shot,1,2,290
+0041800402,408,PT08M40.00S,3,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,v,Iguodala REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,291
+0041800402,409,PT08M37.00S,3,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,v,Iguodala Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,292
+0041800402,410,PT08M37.00S,3,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,,,0,v,Cousins L.B.FOUL (P4.T2) (S.Foster),Foul,Loose Ball,1,0,293
+0041800402,412,PT08M37.00S,3,1610612761,TOR,201980,Green,D. Green,0,0,0,,0,,,0,h,SUB: VanVleet FOR Green,Substitution,,0,0,294
+0041800402,414,PT08M21.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,46,22,5,Missed,1,,,0,h,MISS Siakam 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,295
+0041800402,414,PT08M21.00S,3,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,v,Iguodala BLOCK (1 BLK),,,1,2,296
+0041800402,419,PT08M20.00S,3,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Rebound,Rebound,Unknown,0,0,297
+0041800402,416,PT08M20.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,,,0,h,Jump Ball Siakam vs. Iguodala: Tip to Gasol,Jump Ball,,1,0,298
+0041800402,421,PT08M16.00S,3,1610612761,TOR,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol OFF.Foul (P4) (T.Brothers),Foul,Offensive,1,0,299
+0041800402,423,PT08M16.00S,3,1610612761,TOR,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,1,0,300
+0041800402,424,PT08M06.00S,3,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,,,0,v,Cousins Bad Pass Turnover (P3.T12),Turnover,Bad Pass,1,0,301
+0041800402,424,PT08M06.00S,3,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet STEAL (2 STL),,,1,0,302
+0041800402,426,PT07M48.00S,3,1610612761,TOR,1627832,VanVleet,F. VanVleet,182,195,27,Missed,1,,,0,h,MISS VanVleet 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,303
+0041800402,427,PT07M45.00S,3,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,v,Iguodala REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,304
+0041800402,428,PT07M37.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,230,84,24,Made,1,59,68,127,v,Thompson 24' 3PT Jump Shot (23 PTS) (Green 6 AST),Made Shot,Jump Shot,1,3,305
+0041800402,430,PT07M35.00S,3,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,306
+0041800402,431,PT07M22.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,-3,56,6,Missed,1,,,0,h,MISS Siakam 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,307
+0041800402,431,PT07M22.00S,3,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,,,0,v,Cousins BLOCK (1 BLK),,,1,2,308
+0041800402,433,PT07M19.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,309
+0041800402,434,PT07M05.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,5,-10,1,Made,1,59,70,129,v,Thompson 1' Cutting Finger Roll Layup Shot (25 PTS) (Cousins 4 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,310
+0041800402,439,PT06M44.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,34,40,5,Missed,1,,,0,h,MISS Siakam 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,311
+0041800402,440,PT06M40.00S,3,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,v,Iguodala REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,312
+0041800402,441,PT06M35.00S,3,1610612744,GSW,203110,Green,D. Green,-1,5,1,Made,1,59,72,131,v,Green 1' Running Layup (13 PTS) (Iguodala 4 AST),Made Shot,Running Layup Shot,1,2,313
+0041800402,443,PT06M20.00S,3,1610612761,TOR,1627832,VanVleet,F. VanVleet,225,-12,0,Made,1,62,72,134,h,VanVleet 3PT Jump Shot (15 PTS) (Gasol 2 AST),Made Shot,Jump Shot,1,3,314
+0041800402,445,PT06M02.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,147,26,15,Missed,1,,,0,v,MISS Thompson 15' Jump Shot,Missed Shot,Jump Shot,1,2,315
+0041800402,446,PT06M01.00S,3,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,0,0,316
+0041800402,448,PT05M59.00S,3,1610612744,GSW,2738,Iguodala,A. Iguodala,-2,-3,0,Missed,1,,,0,v,MISS Iguodala Layup,Missed Shot,Layup Shot,1,2,317
+0041800402,449,PT05M56.00S,3,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,v,Iguodala REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,318
+0041800402,450,PT05M56.00S,3,1610612744,GSW,2738,Iguodala,A. Iguodala,0,-6,1,Missed,1,,,0,v,MISS Iguodala 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,319
+0041800402,451,PT05M56.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,,,0,h,Siakam REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,320
+0041800402,452,PT05M42.00S,3,1610612761,TOR,1627832,VanVleet,F. VanVleet,-108,234,26,Missed,1,,,0,h,MISS VanVleet 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,321
+0041800402,453,PT05M39.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,322
+0041800402,454,PT05M36.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green Bad Pass Turnover (P3.T13),Turnover,Bad Pass,1,0,323
+0041800402,454,PT05M36.00S,3,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet STEAL (3 STL),,,1,0,324
+0041800402,456,PT05M31.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,63,262,27,Missed,1,,,0,h,MISS Lowry 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,325
+0041800402,457,PT05M27.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,326
+0041800402,458,PT05M16.00S,3,1610612744,GSW,203110,Green,D. Green,10,11,1,Made,1,62,74,136,v,Green 1' Driving Finger Roll Layup (15 PTS) (Iguodala 5 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,327
+0041800402,460,PT05M07.00S,3,1610612761,TOR,202695,Leonard,K. Leonard,185,178,26,Missed,1,,,0,h,MISS Leonard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,328
+0041800402,461,PT05M04.00S,3,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,329
+0041800402,462,PT05M02.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,-212,119,24,Missed,1,,,0,h,MISS Siakam 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,330
+0041800402,463,PT04M59.00S,3,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,,,0,v,Cousins REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,331
+0041800402,464,PT04M50.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,Lowry P.FOUL (P4.T1) (E.Malloy),Foul,Personal,1,0,332
+0041800402,466,PT04M50.00S,3,1610612761,TOR,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,SUB: Ibaka FOR Gasol,Substitution,,0,0,333
+0041800402,467,PT04M50.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,,,0,h,SUB: Powell FOR Siakam,Substitution,,0,0,334
+0041800402,468,PT04M50.00S,3,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,,,0,v,SUB: Bogut FOR Cousins,Substitution,,0,0,335
+0041800402,472,PT04M47.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,86,200,22,Missed,1,,,0,v,MISS Thompson 22' Jump Shot,Missed Shot,Jump Shot,1,2,336
+0041800402,473,PT04M45.00S,3,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,,,0,h,Ibaka REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,337
+0041800402,474,PT04M42.00S,3,1610612761,TOR,202695,Leonard,K. Leonard,13,10,2,Made,1,64,74,138,h,Leonard 2' Running Layup (18 PTS),Made Shot,Running Layup Shot,1,2,338
+0041800402,475,PT04M42.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,v,Thompson S.FOUL (P3.T3) (E.Malloy),Foul,Shooting,1,0,339
+0041800402,477,PT04M42.00S,3,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,65,74,139,h,Leonard Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,0,0,340
+0041800402,478,PT04M26.00S,3,1610612744,GSW,101106,Bogut,A. Bogut,-1,7,1,Made,1,65,76,141,v,Bogut 1' Alley Oop Dunk (2 PTS) (Curry 3 AST),Made Shot,Alley Oop Dunk Shot,1,2,341
+0041800402,481,PT04M12.00S,3,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,Powell Traveling Turnover (P1.T13),Turnover,Traveling,1,0,342
+0041800402,482,PT04M12.00S,3,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,v,SUB: McKinnie FOR Iguodala,Substitution,,0,0,343
+0041800402,484,PT04M01.00S,3,1610612744,GSW,1628035,McKinnie,A. McKinnie,-109,55,12,Made,1,65,78,143,v,McKinnie 12' Driving Floating Jump Shot (2 PTS) (Curry 4 AST),Made Shot,Driving Floating Jump Shot,1,2,344
+0041800402,486,PT03M46.00S,3,1610612761,TOR,1626181,Powell,N. Powell,-11,6,1,Missed,1,,,0,h,MISS Powell 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,345
+0041800402,487,PT03M44.00S,3,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,,,0,h,Ibaka REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,346
+0041800402,488,PT03M42.00S,3,1610612761,TOR,201586,Ibaka,S. Ibaka,7,21,2,Made,1,67,78,145,h,Ibaka 2' Turnaround Hook Shot (4 PTS),Made Shot,Turnaround Hook Shot,1,2,347
+0041800402,489,PT03M29.00S,3,1610612744,GSW,201939,Curry,S. Curry,-221,132,26,Missed,1,,,0,v,MISS Curry 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,348
+0041800402,490,PT03M26.00S,3,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,349
+0041800402,491,PT03M22.00S,3,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,,,0,v,Bogut P.FOUL (P1.T4) (T.Brothers),Foul,Personal,1,0,350
+0041800402,493,PT03M22.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,v,SUB: Cook FOR Thompson,Substitution,,0,0,351
+0041800402,495,PT03M22.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,SUB: Siakam FOR Lowry,Substitution,,0,0,352
+0041800402,497,PT03M13.00S,3,1610612744,GSW,1626188,Cook,Q. Cook,0,0,0,,0,,,0,v,Cook P.FOUL (P2.PN) (S.Foster),Foul,Personal,1,0,353
+0041800402,499,PT03M13.00S,3,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,68,78,146,h,Leonard Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0,354
+0041800402,500,PT03M13.00S,3,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,69,78,147,h,Leonard Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0,355
+0041800402,501,PT02M56.00S,3,1610612744,GSW,201939,Curry,S. Curry,93,68,12,Missed,1,,,0,v,MISS Curry 12' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,356
+0041800402,502,PT02M54.00S,3,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,,,0,h,Ibaka REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,357
+0041800402,503,PT02M48.00S,3,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet Bad Pass Turnover (P2.T14),Turnover,Bad Pass,1,0,358
+0041800402,503,PT02M48.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry STEAL (3 STL),,,1,0,359
+0041800402,505,PT02M34.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green Bad Pass Turnover (P4.T14),Turnover,Bad Pass,1,0,360
+0041800402,505,PT02M34.00S,3,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,Powell STEAL (1 STL),,,1,0,361
+0041800402,507,PT02M30.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,-4,20,2,Made,1,71,78,149,h,Siakam 2' Running Dunk (9 PTS) (Powell 2 AST),Made Shot,Running Dunk Shot,1,2,362
+0041800402,509,PT02M17.00S,3,1610612744,GSW,1626188,Cook,Q. Cook,119,225,25,Made,1,71,81,152,v,Cook 25' 3PT Jump Shot (3 PTS) (McKinnie 1 AST),Made Shot,Jump Shot,1,3,363
+0041800402,511,PT01M59.00S,3,1610612761,TOR,202695,Leonard,K. Leonard,152,213,26,Made,1,74,81,155,h,Leonard 26' 3PT Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,1,3,364
+0041800402,512,PT01M46.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,,,0,h,Siakam S.FOUL (P4.T2) (T.Brothers),Foul,Shooting,1,0,365
+0041800402,514,PT01M46.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,74,82,156,v,Curry Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,366
+0041800402,515,PT01M46.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,74,83,157,v,Curry Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,367
+0041800402,516,PT01M32.00S,3,1610612744,GSW,1628035,McKinnie,A. McKinnie,0,0,0,,0,,,0,v,McKinnie S.FOUL (P2.PN) (S.Foster),Foul,Shooting,1,0,368
+0041800402,518,PT01M32.00S,3,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,75,83,158,h,Leonard Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,0,0,369
+0041800402,519,PT01M32.00S,3,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,76,83,159,h,Leonard Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,0,0,370
+0041800402,520,PT01M22.00S,3,1610612744,GSW,101106,Bogut,A. Bogut,-2,10,1,Made,1,76,85,161,v,Bogut 1' Alley Oop Dunk (4 PTS) (Green 7 AST),Made Shot,Alley Oop Dunk Shot,1,2,371
+0041800402,522,PT01M04.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,23,11,3,Missed,1,,,0,h,MISS Siakam 3' Jump Shot,Missed Shot,Jump Shot,1,2,372
+0041800402,522,PT01M04.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green BLOCK (1 BLK),,,1,2,373
+0041800402,524,PT01M04.00S,3,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Rebound,Rebound,Unknown,0,0,374
+0041800402,526,PT00M57.80S,3,1610612761,TOR,1626181,Powell,N. Powell,-52,31,6,Made,1,78,85,163,h,Powell 6' Turnaround Jump Shot (7 PTS),Made Shot,Turnaround Jump Shot,1,2,375
+0041800402,527,PT00M40.30S,3,1610612744,GSW,201939,Curry,S. Curry,109,258,28,Made,1,78,88,166,v,Curry 28' 3PT Jump Shot (23 PTS) (Green 8 AST),Made Shot,Jump Shot,1,3,376
+0041800402,529,PT00M29.20S,3,1610612761,TOR,202695,Leonard,K. Leonard,5,11,1,Made,1,80,88,168,h,Leonard 1' Driving Layup (28 PTS),Made Shot,Driving Layup Shot,1,2,377
+0041800402,530,PT00M10.80S,3,1610612744,GSW,201939,Curry,S. Curry,-105,251,27,Missed,1,,,0,v,MISS Curry 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,378
+0041800402,531,PT00M08.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,,,0,h,Siakam REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,379
+0041800402,532,PT00M00.70S,3,1610612761,TOR,1627783,Siakam,P. Siakam,137,85,16,Missed,1,,,0,h,MISS Siakam 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,380
+0041800402,533,PT00M00.70S,3,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Rebound,Rebound,Unknown,0,0,381
+0041800402,534,PT00M00.00S,3,0,,0,,,0,0,0,,0,80,88,168,,End of 3rd Period (10:04 PM EST),period,end,1,0,382
+0041800402,545,PT12M00.00S,4,0,,0,,,0,0,0,,0,80,88,168,,Start of 4th Period (10:07 PM EST),period,start,0,0,383
+0041800402,546,PT11M41.00S,4,1610612761,TOR,1626181,Powell,N. Powell,6,4,1,Missed,1,,,0,h,MISS Powell 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,384
+0041800402,546,PT11M41.00S,4,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,,,0,v,Cousins BLOCK (2 BLK),,,1,2,385
+0041800402,548,PT11M38.00S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,v,Iguodala REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,386
+0041800402,549,PT11M25.00S,4,1610612744,GSW,202326,Cousins,D. Cousins,-3,6,1,Made,1,80,90,170,v,Cousins 1' Layup (9 PTS) (Thompson 5 AST),Made Shot,Layup Shot,1,2,387
+0041800402,551,PT11M09.00S,4,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,,,0,v,Cousins Violation:Kicked Ball (E.Malloy),Violation,Kicked Ball,0,0,388
+0041800402,552,PT10M56.00S,4,1610612761,TOR,201586,Ibaka,S. Ibaka,16,51,5,Missed,1,,,0,h,MISS Ibaka 5' Hook Shot,Missed Shot,Hook Shot,1,2,389
+0041800402,553,PT10M53.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,,,0,h,Siakam REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,390
+0041800402,554,PT10M53.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,-6,1,Made,1,82,90,172,h,Siakam 1' Tip Layup Shot (11 PTS),Made Shot,Tip Layup Shot,1,2,391
+0041800402,555,PT10M40.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,-177,197,26,Missed,1,,,0,v,MISS Thompson 26' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,1,3,392
+0041800402,556,PT10M37.00S,4,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,,,0,h,Ibaka REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,393
+0041800402,557,PT10M32.00S,4,1610612761,TOR,1626181,Powell,N. Powell,219,130,25,Missed,1,,,0,h,MISS Powell 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,394
+0041800402,558,PT10M29.00S,4,1610612744,GSW,1626188,Cook,Q. Cook,0,0,0,,0,,,0,v,Cook REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,395
+0041800402,559,PT10M09.00S,4,1610612744,GSW,202326,Cousins,D. Cousins,220,142,26,Missed,1,,,0,v,MISS Cousins 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,396
+0041800402,560,PT10M06.00S,4,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,,,0,h,Ibaka REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,397
+0041800402,561,PT10M03.00S,4,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,,,0,v,Cousins Violation:Kicked Ball (E.Malloy),Violation,Kicked Ball,0,0,398
+0041800402,562,PT10M03.00S,4,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,SUB: Lowry FOR Powell,Substitution,,0,0,399
+0041800402,564,PT09M52.00S,4,1610612761,TOR,1627832,VanVleet,F. VanVleet,-6,5,1,Missed,1,,,0,h,MISS VanVleet 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,400
+0041800402,565,PT09M51.00S,4,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,,,0,v,Cousins REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,401
+0041800402,566,PT09M37.00S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,-241,-5,24,Missed,1,,,0,v,MISS Iguodala 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,402
+0041800402,567,PT09M34.00S,4,1610612761,TOR,201980,Green,D. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,403
+0041800402,568,PT09M30.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,55,43,7,Missed,1,,,0,h,MISS Lowry 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,404
+0041800402,568,PT09M30.00S,4,1610612744,GSW,1626188,Cook,Q. Cook,0,0,0,,0,,,0,v,Cook BLOCK (1 BLK),,,1,2,405
+0041800402,570,PT09M30.00S,4,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Rebound,Rebound,Unknown,0,0,406
+0041800402,572,PT09M25.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,-117,225,25,Made,1,85,90,175,h,Lowry 25' 3PT Pullup Jump Shot (12 PTS) (Siakam 4 AST),Made Shot,Pullup Jump shot,1,3,407
+0041800402,574,PT09M09.00S,4,1610612744,GSW,202326,Cousins,D. Cousins,3,-1,0,Made,1,85,92,177,v,Cousins Driving Finger Roll Layup (11 PTS) (Livingston 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,408
+0041800402,576,PT09M04.00S,4,1610612761,TOR,201980,Green,D. Green,141,222,26,Made,1,88,92,180,h,Green 26' 3PT Running Jump Shot (5 PTS) (Lowry 1 AST),Made Shot,Running Jump Shot,1,3,409
+0041800402,578,PT08M46.00S,4,1610612744,GSW,1626188,Cook,Q. Cook,201,167,26,Made,1,88,95,183,v,Cook 26' 3PT Jump Shot (6 PTS) (Cousins 5 AST),Made Shot,Jump Shot,1,3,410
+0041800402,580,PT08M26.00S,4,1610612761,TOR,201586,Ibaka,S. Ibaka,52,43,7,Missed,1,,,0,h,MISS Ibaka 7' Hook Shot,Missed Shot,Hook Shot,1,2,411
+0041800402,581,PT08M23.00S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,v,Iguodala REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,412
+0041800402,582,PT08M18.00S,4,1610612744,GSW,1626188,Cook,Q. Cook,218,141,26,Made,1,88,98,186,v,Cook 26' 3PT Running Jump Shot (9 PTS) (Iguodala 6 AST),Made Shot,Running Jump Shot,1,3,413
+0041800402,584,PT08M04.00S,4,1610612761,TOR,201586,Ibaka,S. Ibaka,-172,190,26,Made,1,91,98,189,h,Ibaka 26' 3PT Jump Shot (7 PTS) (Lowry 2 AST),Made Shot,Jump Shot,1,3,414
+0041800402,586,PT07M59.00S,4,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,415
+0041800402,587,PT07M59.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,,,0,h,SUB: Leonard FOR Siakam,Substitution,,0,0,416
+0041800402,588,PT07M59.00S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,v,SUB: Green FOR Iguodala,Substitution,,0,0,417
+0041800402,589,PT07M59.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,v,SUB: Curry FOR Thompson,Substitution,,0,0,418
+0041800402,593,PT07M41.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,Lowry P.FOUL (P5.T1) (T.Brothers),Foul,Personal,1,0,419
+0041800402,595,PT07M36.00S,4,1610612744,GSW,2733,Livingston,S. Livingston,3,11,1,Made,1,91,100,191,v,Livingston 1' Cutting Layup Shot (4 PTS) (Cousins 6 AST),Made Shot,Cutting Layup Shot,1,2,420
+0041800402,597,PT07M14.00S,4,1610612761,TOR,202695,Leonard,K. Leonard,218,148,26,Missed,1,,,0,h,MISS Leonard 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,421
+0041800402,598,PT07M12.00S,4,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,0,0,422
+0041800402,600,PT06M51.00S,4,1610612761,TOR,201980,Green,D. Green,0,0,0,,0,,,0,h,Green S.FOUL (P2.T2) (S.Foster),Foul,Shooting,1,0,423
+0041800402,602,PT06M51.00S,4,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,91,101,192,v,Livingston Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,424
+0041800402,603,PT06M51.00S,4,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,,,0,h,SUB: Gasol FOR Ibaka,Substitution,,0,0,425
+0041800402,604,PT06M51.00S,4,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,,,0,v,SUB: Bogut FOR Cousins,Substitution,,0,0,426
+0041800402,607,PT06M51.00S,4,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,91,102,193,v,Livingston Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,427
+0041800402,608,PT06M38.00S,4,1610612761,TOR,202695,Leonard,K. Leonard,20,4,2,Made,1,93,102,195,h,Leonard 2' Driving Bank Hook Shot (30 PTS),Made Shot,Driving Bank Hook Shot,1,2,428
+0041800402,609,PT06M38.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green S.FOUL (P4.T1) (T.Brothers),Foul,Shooting,1,0,429
+0041800402,611,PT06M38.00S,4,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,94,102,196,h,Leonard Free Throw 1 of 1 (31 PTS),Free Throw,Free Throw 1 of 1,0,0,430
+0041800402,612,PT06M18.00S,4,1610612744,GSW,203110,Green,D. Green,19,15,2,Made,1,94,104,198,v,Green 2' Alley Oop Layup (17 PTS) (Livingston 2 AST),Made Shot,Alley Oop Layup shot,1,2,431
+0041800402,614,PT05M58.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,-223,68,0,Missed,1,,,0,h,MISS Lowry 3PT Jump Shot,Missed Shot,Jump Shot,1,3,432
+0041800402,615,PT05M56.00S,4,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,433
+0041800402,616,PT05M54.00S,4,1610612761,TOR,202695,Leonard,K. Leonard,137,236,27,Missed,1,,,0,h,MISS Leonard 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,434
+0041800402,617,PT05M51.00S,4,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,,,0,v,Bogut REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,435
+0041800402,618,PT05M39.00S,4,1610612744,GSW,101106,Bogut,A. Bogut,-5,5,1,Made,1,94,106,200,v,Bogut 1' Alley Oop Layup (6 PTS) (Green 9 AST),Made Shot,Alley Oop Layup shot,1,2,436
+0041800402,620,PT05M39.00S,4,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,437
+0041800402,621,PT05M39.00S,4,1610612761,TOR,201980,Green,D. Green,0,0,0,,0,,,0,h,SUB: Siakam FOR Green,Substitution,,0,0,438
+0041800402,623,PT05M27.00S,4,1610612744,GSW,1626188,Cook,Q. Cook,0,0,0,,0,,,0,v,Cook P.FOUL (P3.T2) (S.Foster),Foul,Personal,1,0,439
+0041800402,625,PT05M22.00S,4,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,440
+0041800402,626,PT05M18.00S,4,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,,,0,v,Bogut S.FOUL (P2.T3) (E.Malloy),Foul,Shooting,1,0,441
+0041800402,628,PT05M18.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,95,106,201,h,Siakam Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,442
+0041800402,629,PT05M18.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,,,0,h,MISS Siakam Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,443
+0041800402,630,PT05M17.00S,4,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,444
+0041800402,631,PT05M04.00S,4,1610612761,TOR,1627832,VanVleet,F. VanVleet,-125,15,13,Missed,1,,,0,h,MISS VanVleet 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,445
+0041800402,632,PT05M01.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,,,0,h,Siakam REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,446
+0041800402,633,PT05M01.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,-6,1,Missed,1,,,0,h,MISS Siakam 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,447
+0041800402,634,PT05M00.00S,4,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,448
+0041800402,635,PT04M52.00S,4,1610612761,TOR,1627832,VanVleet,F. VanVleet,-231,-7,0,Missed,1,,,0,h,MISS VanVleet 3PT Jump Shot,Missed Shot,Jump Shot,1,3,449
+0041800402,636,PT04M48.00S,4,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard REBOUND (Off:5 Def:5),Rebound,Unknown,1,0,450
+0041800402,637,PT04M46.00S,4,1610612761,TOR,1627832,VanVleet,F. VanVleet,11,10,1,Made,1,97,106,203,h,VanVleet 1' Cutting Layup Shot (17 PTS) (Leonard 3 AST),Made Shot,Cutting Layup Shot,1,2,451
+0041800402,638,PT04M32.00S,4,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,,,0,v,Livingston Bad Pass Turnover (P1.T15),Turnover,Bad Pass,1,0,452
+0041800402,640,PT04M32.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry L.B.FOUL (P2.T4) (S.Foster),Foul,Loose Ball,1,0,453
+0041800402,642,PT04M32.00S,4,0,,640,,,0,0,0,,0,97,106,203,,Instant Replay4th Period (10:29 PM EST),Instant Replay,Support Ruling,0,0,454
+0041800402,644,PT04M32.00S,4,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,,,0,v,SUB: Cousins FOR Bogut,Substitution,,0,0,455
+0041800402,645,PT04M32.00S,4,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,,,0,v,SUB: Iguodala FOR Livingston,Substitution,,0,0,456
+0041800402,648,PT04M26.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry P.FOUL (P3.PN) (E.Malloy),Foul,Personal,1,0,457
+0041800402,650,PT04M26.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,MISS Lowry Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,458
+0041800402,651,PT04M26.00S,4,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Rebound,Rebound,Normal Rebound,0,0,459
+0041800402,652,PT04M26.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,98,106,204,h,Lowry Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,460
+0041800402,653,PT04M05.00S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,227,120,26,Missed,1,,,0,v,MISS Iguodala 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,461
+0041800402,654,PT04M03.00S,4,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard REBOUND (Off:5 Def:6),Rebound,Unknown,1,0,462
+0041800402,655,PT03M54.00S,4,1610612761,TOR,1627832,VanVleet,F. VanVleet,-212,56,22,Missed,1,,,0,h,MISS VanVleet 22' Jump Shot,Missed Shot,Jump Shot,1,2,463
+0041800402,656,PT03M52.00S,4,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,,,0,v,Cousins REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,464
+0041800402,657,PT03M52.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,Lowry P.FOUL (P6.T3) (S.Foster),Foul,Personal,1,0,465
+0041800402,659,PT03M52.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,h,SUB: Green FOR Lowry,Substitution,,0,0,466
+0041800402,661,PT03M38.00S,4,1610612744,GSW,1626188,Cook,Q. Cook,-182,206,27,Missed,1,,,0,v,MISS Cook 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,467
+0041800402,662,PT03M35.00S,4,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard REBOUND (Off:5 Def:7),Rebound,Unknown,1,0,468
+0041800402,663,PT03M23.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,-228,-2,0,Missed,1,,,0,h,MISS Siakam 3PT Jump Shot,Missed Shot,Jump Shot,1,3,469
+0041800402,664,PT03M20.00S,4,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,,,0,v,Cousins REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,470
+0041800402,665,PT02M54.00S,4,1610612744,GSW,203110,Green,D. Green,-14,368,37,Missed,1,,,0,v,MISS Green 37' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,471
+0041800402,666,PT02M52.00S,4,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard REBOUND (Off:5 Def:8),Rebound,Unknown,1,0,472
+0041800402,667,PT02M48.00S,4,1610612761,TOR,202695,Leonard,K. Leonard,106,251,27,Missed,1,,,0,h,MISS Leonard 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,473
+0041800402,668,PT02M44.00S,4,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,,,0,v,Cousins REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,474
+0041800402,669,PT02M29.00S,4,1610612744,GSW,202326,Cousins,D. Cousins,-177,205,27,Missed,1,,,0,v,MISS Cousins 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,475
+0041800402,670,PT02M26.00S,4,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard REBOUND (Off:5 Def:9),Rebound,Unknown,1,0,476
+0041800402,671,PT02M18.00S,4,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard Lost Ball Turnover (P5.T15),Turnover,Lost Ball,1,0,477
+0041800402,671,PT02M18.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green STEAL (2 STL),,,1,0,478
+0041800402,673,PT02M18.00S,4,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard P.FOUL (P1.T4) (T.Brothers),Foul,Personal,1,0,479
+0041800402,675,PT02M00.00S,4,1610612744,GSW,202326,Cousins,D. Cousins,37,27,5,Missed,1,,,0,v,MISS Cousins 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,480
+0041800402,675,PT02M00.00S,4,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard BLOCK (1 BLK),,,1,2,481
+0041800402,680,PT01M58.00S,4,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Rebound,Rebound,Unknown,0,0,482
+0041800402,677,PT01M58.00S,4,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Jump Ball Leonard vs. Cousins: Tip to Green,Jump Ball,,1,0,483
+0041800402,681,PT01M58.00S,4,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,,,0,v,Cousins Violation:Jump Ball (S.Foster),Violation,Jump Ball,0,0,484
+0041800402,683,PT01M38.00S,4,1610612761,TOR,202695,Leonard,K. Leonard,7,85,9,Missed,1,,,0,h,MISS Leonard 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,485
+0041800402,684,PT01M36.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,486
+0041800402,685,PT01M21.00S,4,1610612744,GSW,1626188,Cook,Q. Cook,-61,120,13,Missed,1,,,0,v,MISS Cook 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,487
+0041800402,686,PT01M18.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,,,0,h,Siakam REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,488
+0041800402,687,PT01M08.00S,4,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,,,0,v,Cousins P.FOUL (P5.PN) (E.Malloy),Foul,Personal,1,0,489
+0041800402,689,PT01M08.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry T.FOUL (P3.PN) (E.Malloy),Foul,Technical,1,0,490
+0041800402,690,PT01M08.00S,4,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,99,106,205,h,Leonard Free Throw Technical (32 PTS),Free Throw,Free Throw Technical,1,0,491
+0041800402,691,PT01M08.00S,4,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,100,106,206,h,Leonard Free Throw 1 of 2 (33 PTS),Free Throw,Free Throw 1 of 2,0,0,492
+0041800402,692,PT01M08.00S,4,1610612761,TOR,202695,Leonard,K. Leonard,0,0,0,,0,101,106,207,h,Leonard Free Throw 2 of 2 (34 PTS),Free Throw,Free Throw 2 of 2,0,0,493
+0041800402,693,PT01M08.00S,4,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,494
+0041800402,705,PT00M51.60S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green Out of Bounds - Bad Pass Turnover Turnover (P5.T16),Turnover,Out of Bounds - Bad Pass Turnover,1,0,495
+0041800402,696,PT00M51.60S,4,0,,695,Recasner,E. Recasner,0,0,0,,0,101,106,207,,Instant Replay4th Period (10:42 PM EST),Instant Replay,Overturn Ruling,0,0,496
+0041800402,697,PT00M51.60S,4,1610612744,GSW,1626188,Cook,Q. Cook,0,0,0,,0,,,0,v,SUB: Livingston FOR Cook,Substitution,,0,0,497
+0041800402,699,PT00M40.60S,4,1610612761,TOR,1627832,VanVleet,F. VanVleet,-68,263,27,Missed,1,,,0,h,MISS VanVleet 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,498
+0041800402,700,PT00M37.20S,4,1610612761,TOR,201980,Green,D. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,499
+0041800402,701,PT00M31.70S,4,1610612761,TOR,202695,Leonard,K. Leonard,28,83,9,Missed,1,,,0,h,MISS Leonard 9' Hook Shot,Missed Shot,Hook Shot,1,2,500
+0041800402,702,PT00M28.70S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,,,0,h,Siakam REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,501
+0041800402,703,PT00M26.90S,4,1610612761,TOR,201980,Green,D. Green,-188,163,25,Made,1,104,106,210,h,Green 25' 3PT Jump Shot (8 PTS) (Siakam 5 AST),Made Shot,Jump Shot,1,3,502
+0041800402,706,PT00M07.00S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,-214,155,26,Made,1,104,109,213,v,Iguodala 26' 3PT Jump Shot (8 PTS) (Livingston 3 AST),Made Shot,Jump Shot,1,3,503
+0041800402,708,PT00M05.90S,4,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,504
+0041800402,709,PT00M05.90S,4,1610612744,GSW,202326,Cousins,D. Cousins,0,0,0,,0,,,0,v,SUB: Bell FOR Cousins,Substitution,,0,0,505
+0041800402,711,PT00M01.80S,4,1610612761,TOR,201980,Green,D. Green,-233,32,24,Missed,1,,,0,h,MISS Green 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,506
+0041800402,712,PT00M01.80S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,v,Iguodala REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,507
+0041800402,713,PT00M00.00S,4,0,,0,,,0,0,0,,0,104,109,213,,End of 4th Period (10:47 PM EST),period,end,1,0,508

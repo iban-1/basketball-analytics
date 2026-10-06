@@ -1,0 +1,3 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,minutes,fieldGoalsMade,fieldGoalsAttempted,fieldGoalsPercentage,threePointersMade,threePointersAttempted,threePointersPercentage,freeThrowsMade,freeThrowsAttempted,freeThrowsPercentage,reboundsOffensive,reboundsDefensive,reboundsTotal,assists,steals,blocks,turnovers,foulsPersonal,points,plusMinusPoints
+0041900402,1610612747,Los Angeles,Lakers,LAL,lakers,240:00,49,97,0.505,16,47,0.34,10,17,0.588,16,28,44,32,6,3,9,26,124,10.0
+0041900402,1610612748,Miami,Heat,MIA,heat,240:00,36,71,0.507,11,27,0.407,31,34,0.912,6,31,37,29,2,1,9,23,114,-10.0

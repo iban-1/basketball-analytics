@@ -1,0 +1,3 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,minutes,points,contestedShots,contestedShots2pt,contestedShots3pt,deflections,chargesDrawn,screenAssists,screenAssistPoints,looseBallsRecoveredOffensive,looseBallsRecoveredDefensive,looseBallsRecoveredTotal,offensiveBoxOuts,defensiveBoxOuts,boxOutPlayerTeamRebounds,boxOutPlayerRebounds,boxOuts
+0042100405,1610612744,Golden State,Warriors,GSW,warriors,236:00,104,55,35,20,17,0,11,26,1,2,3,1,7,7,5,8
+0042100405,1610612738,Boston,Celtics,BOS,celtics,236:00,91,59,34,25,7,0,10,23,5,1,6,1,9,10,5,10

@@ -1,0 +1,3 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,minutes,points,contestedShots,contestedShots2pt,contestedShots3pt,deflections,chargesDrawn,screenAssists,screenAssistPoints,looseBallsRecoveredOffensive,looseBallsRecoveredDefensive,looseBallsRecoveredTotal,offensiveBoxOuts,defensiveBoxOuts,boxOutPlayerTeamRebounds,boxOutPlayerRebounds,boxOuts
+0041500401,1610612744,Golden State,Warriors,GSW,warriors,237:00,104,64,48,16,15,2,6,13,0,0,4,0,0,0,0,0
+0041500401,1610612739,Cleveland,Cavaliers,CLE,cavaliers,238:00,89,61,42,19,17,0,3,6,0,0,4,0,0,0,0,0

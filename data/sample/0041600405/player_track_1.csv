@@ -1,0 +1,3 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,minutes,speed,distance,reboundChancesOffensive,reboundChancesDefensive,reboundChancesTotal,touches,secondaryAssists,freeThrowAssists,passes,assists,contestedFieldGoalsMade,contestedFieldGoalsAttempted,contestedFieldGoalPercentage,uncontestedFieldGoalsMade,uncontestedFieldGoalsAttempted,uncontestedFieldGoalsPercentage,fieldGoalPercentage,defendedAtRimFieldGoalsMade,defendedAtRimFieldGoalsAttempted,defendedAtRimFieldGoalPercentage
+0041600405,1610612744,Golden State,Warriors,GSW,warriors,240:00,,16.46,42,57,93,400,2,2,271,27,22,38,0.579,24,52,0.462,0.511,22,31,0.71
+0041600405,1610612739,Cleveland,Cavaliers,CLE,cavaliers,240:00,,16.48,32,59,89,375,1,2,251,22,25,41,0.61,22,47,0.468,0.534,18,25,0.72

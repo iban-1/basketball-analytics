@@ -1,0 +1,30 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,personId,firstName,familyName,nameI,playerSlug,position,comment,jerseyNum,minutes,pointsOffTurnovers,pointsSecondChance,pointsFastBreak,pointsPaint,oppPointsOffTurnovers,oppPointsSecondChance,oppPointsFastBreak,oppPointsPaint,blocks,blocksAgainst,foulsPersonal,foulsDrawn
+0042100405,1610612738,Boston,Celtics,BOS,celtics,1628369,Jayson,Tatum,J. Tatum,jayson-tatum,F,,0,44:25,5,2,0,6,20,7,10,50,0,0,3,7
+0042100405,1610612738,Boston,Celtics,BOS,celtics,201143,Al,Horford,A. Horford,al-horford,F,,42,32:51,0,3,0,2,18,4,8,38,0,0,1,2
+0042100405,1610612738,Boston,Celtics,BOS,celtics,1629057,Robert,Williams III,R. Williams III,robert-williams-iii,C,,44,30:14,0,4,0,8,12,3,8,30,0,0,2,1
+0042100405,1610612738,Boston,Celtics,BOS,celtics,1627759,Jaylen,Brown,J. Brown,jaylen-brown,G,,7,44:03,2,2,2,10,20,6,12,46,0,1,2,9
+0042100405,1610612738,Boston,Celtics,BOS,celtics,203935,Marcus,Smart,M. Smart,marcus-smart,G,,36,39:42,2,3,0,8,18,6,10,44,0,0,4,3
+0042100405,1610612738,Boston,Celtics,BOS,celtics,1628401,Derrick,White,D. White,derrick-white,,,9,21:25,0,0,0,0,9,5,4,24,0,1,1,2
+0042100405,1610612738,Boston,Celtics,BOS,celtics,1629684,Grant,Williams,G. Williams,grant-williams,,,12,16:04,0,0,3,2,9,3,6,14,2,0,3,2
+0042100405,1610612738,Boston,Celtics,BOS,celtics,1630202,Payton,Pritchard,P. Pritchard,payton-pritchard,,,11,4:41,0,0,0,0,4,1,2,4,0,0,0,0
+0042100405,1610612738,Boston,Celtics,BOS,celtics,1629752,Juwan,Morgan,J. Morgan,juwan-morgan,,,16,1:19,0,0,0,0,0,0,0,0,0,0,0,0
+0042100405,1610612738,Boston,Celtics,BOS,celtics,1630573,Sam,Hauser,S. Hauser,sam-hauser,,,30,1:19,0,0,0,0,0,0,0,0,0,0,0,0
+0042100405,1610612738,Boston,Celtics,BOS,celtics,203917,Nik,Stauskas,N. Stauskas,nik-stauskas,,,13,1:19,0,0,0,0,0,0,0,0,0,0,0,0
+0042100405,1610612738,Boston,Celtics,BOS,celtics,1628436,Luke,Kornet,L. Kornet,luke-kornet,,,40,1:19,0,0,3,0,0,0,0,0,0,0,0,0
+0042100405,1610612738,Boston,Celtics,BOS,celtics,1630174,Aaron,Nesmith,A. Nesmith,aaron-nesmith,,,26,1:19,0,2,0,0,0,0,0,0,0,0,0,2
+0042100405,1610612738,Boston,Celtics,BOS,celtics,1630238,Malik,Fitts,M. Fitts,malik-fitts,,DNP - Coach's Decision,8,,0,0,0,0,0,0,0,0,0,0,0,0
+0042100405,1610612738,Boston,Celtics,BOS,celtics,1628464,Daniel,Theis,D. Theis,daniel-theis,,DNP - Coach's Decision,27,,0,0,0,0,0,0,0,0,0,0,0,0
+0042100405,1610612744,Golden State,Warriors,GSW,warriors,203952,Andrew,Wiggins,A. Wiggins,andrew-wiggins,F,,22,42:32,7,3,2,20,9,14,5,34,1,0,2,4
+0042100405,1610612744,Golden State,Warriors,GSW,warriors,203490,Otto,Porter Jr.,O. Porter Jr.,otto-porter-jr,F,,32,14:37,0,0,0,2,5,0,2,4,1,0,2,0
+0042100405,1610612744,Golden State,Warriors,GSW,warriors,203110,Draymond,Green,D. Green,draymond-green,C,,23,34:59,2,0,2,6,9,7,2,24,0,1,6,2
+0042100405,1610612744,Golden State,Warriors,GSW,warriors,202691,Klay,Thompson,K. Thompson,klay-thompson,G,,11,39:38,7,0,2,0,9,12,5,28,0,0,4,2
+0042100405,1610612744,Golden State,Warriors,GSW,warriors,201939,Stephen,Curry,S. Curry,stephen-curry,G,,30,37:08,2,0,2,10,7,10,5,28,0,1,2,3
+0042100405,1610612744,Golden State,Warriors,GSW,warriors,1626172,Kevon,Looney,K. Looney,kevon-looney,,,5,16:45,0,2,0,2,0,7,3,12,0,0,5,0
+0042100405,1610612744,Golden State,Warriors,GSW,warriors,1627780,Gary,Payton II,G. Payton II,gary-payton-ii,,,0,26:09,2,2,4,10,2,8,3,24,0,0,3,3
+0042100405,1610612744,Golden State,Warriors,GSW,warriors,2738,Andre,Iguodala,A. Iguodala,andre-iguodala,,,9,3:56,0,0,0,0,0,2,0,6,0,0,0,0
+0042100405,1610612744,Golden State,Warriors,GSW,warriors,1629673,Jordan,Poole,J. Poole,jordan-poole,,,3,14:17,2,0,0,0,2,6,0,16,0,0,1,2
+0042100405,1610612744,Golden State,Warriors,GSW,warriors,202357,Nemanja,Bjelica,N. Bjelica,nemanja-bjelica,,,8,4:43,0,0,0,0,2,6,3,4,0,0,1,0
+0042100405,1610612744,Golden State,Warriors,GSW,warriors,1627814,Damion,Lee,D. Lee,damion-lee,,,1,1:19,0,0,0,0,0,2,3,0,0,0,0,0
+0042100405,1610612744,Golden State,Warriors,GSW,warriors,1630541,Moses,Moody,M. Moody,moses-moody,,,4,1:19,0,0,0,0,0,2,3,0,0,0,0,0
+0042100405,1610612744,Golden State,Warriors,GSW,warriors,1630228,Jonathan,Kuminga,J. Kuminga,jonathan-kuminga,,,00,1:19,0,0,0,0,0,2,3,0,0,0,0,0
+0042100405,1610612744,Golden State,Warriors,GSW,warriors,1629308,Juan,Toscano-Anderson,J. Toscano-Anderson,juan-toscano-anderson,,,95,1:19,0,0,0,0,0,2,3,0,0,0,2,0

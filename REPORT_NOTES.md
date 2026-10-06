@@ -70,7 +70,12 @@ one camera, so the replay shows it next to the player the analysis says holds it
 * **Why are some stats missing?** NBA.com does not publish PER, win shares, drives, time of possession,
   potential assists, catch-and-shoot splits or contested-rebound % for a single game; the site lists them
   instead of inventing values.
-* **Is it allowed?** The stats are NBA.com's and covered by its terms (not reviewed in full); the original
+* **Why does the hosted site show a "demo sample"?** NBA.com's stats servers often ignore requests from
+  public cloud hosts, so a hosted copy cannot fetch live data. The site detects that (one short probe, then
+  a 10-minute memory) and falls back to a bundled sample of every Finals game of 2016-2022, with a visible
+  notice. Run locally for all playoff games.
+* **Is it allowed?** The stats are NBA.com's and covered by its terms (not reviewed in full), and a small
+  sample of them is bundled in the repository for the hosted demo; the original
   clip is not in the repository; the annotated output (one still in the README, the full demo as a release
   asset) is shared for illustration and the footage remains the rights holder's, so it is removed on request. Ultralytics YOLO is AGPL-3.0. The background photo
   was supplied by the repository owner as free to use and could not be verified.

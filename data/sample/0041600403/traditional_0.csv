@@ -1,0 +1,27 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,personId,firstName,familyName,nameI,playerSlug,position,comment,jerseyNum,minutes,fieldGoalsMade,fieldGoalsAttempted,fieldGoalsPercentage,threePointersMade,threePointersAttempted,threePointersPercentage,freeThrowsMade,freeThrowsAttempted,freeThrowsPercentage,reboundsOffensive,reboundsDefensive,reboundsTotal,assists,steals,blocks,turnovers,foulsPersonal,points,plusMinusPoints
+0041600403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2544,LeBron,James,L. James,lebron-james,F,,,45:37,15,27,0.556,4,9,0.444,5,6,0.833,3,8,11,9,1,1,5,2,39,7.0
+0041600403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,201567,Kevin,Love,K. Love,kevin-love,G,,,37:16,1,9,0.111,1,7,0.143,6,7,0.857,4,9,13,1,6,0,2,3,9,-11.0
+0041600403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,202684,Tristan,Thompson,T. Thompson,tristan-thompson,C,,,23:05,0,1,0.0,0,0,0.0,0,0,0.0,1,2,3,2,0,2,1,1,0,-6.0
+0041600403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2747,JR,Smith,J. Smith,jr-smith,G,,,34:20,5,10,0.5,5,10,0.5,1,2,0.5,0,1,1,0,2,0,1,4,16,-8.0
+0041600403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,202681,Kyrie,Irving,K. Irving,kyrie-irving,G,,,44:23,16,29,0.552,0,7,0.0,6,6,1.0,1,5,6,3,0,0,2,5,38,-9.0
+0041600403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,202697,Iman,Shumpert,I. Shumpert,iman-shumpert,G,,,11:53,0,3,0.0,0,2,0.0,2,2,1.0,0,0,0,1,0,0,0,2,2,0.0
+0041600403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2594,Kyle,Korver,K. Korver,kyle-korver,G,,,24:08,3,7,0.429,2,6,0.333,0,0,0.0,0,1,1,0,0,0,0,4,8,3.0
+0041600403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2210,Richard,Jefferson,R. Jefferson,richard-jefferson,G,,,15:41,0,2,0.0,0,2,0.0,1,2,0.5,1,1,2,1,0,0,1,3,1,-5.0
+0041600403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,101114,Deron,Williams,D. Williams,deron-williams,F,,,3:37,0,2,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,4.0
+0041600403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,101112,Channing,Frye,C. Frye,channing-frye,,DNP - Coach's Decision,,,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0.0
+0041600403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2563,Dahntay,Jones,D. Jones,dahntay-jones,,DNP - Coach's Decision,,,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0.0
+0041600403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2592,James,Jones,J. Jones,james-jones,,DNP - Coach's Decision,,,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0.0
+0041600403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,202682,Derrick,Williams,D. Williams,derrick-williams,,DNP - Coach's Decision,,,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0.0
+0041600403,1610612744,Golden State,Warriors,GSW,warriors,201142,Kevin,Durant,K. Durant,kevin-durant,F,,,40:55,10,18,0.556,4,7,0.571,7,8,0.875,0,9,9,4,1,1,3,2,31,0.0
+0041600403,1610612744,Golden State,Warriors,GSW,warriors,203110,Draymond,Green,D. Green,draymond-green,G,,,32:54,3,9,0.333,0,3,0.0,2,2,1.0,1,7,8,7,1,1,4,5,8,14.0
+0041600403,1610612744,Golden State,Warriors,GSW,warriors,2585,Zaza,Pachulia,Z. Pachulia,zaza-pachulia,C,,,13:28,0,3,0.0,0,0,0.0,0,0,0.0,0,1,1,1,0,0,4,4,0,-2.0
+0041600403,1610612744,Golden State,Warriors,GSW,warriors,202691,Klay,Thompson,K. Thompson,klay-thompson,G,,,40:40,11,18,0.611,6,11,0.545,2,2,1.0,0,5,5,2,0,0,1,4,30,3.0
+0041600403,1610612744,Golden State,Warriors,GSW,warriors,201939,Stephen,Curry,S. Curry,stephen-curry,G,,,39:22,8,19,0.421,5,9,0.556,5,5,1.0,5,8,13,6,2,0,1,3,26,11.0
+0041600403,1610612744,Golden State,Warriors,GSW,warriors,201580,JaVale,McGee,J. McGee,javale-mcgee,,,,7:57,0,0,0.0,0,0,0.0,1,2,0.5,1,0,1,2,0,1,1,3,1,1.0
+0041600403,1610612744,Golden State,Warriors,GSW,warriors,2738,Andre,Iguodala,A. Iguodala,andre-iguodala,G,,,29:39,2,6,0.333,1,3,0.333,2,2,1.0,1,4,5,5,4,1,2,3,7,10.0
+0041600403,1610612744,Golden State,Warriors,GSW,warriors,2733,Shaun,Livingston,S. Livingston,shaun-livingston,,,,11:52,3,6,0.5,0,0,0.0,0,0,0.0,0,0,0,1,0,0,1,1,6,-2.0
+0041600403,1610612744,Golden State,Warriors,GSW,warriors,1627775,Patrick,McCaw,P. McCaw,patrick-mccaw,,,,3:54,0,1,0.0,0,0,0.0,2,2,1.0,0,0,0,0,0,0,0,0,2,4.0
+0041600403,1610612744,Golden State,Warriors,GSW,warriors,2561,David,West,D. West,david-west,F,,,10:35,3,3,1.0,0,0,0.0,1,1,1.0,0,1,1,0,0,0,0,1,7,-6.0
+0041600403,1610612744,Golden State,Warriors,GSW,warriors,203546,Ian,Clark,I. Clark,ian-clark,G,,,8:32,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,1,0,0,1,2,0,-6.0
+0041600403,1610612744,Golden State,Warriors,GSW,warriors,203949,James Michael,McAdoo,J. McAdoo,james-michael-mcadoo,,,,0:06,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2.0
+0041600403,1610612744,Golden State,Warriors,GSW,warriors,2440,Matt,Barnes,M. Barnes,matt-barnes,,,,0:06,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0.0

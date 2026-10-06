@@ -1,0 +1,27 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,personId,firstName,familyName,nameI,playerSlug,position,comment,jerseyNum,minutes,pointsOffTurnovers,pointsSecondChance,pointsFastBreak,pointsPaint,oppPointsOffTurnovers,oppPointsSecondChance,oppPointsFastBreak,oppPointsPaint,blocks,blocksAgainst,foulsPersonal,foulsDrawn
+0041500407,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2544,LeBron,James,L. James,lebron-james,F,,23,46:49,5,1,4,14,10,6,7,26,3,2,1,7
+0041500407,1610612739,Cleveland,Cavaliers,CLE,cavaliers,201567,Kevin,Love,K. Love,kevin-love,F,,0,30:02,0,7,0,6,5,2,5,14,0,0,2,4
+0041500407,1610612739,Cleveland,Cavaliers,CLE,cavaliers,202684,Tristan,Thompson,T. Thompson,tristan-thompson,C,,13,31:49,0,1,0,6,2,6,7,18,2,0,4,2
+0041500407,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2747,JR,Smith,J. Smith,jr-smith,G,,5,38:55,0,2,2,4,8,4,7,22,0,1,3,0
+0041500407,1610612739,Cleveland,Cavaliers,CLE,cavaliers,202681,Kyrie,Irving,K. Irving,kyrie-irving,G,,2,43:00,7,2,8,14,10,4,7,26,1,1,3,6
+0041500407,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2210,Richard,Jefferson,R. Jefferson,richard-jefferson,,,24,25:30,2,0,2,2,10,4,2,18,0,1,1,1
+0041500407,1610612739,Cleveland,Cavaliers,CLE,cavaliers,202697,Iman,Shumpert,I. Shumpert,iman-shumpert,,,4,19:10,0,4,0,0,5,2,0,12,0,0,0,3
+0041500407,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2590,Mo,Williams,M. Williams,mo-williams,,,52,4:45,2,0,2,2,0,2,0,4,0,0,1,0
+0041500407,1610612739,Cleveland,Cavaliers,CLE,cavaliers,203521,Matthew,Dellavedova,M. Dellavedova,matthew-dellavedova,,DNP - Coach's Decision,8,,0,0,0,0,0,0,0,0,0,0,0,0
+0041500407,1610612739,Cleveland,Cavaliers,CLE,cavaliers,101112,Channing,Frye,C. Frye,channing-frye,,DNP - Coach's Decision,9,,0,0,0,0,0,0,0,0,0,0,0,0
+0041500407,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2563,Dahntay,Jones,D. Jones,dahntay-jones,,DNP - Coach's Decision,30,,0,0,0,0,0,0,0,0,0,0,0,0
+0041500407,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2592,James,Jones,J. Jones,james-jones,,DNP - Coach's Decision,1,,0,0,0,0,0,0,0,0,0,0,0,0
+0041500407,1610612739,Cleveland,Cavaliers,CLE,cavaliers,202389,Timofey,Mozgov,T. Mozgov,timofey-mozgov,,DNP - Coach's Decision,20,,0,0,0,0,0,0,0,0,0,0,0,0
+0041500407,1610612744,Golden State,Warriors,GSW,warriors,203084,Harrison,Barnes,H. Barnes,harrison-barnes,F,,40,29:24,0,0,0,2,6,16,8,32,0,0,4,1
+0041500407,1610612744,Golden State,Warriors,GSW,warriors,203110,Draymond,Green,D. Green,draymond-green,F,,23,46:54,0,4,0,10,16,15,18,48,0,0,3,3
+0041500407,1610612744,Golden State,Warriors,GSW,warriors,203105,Festus,Ezeli,F. Ezeli,festus-ezeli,C,,31,10:45,0,0,0,0,5,2,2,12,0,2,2,1
+0041500407,1610612744,Golden State,Warriors,GSW,warriors,202691,Klay,Thompson,K. Thompson,klay-thompson,G,,11,42:17,2,0,3,4,16,13,18,46,0,0,2,0
+0041500407,1610612744,Golden State,Warriors,GSW,warriors,201939,Stephen,Curry,S. Curry,stephen-curry,G,,30,39:16,3,0,2,4,14,13,16,38,1,1,4,3
+0041500407,1610612744,Golden State,Warriors,GSW,warriors,2738,Andre,Iguodala,A. Iguodala,andre-iguodala,,,9,37:53,0,0,0,4,12,11,14,34,2,1,3,3
+0041500407,1610612744,Golden State,Warriors,GSW,warriors,2760,Anderson,Varejao,A. Varejao,anderson-varejao,,,18,8:29,0,0,0,0,5,3,8,10,0,1,3,2
+0041500407,1610612744,Golden State,Warriors,GSW,warriors,2733,Shaun,Livingston,S. Livingston,shaun-livingston,,,34,16:04,2,2,2,4,4,12,4,14,0,0,1,1
+0041500407,1610612744,Golden State,Warriors,GSW,warriors,2571,Leandro,Barbosa,L. Barbosa,leandro-barbosa,,,19,4:24,3,0,0,0,0,0,0,2,0,1,1,0
+0041500407,1610612744,Golden State,Warriors,GSW,warriors,201578,Marreese,Speights,M. Speights,marreese-speights,,,5,4:34,0,0,0,0,2,0,2,4,2,0,0,1
+0041500407,1610612744,Golden State,Warriors,GSW,warriors,203546,Ian,Clark,I. Clark,ian-clark,,DNP - Coach's Decision,21,,0,0,0,0,0,0,0,0,0,0,0,0
+0041500407,1610612744,Golden State,Warriors,GSW,warriors,203949,James Michael,McAdoo,J. McAdoo,james-michael-mcadoo,,DNP - Coach's Decision,20,,0,0,0,0,0,0,0,0,0,0,0,0
+0041500407,1610612744,Golden State,Warriors,GSW,warriors,201575,Brandon,Rush,B. Rush,brandon-rush,,DNP - Coach's Decision,4,,0,0,0,0,0,0,0,0,0,0,0,0

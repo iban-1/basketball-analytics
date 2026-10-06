@@ -1,0 +1,17 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,personId,firstName,familyName,nameI,playerSlug,position,comment,jerseyNum,minutes,points,contestedShots,contestedShots2pt,contestedShots3pt,deflections,chargesDrawn,screenAssists,screenAssistPoints,looseBallsRecoveredOffensive,looseBallsRecoveredDefensive,looseBallsRecoveredTotal,offensiveBoxOuts,defensiveBoxOuts,boxOutPlayerTeamRebounds,boxOutPlayerRebounds,boxOuts
+0041900405,1610612748,Miami,Heat,MIA,heat,202710,Jimmy,Butler III,J. Butler III,jimmy-butler-iii,F,,22,47:12,35,3,2,1,5,0,3,7,2,1,3,1,2,3,1,3
+0041900405,1610612748,Miami,Heat,MIA,heat,203109,Jae,Crowder,J. Crowder,jae-crowder,F,,99,39:48,11,9,3,6,2,0,0,0,0,0,0,0,2,2,0,2
+0041900405,1610612748,Miami,Heat,MIA,heat,1628389,Bam,Adebayo,B. Adebayo,bam-adebayo,C,,13,37:55,13,13,7,6,1,0,0,0,0,0,0,1,3,3,1,4
+0041900405,1610612748,Miami,Heat,MIA,heat,1629130,Duncan,Robinson,D. Robinson,duncan-robinson,G,,55,37:02,26,5,3,2,4,0,1,2,0,1,1,0,1,1,0,1
+0041900405,1610612748,Miami,Heat,MIA,heat,1629639,Tyler,Herro,T. Herro,tyler-herro,G,,14,30:37,12,9,3,6,2,0,1,2,0,0,0,0,0,0,0,0
+0041900405,1610612748,Miami,Heat,MIA,heat,1629134,Kendrick,Nunn,K. Nunn,kendrick-nunn,,,25,27:40,14,4,0,4,0,0,1,3,0,0,0,0,0,0,0,0
+0041900405,1610612748,Miami,Heat,MIA,heat,2738,Andre,Iguodala,A. Iguodala,andre-iguodala,,,28,19:46,0,5,3,2,3,0,0,0,1,0,1,0,5,2,1,5
+0041900405,1610612747,Los Angeles,Lakers,LAL,lakers,2544,LeBron,James,L. James,lebron-james,F,,23,41:51,40,4,1,3,1,0,0,0,1,1,2,0,2,1,0,2
+0041900405,1610612747,Los Angeles,Lakers,LAL,lakers,203076,Anthony,Davis,A. Davis,anthony-davis,F,,3,42:13,28,21,14,7,3,0,2,4,0,0,0,2,0,2,2,2
+0041900405,1610612747,Los Angeles,Lakers,LAL,lakers,2730,Dwight,Howard,D. Howard,dwight-howard,C,,39,15:25,2,7,4,3,0,0,1,3,0,0,0,1,2,2,1,3
+0041900405,1610612747,Los Angeles,Lakers,LAL,lakers,201980,Danny,Green,D. Green,danny-green,G,,14,23:46,8,6,2,4,0,0,0,0,0,0,0,0,0,0,0,0
+0041900405,1610612747,Los Angeles,Lakers,LAL,lakers,203484,Kentavious,Caldwell-Pope,K. Caldwell-Pope,kentavious-caldwell-pope,G,,1,31:01,16,2,1,1,2,0,0,0,0,2,2,1,1,2,2,2
+0041900405,1610612747,Los Angeles,Lakers,LAL,lakers,1628398,Kyle,Kuzma,K. Kuzma,kyle-kuzma,,,0,22:10,7,4,3,1,0,0,0,0,0,0,0,0,1,0,0,1
+0041900405,1610612747,Los Angeles,Lakers,LAL,lakers,200765,Rajon,Rondo,R. Rondo,rajon-rondo,,,9,18:15,4,2,0,2,1,0,0,0,0,0,0,0,0,0,0,0
+0041900405,1610612747,Los Angeles,Lakers,LAL,lakers,1627936,Alex,Caruso,A. Caruso,alex-caruso,,,4,22:46,3,3,1,2,1,0,0,0,0,0,0,0,0,0,0,0
+0041900405,1610612747,Los Angeles,Lakers,LAL,lakers,202693,Markieff,Morris,M. Morris,markieff-morris,,,88,22:34,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0

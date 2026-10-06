@@ -1,0 +1,3 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,teamWins,teamLosses,period1Score,period2Score,period3Score,period4Score,score
+0042100403,1610612738,Boston,Celtics,BOS,celtics,2,1,33,35,25,23,116
+0042100403,1610612744,Golden State,Warriors,GSW,warriors,1,2,22,34,33,11,100

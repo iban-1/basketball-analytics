@@ -1,0 +1,27 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,personId,firstName,familyName,nameI,playerSlug,position,comment,jerseyNum,minutes,pointsOffTurnovers,pointsSecondChance,pointsFastBreak,pointsPaint,oppPointsOffTurnovers,oppPointsSecondChance,oppPointsFastBreak,oppPointsPaint,blocks,blocksAgainst,foulsPersonal,foulsDrawn
+0041800406,1610612761,Toronto,Raptors,TOR,raptors,202695,Kawhi,Leonard,K. Leonard,kawhi-leonard,F,,2,41:05,2,3,5,8,13,13,13,36,1,0,4,6
+0041800406,1610612761,Toronto,Raptors,TOR,raptors,1627783,Pascal,Siakam,P. Siakam,pascal-siakam,F,,43,46:10,2,0,4,12,13,14,13,42,1,0,2,2
+0041800406,1610612761,Toronto,Raptors,TOR,raptors,201188,Marc,Gasol,M. Gasol,marc-gasol,C,,33,26:34,3,0,2,0,9,12,11,32,0,1,4,4
+0041800406,1610612761,Toronto,Raptors,TOR,raptors,201980,Danny,Green,D. Green,danny-green,G,,14,17:44,0,0,0,0,5,7,9,14,0,0,1,0
+0041800406,1610612761,Toronto,Raptors,TOR,raptors,200768,Kyle,Lowry,K. Lowry,kyle-lowry,G,,7,41:42,6,6,5,10,8,14,10,36,0,1,5,4
+0041800406,1610612761,Toronto,Raptors,TOR,raptors,1627832,Fred,VanVleet,F. VanVleet,fred-vanvleet,,,23,33:48,0,3,0,0,11,7,7,30,0,1,1,6
+0041800406,1610612761,Toronto,Raptors,TOR,raptors,201586,Serge,Ibaka,S. Ibaka,serge-ibaka,,,9,22:07,4,2,2,12,4,2,2,12,0,2,4,1
+0041800406,1610612761,Toronto,Raptors,TOR,raptors,1626181,Norman,Powell,N. Powell,norman-powell,,,24,10:50,0,0,0,0,2,1,0,8,0,1,2,0
+0041800406,1610612761,Toronto,Raptors,TOR,raptors,1628384,OG,Anunoby,O. Anunoby,og-anunoby,,DNP - Coach's Decision,3,,0,0,0,0,0,0,0,0,0,0,0,0
+0041800406,1610612761,Toronto,Raptors,TOR,raptors,202391,Jeremy,Lin,J. Lin,jeremy-lin,,DNP - Coach's Decision,17,,0,0,0,0,0,0,0,0,0,0,0,0
+0041800406,1610612761,Toronto,Raptors,TOR,raptors,1627775,Patrick,McCaw,P. McCaw,patrick-mccaw,,DNP - Coach's Decision,1,,0,0,0,0,0,0,0,0,0,0,0,0
+0041800406,1610612761,Toronto,Raptors,TOR,raptors,201975,Jodie,Meeks,J. Meeks,jodie-meeks,,DNP - Coach's Decision,20,,0,0,0,0,0,0,0,0,0,0,0,0
+0041800406,1610612761,Toronto,Raptors,TOR,raptors,1626259,Malcolm,Miller,M. Miller,malcolm-miller,,DNP - Coach's Decision,13,,0,0,0,0,0,0,0,0,0,0,0,0
+0041800406,1610612744,Golden State,Warriors,GSW,warriors,2738,Andre,Iguodala,A. Iguodala,andre-iguodala,F,,9,32:01,4,3,2,10,14,12,15,34,1,0,3,4
+0041800406,1610612744,Golden State,Warriors,GSW,warriors,203110,Draymond,Green,D. Green,draymond-green,F,,23,44:12,2,4,0,6,17,12,16,40,2,0,4,3
+0041800406,1610612744,Golden State,Warriors,GSW,warriors,1626172,Kevon,Looney,K. Looney,kevon-looney,C,,5,26:51,0,0,2,6,5,10,9,20,1,0,2,0
+0041800406,1610612744,Golden State,Warriors,GSW,warriors,202691,Klay,Thompson,K. Thompson,klay-thompson,G,,11,31:60,5,5,7,4,6,7,12,30,0,0,3,5
+0041800406,1610612744,Golden State,Warriors,GSW,warriors,201939,Stephen,Curry,S. Curry,stephen-curry,G,,30,41:53,0,0,0,0,15,12,16,38,1,1,3,4
+0041800406,1610612744,Golden State,Warriors,GSW,warriors,101106,Andrew,Bogut,A. Bogut,andrew-bogut,,,12,2:50,0,0,0,0,3,0,3,4,0,0,0,0
+0041800406,1610612744,Golden State,Warriors,GSW,warriors,1628035,Alfonzo,McKinnie,A. McKinnie,alfonzo-mckinnie,,,28,10:29,0,0,0,0,1,0,3,10,0,0,2,0
+0041800406,1610612744,Golden State,Warriors,GSW,warriors,202326,DeMarcus,Cousins,D. Cousins,demarcus-cousins,,,0,18:44,0,2,0,8,9,6,6,14,1,1,3,6
+0041800406,1610612744,Golden State,Warriors,GSW,warriors,1626188,Quinn,Cook,Q. Cook,quinn-cook,,,4,12:31,0,0,0,2,9,4,6,10,0,0,2,1
+0041800406,1610612744,Golden State,Warriors,GSW,warriors,2733,Shaun,Livingston,S. Livingston,shaun-livingston,,,34,16:10,2,0,2,6,4,7,4,8,0,0,1,0
+0041800406,1610612744,Golden State,Warriors,GSW,warriors,201973,Jonas,Jerebko,J. Jerebko,jonas-jerebko,,,21,2:19,0,0,0,0,2,0,0,2,0,0,0,0
+0041800406,1610612744,Golden State,Warriors,GSW,warriors,1628395,Jordan,Bell,J. Bell,jordan-bell,,DNP - Coach's Decision,2,,0,0,0,0,0,0,0,0,0,0,0,0
+0041800406,1610612744,Golden State,Warriors,GSW,warriors,1628980,Jacob,Evans,J. Evans,jacob-evans,,DNP - Coach's Decision,10,,0,0,0,0,0,0,0,0,0,0,0,0

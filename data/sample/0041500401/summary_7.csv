@@ -1,0 +1,3 @@
+gameId,teamId,teamCity,teamName,teamTricode,points,reboundsTotal,assists,steals,blocks,turnovers,fieldGoalsPercentage,threePointersPercentage,freeThrowsPercentage,pointsInThePaint,pointsSecondChance,pointsFastBreak,biggestLead,leadChanges,timesTied,biggestScoringRun,turnoversTeam,turnoversTotal,reboundsTeam,pointsFromTurnovers,benchPoints
+0041500401,1610612744,Golden State,Warriors,GSW,104.0,41.0,29.0,9.0,4.0,9.0,0.494,0.333,0.9,54.0,15.0,9.0,20.0,7.0,3.0,15.0,0.0,9.0,2.0,25.0,45.0
+0041500401,1610612739,Cleveland,Cavaliers,CLE,89.0,47.0,17.0,7.0,4.0,15.0,0.381,0.333,0.9,42.0,13.0,18.0,3.0,7.0,3.0,9.0,2.0,17.0,9.0,12.0,10.0

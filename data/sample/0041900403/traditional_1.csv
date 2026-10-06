@@ -1,0 +1,5 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,minutes,fieldGoalsMade,fieldGoalsAttempted,fieldGoalsPercentage,threePointersMade,threePointersAttempted,threePointersPercentage,freeThrowsMade,freeThrowsAttempted,freeThrowsPercentage,reboundsOffensive,reboundsDefensive,reboundsTotal,assists,steals,blocks,turnovers,foulsPersonal,points,startersBench
+0041900403,1610612748,Miami,Heat,MIA,heat,167:15,32,65,0.492,8,26,0.308,17,19,0.895,2,26,28,19,6,3,7,11,89,Starters
+0041900403,1610612748,Miami,Heat,MIA,heat,167:15,9,15,0.6,4,8,0.5,4,4,1.0,1,8,9,6,2,0,5,12,26,Bench
+0041900403,1610612747,Los Angeles,Lakers,LAL,lakers,132:34,18,38,0.474,3,14,0.214,12,17,0.706,5,19,24,14,4,2,15,15,51,Starters
+0041900403,1610612747,Los Angeles,Lakers,LAL,lakers,132:34,16,41,0.39,11,28,0.393,10,12,0.833,6,13,19,9,4,0,4,7,53,Bench

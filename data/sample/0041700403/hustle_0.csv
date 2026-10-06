@@ -1,0 +1,20 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,personId,firstName,familyName,nameI,playerSlug,position,comment,jerseyNum,minutes,points,contestedShots,contestedShots2pt,contestedShots3pt,deflections,chargesDrawn,screenAssists,screenAssistPoints,looseBallsRecoveredOffensive,looseBallsRecoveredDefensive,looseBallsRecoveredTotal,offensiveBoxOuts,defensiveBoxOuts,boxOutPlayerTeamRebounds,boxOutPlayerRebounds,boxOuts
+0041700403,1610612744,Golden State,Warriors,GSW,warriors,201142,Kevin,Durant,K. Durant,kevin-durant,F,,35,43:15,43,7,7,0,5,1,0,0,0,4,4,1,5,2,1,6
+0041700403,1610612744,Golden State,Warriors,GSW,warriors,203110,Draymond,Green,D. Green,draymond-green,F,,23,40:22,10,22,12,10,6,0,0,0,0,1,1,0,10,3,1,10
+0041700403,1610612744,Golden State,Warriors,GSW,warriors,201580,JaVale,McGee,J. McGee,javale-mcgee,C,,1,14:29,10,6,5,1,1,0,0,0,0,0,0,1,8,5,1,9
+0041700403,1610612744,Golden State,Warriors,GSW,warriors,202691,Klay,Thompson,K. Thompson,klay-thompson,G,,11,40:35,10,13,7,6,3,0,0,0,0,2,2,0,1,1,0,1
+0041700403,1610612744,Golden State,Warriors,GSW,warriors,201939,Stephen,Curry,S. Curry,stephen-curry,G,,30,39:15,11,5,1,4,4,0,1,2,1,4,5,0,2,2,0,2
+0041700403,1610612744,Golden State,Warriors,GSW,warriors,2738,Andre,Iguodala,A. Iguodala,andre-iguodala,,,9,21:53,8,5,3,2,2,0,2,5,0,1,1,0,5,1,0,5
+0041700403,1610612744,Golden State,Warriors,GSW,warriors,2733,Shaun,Livingston,S. Livingston,shaun-livingston,,,34,17:23,8,5,4,1,0,0,0,0,0,0,0,0,1,0,0,1
+0041700403,1610612744,Golden State,Warriors,GSW,warriors,2561,David,West,D. West,david-west,,,3,5:04,0,0,0,0,2,0,0,0,0,0,0,1,0,1,1,1
+0041700403,1610612744,Golden State,Warriors,GSW,warriors,201156,Nick,Young,N. Young,nick-young,,,6,4:48,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+0041700403,1610612744,Golden State,Warriors,GSW,warriors,1628395,Jordan,Bell,J. Bell,jordan-bell,,,2,11:58,10,7,5,2,1,0,1,2,0,1,1,0,3,0,0,3
+0041700403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2544,LeBron,James,L. James,lebron-james,F,,23,46:52,33,8,2,6,3,0,0,0,3,1,4,0,2,0,0,2
+0041700403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,201567,Kevin,Love,K. Love,kevin-love,F,,0,31:12,20,5,2,3,0,0,0,0,2,0,2,2,7,7,5,9
+0041700403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,202684,Tristan,Thompson,T. Thompson,tristan-thompson,C,,13,33:46,8,10,8,2,0,0,1,3,0,0,0,8,3,6,1,11
+0041700403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2747,JR,Smith,J. Smith,jr-smith,G,,5,33:08,13,5,1,4,4,0,1,2,1,3,4,0,1,1,0,1
+0041700403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,201588,George,Hill,G. Hill,george-hill,G,,3,27:17,5,10,7,3,0,0,1,2,1,0,1,0,3,2,0,3
+0041700403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,203918,Rodney,Hood,R. Hood,rodney-hood,,,1,25:38,15,7,5,2,2,0,0,0,2,1,3,0,1,1,0,1
+0041700403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,201145,Jeff,Green,J. Green,jeff-green,,,32,18:00,3,4,3,1,0,0,0,0,0,0,0,0,1,0,0,1
+0041700403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2594,Kyle,Korver,K. Korver,kyle-korver,,,26,10:47,0,2,2,0,0,0,0,0,1,0,1,0,0,0,0,0
+0041700403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,1626204,Larry,Nance Jr.,L. Nance Jr.,larry-nance-jr,,,22,13:20,5,6,2,4,0,0,1,3,1,1,2,1,4,2,1,5

@@ -1,0 +1,27 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,personId,firstName,familyName,nameI,playerSlug,position,comment,jerseyNum,minutes,pointsOffTurnovers,pointsSecondChance,pointsFastBreak,pointsPaint,oppPointsOffTurnovers,oppPointsSecondChance,oppPointsFastBreak,oppPointsPaint,blocks,blocksAgainst,foulsPersonal,foulsDrawn
+0041500403,1610612744,Golden State,Warriors,GSW,warriors,203084,Harrison,Barnes,H. Barnes,harrison-barnes,F,,40,33:22,2,1,0,6,26,17,9,30,0,0,2,3
+0041500403,1610612744,Golden State,Warriors,GSW,warriors,203110,Draymond,Green,D. Green,draymond-green,F,,23,35:56,2,2,2,2,26,16,15,42,1,1,4,4
+0041500403,1610612744,Golden State,Warriors,GSW,warriors,101106,Andrew,Bogut,A. Bogut,andrew-bogut,C,,12,12:01,0,0,0,4,11,4,5,16,1,1,2,0
+0041500403,1610612744,Golden State,Warriors,GSW,warriors,202691,Klay,Thompson,K. Thompson,klay-thompson,G,,11,30:39,2,0,3,6,27,15,11,30,0,0,1,3
+0041500403,1610612744,Golden State,Warriors,GSW,warriors,201939,Stephen,Curry,S. Curry,stephen-curry,G,,30,30:59,0,0,3,4,23,10,15,38,0,0,4,5
+0041500403,1610612744,Golden State,Warriors,GSW,warriors,2738,Andre,Iguodala,A. Iguodala,andre-iguodala,,,9,28:25,0,0,0,6,23,11,12,26,0,0,0,1
+0041500403,1610612744,Golden State,Warriors,GSW,warriors,203105,Festus,Ezeli,F. Ezeli,festus-ezeli,,,31,2:48,0,0,0,0,0,0,0,2,0,0,0,0
+0041500403,1610612744,Golden State,Warriors,GSW,warriors,2733,Shaun,Livingston,S. Livingston,shaun-livingston,,,34,19:46,0,0,0,4,11,11,4,18,1,0,2,3
+0041500403,1610612744,Golden State,Warriors,GSW,warriors,201578,Marreese,Speights,M. Speights,marreese-speights,,,5,7:55,0,0,0,0,5,4,0,10,0,0,1,1
+0041500403,1610612744,Golden State,Warriors,GSW,warriors,2571,Leandro,Barbosa,L. Barbosa,leandro-barbosa,,,19,16:42,2,0,0,0,10,13,0,20,1,1,3,4
+0041500403,1610612744,Golden State,Warriors,GSW,warriors,2760,Anderson,Varejao,A. Varejao,anderson-varejao,,,18,9:56,0,0,0,0,4,6,4,18,0,0,3,1
+0041500403,1610612744,Golden State,Warriors,GSW,warriors,201575,Brandon,Rush,B. Rush,brandon-rush,,,4,5:53,0,0,0,0,2,4,0,10,0,0,0,0
+0041500403,1610612744,Golden State,Warriors,GSW,warriors,203546,Ian,Clark,I. Clark,ian-clark,,,21,5:39,0,0,0,0,2,4,0,10,0,0,1,0
+0041500403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2210,Richard,Jefferson,R. Jefferson,richard-jefferson,F,,24,33:13,3,2,0,4,6,2,8,28,0,0,3,2
+0041500403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2544,LeBron,James,L. James,lebron-james,F,,23,40:04,12,4,9,20,6,2,5,28,2,0,2,5
+0041500403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,202684,Tristan,Thompson,T. Thompson,tristan-thompson,C,,13,31:01,2,8,0,10,2,2,6,24,0,0,2,4
+0041500403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2747,JR,Smith,J. Smith,jr-smith,G,,5,37:59,9,5,4,2,2,3,6,26,0,1,1,3
+0041500403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,202681,Kyrie,Irving,K. Irving,kyrie-irving,G,,2,36:36,6,0,2,10,2,3,6,28,0,2,4,4
+0041500403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,202697,Iman,Shumpert,I. Shumpert,iman-shumpert,,,4,17:39,0,0,0,0,4,1,5,10,0,1,3,1
+0041500403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,202389,Timofey,Mozgov,T. Mozgov,timofey-mozgov,,,20,6:37,2,2,0,2,2,1,0,0,0,0,4,0
+0041500403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,101112,Channing,Frye,C. Frye,channing-frye,,,9,12:21,0,0,0,0,4,1,2,8,1,0,3,3
+0041500403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,203521,Matthew,Dellavedova,M. Dellavedova,matthew-dellavedova,,,8,7:39,0,2,0,2,6,0,2,8,0,0,1,0
+0041500403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2590,Mo,Williams,M. Williams,mo-williams,,,52,4:38,0,0,0,0,2,0,0,0,0,0,1,0
+0041500403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2563,Dahntay,Jones,D. Jones,dahntay-jones,,,30,4:38,0,0,0,0,2,0,0,0,0,0,1,0
+0041500403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2592,James,Jones,J. Jones,james-jones,,,1,4:38,0,0,0,0,2,0,0,0,0,0,0,1
+0041500403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,203895,Jordan,McRae,J. McRae,jordan-mcrae,,,12,2:57,0,0,0,4,0,0,0,0,0,0,0,0

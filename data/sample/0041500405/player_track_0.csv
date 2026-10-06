@@ -1,0 +1,27 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,personId,firstName,familyName,nameI,playerSlug,position,comment,jerseyNum,minutes,speed,distance,reboundChancesOffensive,reboundChancesDefensive,reboundChancesTotal,touches,secondaryAssists,freeThrowAssists,passes,assists,contestedFieldGoalsMade,contestedFieldGoalsAttempted,contestedFieldGoalPercentage,uncontestedFieldGoalsMade,uncontestedFieldGoalsAttempted,uncontestedFieldGoalsPercentage,fieldGoalPercentage,defendedAtRimFieldGoalsMade,defendedAtRimFieldGoalsAttempted,defendedAtRimFieldGoalPercentage
+0041500405,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2544,LeBron,James,L. James,lebron-james,F,,23,42:38,3.96,2.81,9,22,30,88,0,0,50,7,9,14,0.643,7,16,0.438,0.533,0,4,0.0
+0041500405,1610612739,Cleveland,Cavaliers,CLE,cavaliers,201567,Kevin,Love,K. Love,kevin-love,F,,0,32:53,4.6,2.52,3,10,13,42,0,0,32,1,0,1,0.0,1,4,0.25,0.2,3,5,0.6
+0041500405,1610612739,Cleveland,Cavaliers,CLE,cavaliers,202684,Tristan,Thompson,T. Thompson,tristan-thompson,C,,13,41:32,4.45,3.08,14,16,28,42,0,0,36,0,1,2,0.5,0,1,0.0,0.333,2,5,0.4
+0041500405,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2747,JR,Smith,J. Smith,jr-smith,G,,5,30:43,4.1,2.1,6,2,7,31,0,0,20,1,3,8,0.375,0,1,0.0,0.333,1,1,1.0
+0041500405,1610612739,Cleveland,Cavaliers,CLE,cavaliers,202681,Kyrie,Irving,K. Irving,kyrie-irving,G,,2,39:47,4.1,2.72,2,10,12,75,0,0,45,6,7,9,0.778,10,15,0.667,0.708,1,2,0.5
+0041500405,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2210,Richard,Jefferson,R. Jefferson,richard-jefferson,,,24,14:18,4.1,0.97,1,7,8,19,0,0,8,0,4,5,0.8,0,1,0.0,0.667,1,1,1.0
+0041500405,1610612739,Cleveland,Cavaliers,CLE,cavaliers,203521,Matthew,Dellavedova,M. Dellavedova,matthew-dellavedova,,,8,3:28,4.08,0.24,0,0,0,8,0,0,4,0,0,0,0.0,0,2,0.0,0.0,0,0,0.0
+0041500405,1610612739,Cleveland,Cavaliers,CLE,cavaliers,202697,Iman,Shumpert,I. Shumpert,iman-shumpert,,,4,25:41,4.4,1.88,1,4,5,17,0,0,11,0,2,2,1.0,0,2,0.0,0.5,1,2,0.5
+0041500405,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2590,Mo,Williams,M. Williams,mo-williams,,,52,3:23,3.55,0.2,0,0,0,2,0,0,1,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0
+0041500405,1610612739,Cleveland,Cavaliers,CLE,cavaliers,202389,Timofey,Mozgov,T. Mozgov,timofey-mozgov,,,20,1:52,3.86,0.12,0,0,0,1,0,0,1,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0
+0041500405,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2563,Dahntay,Jones,D. Jones,dahntay-jones,,,30,1:52,3.78,0.12,0,0,0,1,0,0,1,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0
+0041500405,1610612739,Cleveland,Cavaliers,CLE,cavaliers,2592,James,Jones,J. Jones,james-jones,,,1,1:52,3.07,0.1,0,0,0,3,0,0,2,0,0,0,0.0,0,0,0.0,0.0,0,1,0.0
+0041500405,1610612739,Cleveland,Cavaliers,CLE,cavaliers,101112,Channing,Frye,C. Frye,channing-frye,,DNP - Coach's Decision,9,0:00,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0
+0041500405,1610612744,Golden State,Warriors,GSW,warriors,2738,Andre,Iguodala,A. Iguodala,andre-iguodala,F,,9,41:02,4.08,2.78,8,11,19,72,1,0,54,6,2,6,0.333,4,7,0.571,0.462,1,1,1.0
+0041500405,1610612744,Golden State,Warriors,GSW,warriors,203084,Harrison,Barnes,H. Barnes,harrison-barnes,F,,40,37:54,4.5,2.84,4,12,16,70,1,0,54,1,0,7,0.0,2,7,0.286,0.143,5,8,0.625
+0041500405,1610612744,Golden State,Warriors,GSW,warriors,101106,Andrew,Bogut,A. Bogut,andrew-bogut,C,,12,7:35,3.64,0.46,3,3,6,12,0,0,11,0,0,0,0.0,0,0,0.0,0.0,2,2,1.0
+0041500405,1610612744,Golden State,Warriors,GSW,warriors,202691,Klay,Thompson,K. Thompson,klay-thompson,G,,11,40:31,4.26,2.87,2,6,8,44,0,0,16,1,3,6,0.5,8,14,0.571,0.55,0,2,0.0
+0041500405,1610612744,Golden State,Warriors,GSW,warriors,201939,Stephen,Curry,S. Curry,stephen-curry,G,,30,40:07,4.14,2.76,8,11,19,90,0,0,59,4,2,6,0.333,6,15,0.4,0.381,1,3,0.333
+0041500405,1610612744,Golden State,Warriors,GSW,warriors,203105,Festus,Ezeli,F. Ezeli,festus-ezeli,,,31,9:31,4.81,0.76,7,1,7,16,0,0,13,0,0,2,0.0,1,1,1.0,0.333,3,4,0.75
+0041500405,1610612744,Golden State,Warriors,GSW,warriors,203949,James Michael,McAdoo,J. McAdoo,james-michael-mcadoo,,,20,7:37,4.72,0.6,3,2,4,14,0,0,12,0,0,0,0.0,0,0,0.0,0.0,1,1,1.0
+0041500405,1610612744,Golden State,Warriors,GSW,warriors,2571,Leandro,Barbosa,L. Barbosa,leandro-barbosa,,,19,9:53,4.48,0.73,0,0,0,21,1,0,16,0,0,1,0.0,1,2,0.5,0.333,0,0,0.0
+0041500405,1610612744,Golden State,Warriors,GSW,warriors,2733,Shaun,Livingston,S. Livingston,shaun-livingston,,,34,21:13,4.56,1.61,6,4,7,51,0,0,35,3,3,5,0.6,0,2,0.0,0.429,1,1,1.0
+0041500405,1610612744,Golden State,Warriors,GSW,warriors,2760,Anderson,Varejao,A. Varejao,anderson-varejao,,,18,8:37,4.17,0.6,3,2,5,13,0,0,11,1,0,0,0.0,0,0,0.0,0.0,0,1,0.0
+0041500405,1610612744,Golden State,Warriors,GSW,warriors,201578,Marreese,Speights,M. Speights,marreese-speights,,,5,11:20,3.78,0.71,4,3,6,20,0,0,12,2,0,3,0.0,0,3,0.0,0.0,3,3,1.0
+0041500405,1610612744,Golden State,Warriors,GSW,warriors,201575,Brandon,Rush,B. Rush,brandon-rush,,,4,4:41,3.6,0.28,0,1,1,9,0,0,8,0,0,0,0.0,0,1,0.0,0.0,0,0,0.0
+0041500405,1610612744,Golden State,Warriors,GSW,warriors,203110,Draymond,Green,D. Green,draymond-green,,NWT - NBA Suspension,23,0:00,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0

@@ -1,0 +1,27 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,personId,firstName,familyName,nameI,playerSlug,position,comment,jerseyNum,minutes,speed,distance,reboundChancesOffensive,reboundChancesDefensive,reboundChancesTotal,touches,secondaryAssists,freeThrowAssists,passes,assists,contestedFieldGoalsMade,contestedFieldGoalsAttempted,contestedFieldGoalPercentage,uncontestedFieldGoalsMade,uncontestedFieldGoalsAttempted,uncontestedFieldGoalsPercentage,fieldGoalPercentage,defendedAtRimFieldGoalsMade,defendedAtRimFieldGoalsAttempted,defendedAtRimFieldGoalPercentage
+0041900402,1610612748,Miami,Heat,MIA,heat,202710,Jimmy,Butler III,J. Butler III,jimmy-butler-iii,F,,22,44:44,4.2,3.33,6,9,15,99,2,1,69,13,6,11,0.545,1,6,0.167,0.412,3,3,1.0
+0041900402,1610612748,Miami,Heat,MIA,heat,203109,Jae,Crowder,J. Crowder,jae-crowder,F,,99,28:28,4.16,2.08,0,8,8,42,0,0,35,2,1,1,1.0,4,5,0.8,0.833,2,2,1.0
+0041900402,1610612748,Miami,Heat,MIA,heat,203086,Meyers,Leonard,M. Leonard,meyers-leonard,C,,0,9:12,4.13,0.65,0,0,0,13,1,0,8,1,1,2,0.5,1,1,1.0,0.667,0,1,0.0
+0041900402,1610612748,Miami,Heat,MIA,heat,1629130,Duncan,Robinson,D. Robinson,duncan-robinson,G,,55,21:57,4.35,1.67,0,0,0,24,0,0,16,4,0,2,0.0,2,5,0.4,0.286,3,3,1.0
+0041900402,1610612748,Miami,Heat,MIA,heat,1629639,Tyler,Herro,T. Herro,tyler-herro,G,,14,42:50,4.43,3.37,2,14,15,61,2,0,43,3,0,4,0.0,5,8,0.625,0.417,2,2,1.0
+0041900402,1610612748,Miami,Heat,MIA,heat,203482,Kelly,Olynyk,K. Olynyk,kelly-olynyk,,,9,37:00,3.97,2.62,5,12,14,60,0,1,39,2,3,5,0.6,6,11,0.545,0.563,6,11,0.545
+0041900402,1610612748,Miami,Heat,MIA,heat,1629134,Kendrick,Nunn,K. Nunn,kendrick-nunn,,,25,29:12,4.14,2.15,1,5,6,46,1,2,34,3,2,2,1.0,1,5,0.2,0.429,2,3,0.667
+0041900402,1610612748,Miami,Heat,MIA,heat,2738,Andre,Iguodala,A. Iguodala,andre-iguodala,,,28,25:38,3.87,1.79,1,3,4,29,0,1,26,1,1,1,1.0,2,2,1.0,1.0,2,2,1.0
+0041900402,1610612748,Miami,Heat,MIA,heat,1627884,Derrick,Jones Jr.,D. Jones Jr.,derrick-jones-jr,,,5,0:15,3.16,0.02,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0
+0041900402,1610612748,Miami,Heat,MIA,heat,203524,Solomon,Hill,S. Hill,solomon-hill,,,44,0:44,3.4,0.05,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0
+0041900402,1610612748,Miami,Heat,MIA,heat,1628389,Bam,Adebayo,B. Adebayo,bam-adebayo,,DNP - Injury/Illness,13,0:00,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0
+0041900402,1610612748,Miami,Heat,MIA,heat,2617,Udonis,Haslem,U. Haslem,udonis-haslem,,DNP - Coach's Decision,40,0:00,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0
+0041900402,1610612748,Miami,Heat,MIA,heat,1629735,Chris,Silva,C. Silva,chris-silva,,DNP - Coach's Decision,30,0:00,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0
+0041900402,1610612747,Los Angeles,Lakers,LAL,lakers,2544,LeBron,James,L. James,lebron-james,F,,23,39:09,3.62,2.53,4,10,13,117,0,1,88,9,7,9,0.778,7,16,0.438,0.56,4,6,0.667
+0041900402,1610612747,Los Angeles,Lakers,LAL,lakers,203076,Anthony,Davis,A. Davis,anthony-davis,F,,3,39:33,3.81,2.67,11,8,18,55,0,1,31,1,11,13,0.846,4,7,0.571,0.75,1,3,0.333
+0041900402,1610612747,Los Angeles,Lakers,LAL,lakers,2730,Dwight,Howard,D. Howard,dwight-howard,C,,39,17:11,4.17,1.23,2,5,7,16,0,0,11,1,3,3,1.0,0,0,0.0,1.0,0,2,0.0
+0041900402,1610612747,Los Angeles,Lakers,LAL,lakers,201980,Danny,Green,D. Green,danny-green,G,,14,22:07,4.39,1.69,1,1,2,42,0,0,33,2,0,0,0.0,1,8,0.125,0.125,2,2,1.0
+0041900402,1610612747,Los Angeles,Lakers,LAL,lakers,203484,Kentavious,Caldwell-Pope,K. Caldwell-Pope,kentavious-caldwell-pope,G,,1,31:51,4.2,2.34,1,5,5,70,0,0,55,4,1,2,0.5,3,12,0.25,0.286,3,3,1.0
+0041900402,1610612747,Los Angeles,Lakers,LAL,lakers,1628398,Kyle,Kuzma,K. Kuzma,kyle-kuzma,,,0,21:40,4.25,1.65,2,1,3,42,2,0,29,1,0,1,0.0,3,7,0.429,0.375,1,2,0.5
+0041900402,1610612747,Los Angeles,Lakers,LAL,lakers,200765,Rajon,Rondo,R. Rondo,rajon-rondo,,,9,26:00,4.0,1.88,2,5,7,88,2,0,74,10,0,2,0.0,5,7,0.714,0.556,2,2,1.0
+0041900402,1610612747,Los Angeles,Lakers,LAL,lakers,1627936,Alex,Caruso,A. Caruso,alex-caruso,,,4,23:14,4.1,1.72,3,0,3,60,2,0,51,2,0,0,0.0,2,5,0.4,0.4,1,2,0.5
+0041900402,1610612747,Los Angeles,Lakers,LAL,lakers,202693,Markieff,Morris,M. Morris,markieff-morris,,,88,15:55,3.85,1.08,2,5,7,29,0,0,22,2,0,0,0.0,2,5,0.4,0.4,5,6,0.833
+0041900402,1610612747,Los Angeles,Lakers,LAL,lakers,2747,JR,Smith,J. Smith,jr-smith,,,21,3:20,3.62,0.22,0,0,0,1,0,0,1,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0
+0041900402,1610612747,Los Angeles,Lakers,LAL,lakers,201162,Jared,Dudley,J. Dudley,jared-dudley,,DNP - Coach's Decision,10,0:00,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0
+0041900402,1610612747,Los Angeles,Lakers,LAL,lakers,1629659,Talen,Horton-Tucker,T. Horton-Tucker,talen-horton-tucker,,DNP - Coach's Decision,5,0:00,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0
+0041900402,1610612747,Los Angeles,Lakers,LAL,lakers,201580,JaVale,McGee,J. McGee,javale-mcgee,,DNP - Coach's Decision,7,0:00,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0

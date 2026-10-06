@@ -1,0 +1,2 @@
+gameId,gameCode,gameStatus,gameStatusText,period,gameClock,gameTimeUTC,gameEt,awayTeamId,homeTeamId,duration,attendance,sellout
+0042100405,20220613/BOSGSW,3,Final,4,PT00M00.00S,2022-06-14T01:00:00Z,2022-06-13T21:00:00Z,1610612738,1610612744,2:27,18064,1

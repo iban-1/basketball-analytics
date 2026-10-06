@@ -1,8 +1,9 @@
 """Official game stats from NBA.com via the free `nba_api` package.
 
 * The code of nba_api is MIT-licensed; the DATA belongs to NBA.com and is covered by NBA.com's
-  Terms of Use. Responses are therefore cached only on the user's machine (data/cache/,
-  git-ignored) and are never committed.
+  Terms of Use. Live responses are therefore cached only on the user's machine (data/cache/,
+  git-ignored). The only data in the repository is the small demo sample in data/sample/ (the Finals
+  games of 2016-2022), used when NBA.com cannot be reached.
 * The endpoints are unofficial: they can change, rate-limit, or block cloud hosts. Every
   request is retried a few times and paused between calls.
 """
@@ -13,7 +14,7 @@ from pathlib import Path
 
 import pandas as pd
 
-from src.bball.config import load_config, resolve
+from src.bball.config import ROOT, load_config, resolve
 
 # name -> (nba_api class name, ...). Imported lazily so tests that only use cached or
 # synthetic tables do not need the network package at import time.
@@ -34,13 +35,53 @@ def _cache_dir(game_id: str) -> Path:
     return d
 
 
-def _read_cached(game_id: str, name: str) -> list[pd.DataFrame] | None:
-    files = sorted(_cache_dir(game_id).glob(f"{name}_*.csv"),
-                   key=lambda p: int(p.stem.rsplit("_", 1)[1]))
+SAMPLE_DIR = ROOT / "data" / "sample"     # every Finals game 2016-2022, built by scripts/build_sample.py
+
+
+def _read_dir(directory: Path, name: str) -> list[pd.DataFrame] | None:
+    files = sorted(directory.glob(f"{name}_*.csv"), key=lambda p: int(p.stem.rsplit("_", 1)[1]))
     if not files:
         return None
     return [pd.read_csv(f, dtype={"gameId": str}, keep_default_na=False, na_values=[""])
             for f in files]
+
+
+def _read_cached(game_id: str, name: str) -> list[pd.DataFrame] | None:
+    return _read_dir(_cache_dir(game_id), name)
+
+
+def sample_games(season: str | None = None) -> pd.DataFrame:
+    """The bundled sample's game list (same columns as list_games); empty if no sample is present."""
+    path = SAMPLE_DIR / "games.csv"
+    if not path.exists():
+        return pd.DataFrame()
+    g = pd.read_csv(path, dtype={"game_id": str})
+    return g if season is None else g[g["season"] == season].reset_index(drop=True)
+
+
+def load_sample_tables(game_id: str) -> dict[str, list[pd.DataFrame]]:
+    """Tables of one bundled sample game, read from data/sample (no network)."""
+    out = {}
+    for name in ENDPOINTS:
+        tables = _read_dir(SAMPLE_DIR / game_id, name)
+        if tables is None:
+            raise FileNotFoundError(f"game {game_id} is not in the bundled sample ({name} missing)")
+        out[name] = tables
+    return out
+
+
+def season_list_cached(season: str, season_type: str = "Playoffs") -> bool:
+    return _season_path(season, season_type).exists()
+
+
+def nba_reachable(timeout: float = 8.0) -> bool:
+    """Does NBA.com answer at all? One small request; False on any failure or silence."""
+    try:
+        from nba_api.stats.endpoints import boxscoresummaryv3
+        boxscoresummaryv3.BoxScoreSummaryV3(game_id=load_config()["nba"]["default_game_id"], timeout=timeout).get_data_frames()
+        return True
+    except Exception:
+        return False
 
 
 def _fetch(name: str, game_id: str, retries: int = 3, timeout: float | None = None) -> list[pd.DataFrame]:
@@ -84,9 +125,13 @@ def load_game_tables(game_id: str) -> dict[str, list[pd.DataFrame]]:
     return {name: tables[name] for name in ENDPOINTS}
 
 
+def _season_path(season: str, season_type: str) -> Path:
+    return resolve(load_config()["paths"]["cache"]) / f"games_{season}_{season_type.replace(' ', '_')}.csv"
+
+
 def list_games(season: str, season_type: str) -> pd.DataFrame:
     """One row per game of a season (cached): game_id, date, matchup, scores."""
-    path = resolve(load_config()["paths"]["cache"]) / f"games_{season}_{season_type.replace(' ', '_')}.csv"
+    path = _season_path(season, season_type)
     if path.exists():
         return pd.read_csv(path, dtype={"game_id": str})
     from nba_api.stats.endpoints import leaguegamefinder

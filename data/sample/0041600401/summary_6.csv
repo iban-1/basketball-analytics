@@ -1,0 +1,6 @@
+recencyOrder,gameId,gameTimeUTC,gameEt,gameStatus,gameStatusText,awayTeamId,awayTeamCity,awayTeamName,awayTeamTricode,awayTeamScore,awayTeamWins,awayTeamLosses,homeTeamId,homeTeamCity,homeTeamName,homeTeamTricode,homeTeamScore,homeTeamWins,homeTeamLosses
+1,0021600619,2017-01-17T01:00:00Z,2017-01-16T20:00:00Z,3,Final,1610612739,Cleveland,Cavaliers,CLE,91,29,11,1610612744,Golden State,Warriors,GSW,126,35,6
+2,0021600457,2016-12-25T19:30:00Z,2016-12-25T14:30:00Z,3,Final,1610612744,Golden State,Warriors,GSW,108,27,5,1610612739,Cleveland,Cavaliers,CLE,109,23,6
+3,0041500407,2016-06-20T00:00:00Z,2016-06-19T20:00:00Z,3,Final,1610612739,Cleveland,Cavaliers,CLE,93,4,3,1610612744,Golden State,Warriors,GSW,89,3,4
+4,0041500406,2016-06-17T01:00:00Z,2016-06-16T21:00:00Z,3,Final,1610612744,Golden State,Warriors,GSW,101,3,3,1610612739,Cleveland,Cavaliers,CLE,115,3,3
+5,0041500405,2016-06-14T01:00:00Z,2016-06-13T21:00:00Z,3,Final,1610612739,Cleveland,Cavaliers,CLE,112,2,3,1610612744,Golden State,Warriors,GSW,97,3,2

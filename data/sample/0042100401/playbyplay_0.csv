@@ -1,0 +1,459 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0042100401,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (9:10 PM EST),period,start,0,0,1
+0042100401,4,PT12M00.00S,1,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,Jump Ball Looney vs. Williams III: Tip to Smart,Jump Ball,,1,0,2
+0042100401,7,PT11M42.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,-120,173,21,Missed,1,,,0,v,MISS Tatum 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,3
+0042100401,8,PT11M40.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+0042100401,9,PT11M25.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,-11,267,27,Missed,1,,,0,h,MISS Wiggins 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,5
+0042100401,10,PT11M23.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+0042100401,11,PT11M15.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,89,249,26,Missed,1,,,0,v,MISS Tatum 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,7
+0042100401,12,PT11M15.00S,1,0,,1610612744,,,0,0,0,,0,,,0,h,WARRIORS Rebound,Rebound,Unknown,0,0,8
+0042100401,14,PT11M06.00S,1,1610612744,GSW,201939,Curry,S. Curry,40,258,26,Missed,1,,,0,h,MISS Curry 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,9
+0042100401,15,PT11M03.00S,1,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,Looney REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,10
+0042100401,16,PT11M02.00S,1,1610612744,GSW,201939,Curry,S. Curry,38,257,26,Made,1,3,0,3,h,Curry 26' 3PT Jump Shot (3 PTS) (Looney 1 AST),Made Shot,Jump Shot,1,3,11
+0042100401,19,PT10M30.00S,1,1610612738,BOS,1627759,Brown,J. Brown,113,123,17,Missed,1,,,0,v,MISS Brown 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,12
+0042100401,20,PT10M28.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,13
+0042100401,22,PT10M19.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,-151,233,28,Made,1,3,3,6,v,Tatum 28' 3PT Jump Shot (3 PTS) (Horford 1 AST),Made Shot,Jump Shot,1,3,14
+0042100401,24,PT10M01.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,45,31,5,Made,1,5,3,8,h,Wiggins 5' Cutting Layup Shot (2 PTS) (Looney 2 AST),Made Shot,Cutting Layup Shot,1,2,15
+0042100401,26,PT09M50.00S,1,1610612738,BOS,203935,Smart,M. Smart,152,211,26,Made,1,5,6,11,v,Smart 26' 3PT Jump Shot (3 PTS) (Tatum 1 AST),Made Shot,Jump Shot,1,3,16
+0042100401,28,PT09M35.00S,1,1610612744,GSW,1626172,Looney,K. Looney,163,-12,16,Missed,1,,,0,h,MISS Looney 16' Jump Shot,Missed Shot,Jump Shot,1,2,17
+0042100401,29,PT09M32.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,18
+0042100401,30,PT09M23.00S,1,1610612738,BOS,203935,Smart,M. Smart,228,-20,0,Missed,1,,,0,v,MISS Smart 3PT Jump Shot,Missed Shot,Jump Shot,1,3,19
+0042100401,31,PT09M21.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,20
+0042100401,32,PT09M17.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,-228,48,0,Made,1,8,6,14,h,Thompson 3PT Running Jump Shot (3 PTS) (Curry 1 AST),Made Shot,Running Jump Shot,1,3,21
+0042100401,34,PT09M00.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,Wiggins P.FOUL (P1.T1) (M.Davis),Foul,Personal,1,0,22
+0042100401,36,PT08M51.00S,1,1610612738,BOS,203935,Smart,M. Smart,154,225,27,Made,1,8,9,17,v,Smart 27' 3PT Jump Shot (6 PTS) (Tatum 2 AST),Made Shot,Jump Shot,1,3,23
+0042100401,38,PT08M35.00S,1,1610612744,GSW,201939,Curry,S. Curry,27,-4,3,Made,1,10,9,19,h,Curry 3' Cutting Layup Shot (5 PTS) (Green 1 AST),Made Shot,Cutting Layup Shot,1,2,24
+0042100401,40,PT08M17.00S,1,1610612738,BOS,203935,Smart,M. Smart,-181,195,27,Missed,1,,,0,v,MISS Smart 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,25
+0042100401,41,PT08M15.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,Wiggins REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,26
+0042100401,42,PT08M11.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,54,31,6,Missed,1,,,0,h,MISS Wiggins 6' Running Jump Shot,Missed Shot,Running Jump Shot,1,2,27
+0042100401,42,PT08M11.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,v,Williams III BLOCK (1 BLK),,,1,2,28
+0042100401,43,PT08M10.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,v,Williams III REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,29
+0042100401,57,PT08M10.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,v,Williams III Step Out of Bounds Turnover (P1.T1),Turnover,Step Out of Bounds Turnover,1,0,30
+0042100401,45,PT08M08.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,-49,22,5,Made,1,12,9,21,h,Wiggins 5' Cutting Layup Shot (4 PTS) (Curry 2 AST),Made Shot,Cutting Layup Shot,1,2,31
+0042100401,47,PT07M53.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry S.FOUL (P1.T2) (J.Williams),Foul,Shooting,1,0,32
+0042100401,49,PT07M53.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,MISS Tatum Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,33
+0042100401,50,PT07M53.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,34
+0042100401,51,PT07M53.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,MISS Tatum Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,35
+0042100401,52,PT07M51.00S,1,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,Looney REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,36
+0042100401,53,PT07M31.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,2,37,4,Made,1,14,9,23,h,Wiggins 4' Driving Floating Jump Shot (6 PTS) (Thompson 1 AST),Made Shot,Driving Floating Jump Shot,1,2,37
+0042100401,55,PT07M23.00S,1,1610612738,BOS,201143,Horford,A. Horford,-11,272,27,Made,1,14,12,26,v,Horford 27' 3PT Jump Shot (3 PTS) (Tatum 3 AST),Made Shot,Jump Shot,1,3,38
+0042100401,58,PT07M14.00S,1,1610612744,GSW,201939,Curry,S. Curry,-49,262,27,Made,1,17,12,29,h,Curry 27' 3PT Running Pull-Up Jump Shot (8 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,39
+0042100401,59,PT06M49.00S,1,1610612738,BOS,201143,Horford,A. Horford,-39,105,11,Missed,1,,,0,v,MISS Horford 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,40
+0042100401,60,PT06M46.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,41
+0042100401,61,PT06M43.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,-9,15,2,Made,1,17,14,31,v,Williams III 2' Alley Oop Dunk (2 PTS) (Smart 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,42
+0042100401,63,PT06M17.00S,1,1610612744,GSW,203110,Green,D. Green,-196,174,26,Missed,1,,,0,h,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,43
+0042100401,64,PT06M15.00S,1,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,44
+0042100401,65,PT06M05.00S,1,1610612738,BOS,201143,Horford,A. Horford,-174,183,25,Missed,1,,,0,v,MISS Horford 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,45
+0042100401,66,PT06M03.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,46
+0042100401,67,PT05M57.00S,1,1610612744,GSW,201939,Curry,S. Curry,135,253,29,Made,1,20,14,34,h,Curry 29' 3PT Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,3,47
+0042100401,68,PT05M55.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,48
+0042100401,69,PT05M55.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,SUB: Poole FOR Green,Substitution,,0,0,49
+0042100401,70,PT05M55.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,SUB: White FOR Tatum,Substitution,,0,0,50
+0042100401,71,PT05M55.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,v,SUB: Williams FOR Williams III,Substitution,,0,0,51
+0042100401,75,PT05M42.00S,1,1610612738,BOS,1627759,Brown,J. Brown,-44,95,10,Made,1,20,16,36,v,Brown 10' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,1,2,52
+0042100401,76,PT05M27.00S,1,1610612744,GSW,201939,Curry,S. Curry,23,274,27,Made,1,23,16,39,h,Curry 27' 3PT Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,3,53
+0042100401,77,PT05M11.00S,1,1610612738,BOS,1627759,Brown,J. Brown,123,228,26,Missed,1,,,0,v,MISS Brown 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,54
+0042100401,78,PT05M07.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,55
+0042100401,79,PT05M04.00S,1,1610612744,GSW,1626172,Looney,K. Looney,-43,13,4,Missed,1,,,0,h,MISS Looney 4' Running Layup,Missed Shot,Running Layup Shot,1,2,56
+0042100401,79,PT05M04.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown BLOCK (1 BLK),,,1,2,57
+0042100401,81,PT05M02.00S,1,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,58
+0042100401,82,PT04M56.00S,1,1610612738,BOS,1627759,Brown,J. Brown,20,23,3,Made,1,23,18,41,v,Brown 3' Driving Dunk (4 PTS) (White 1 AST),Made Shot,Driving Dunk Shot,1,2,59
+0042100401,84,PT04M45.00S,1,1610612744,GSW,1629673,Poole,J. Poole,145,222,27,Missed,1,,,0,h,MISS Poole 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,60
+0042100401,85,PT04M42.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,61
+0042100401,86,PT04M36.00S,1,1610612738,BOS,1627759,Brown,J. Brown,137,230,27,Missed,1,,,0,v,MISS Brown 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,62
+0042100401,87,PT04M33.00S,1,0,,1610612744,,,0,0,0,,0,,,0,h,WARRIORS Rebound,Rebound,Unknown,0,0,63
+0042100401,89,PT04M14.00S,1,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,Looney Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,1,0,64
+0042100401,90,PT04M03.00S,1,1610612738,BOS,1628401,White,D. White,29,88,9,Made,1,23,20,43,v,White 9' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,65
+0042100401,92,PT03M41.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,135,78,16,Missed,1,,,0,h,MISS Thompson 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,66
+0042100401,93,PT03M38.00S,1,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,Looney REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,67
+0042100401,94,PT03M36.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,-152,6,15,Made,1,25,20,45,h,Thompson 15' Jump Shot (5 PTS) (Looney 3 AST),Made Shot,Jump Shot,1,2,68
+0042100401,96,PT03M20.00S,1,1610612738,BOS,201143,Horford,A. Horford,-7,133,13,Made,1,25,22,47,v,Horford 13' Jump Shot (5 PTS) (White 2 AST),Made Shot,Jump Shot,1,2,69
+0042100401,98,PT03M07.00S,1,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,,,0,v,Williams S.FOUL (P1.T1) (M.Davis),Foul,Shooting,1,0,70
+0042100401,100,PT03M07.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,MISS Curry Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,71
+0042100401,101,PT03M07.00S,1,0,,1610612744,,,0,0,0,,0,,,0,h,WARRIORS Rebound,Rebound,Normal Rebound,0,0,72
+0042100401,102,PT03M07.00S,1,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,SUB: Green FOR Looney,Substitution,,0,0,73
+0042100401,103,PT03M07.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,h,SUB: Porter Jr. FOR Thompson,Substitution,,0,0,74
+0042100401,106,PT03M07.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,26,22,48,h,Curry Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,75
+0042100401,107,PT02M50.00S,1,1610612738,BOS,1627759,Brown,J. Brown,22,69,7,Missed,1,,,0,v,MISS Brown 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,76
+0042100401,108,PT02M47.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,77
+0042100401,109,PT02M43.00S,1,1610612744,GSW,203110,Green,D. Green,31,40,5,Missed,1,,,0,h,MISS Green 5' Running Layup,Missed Shot,Running Layup Shot,1,2,78
+0042100401,110,PT02M41.00S,1,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,v,White REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,79
+0042100401,111,PT02M37.00S,1,1610612738,BOS,1628401,White,D. White,43,28,5,Missed,1,,,0,v,MISS White 5' Running Layup,Missed Shot,Running Layup Shot,1,2,80
+0042100401,111,PT02M37.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,Wiggins BLOCK (1 BLK),,,1,2,81
+0042100401,113,PT02M36.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,82
+0042100401,114,PT02M36.00S,1,0,,1610612744,,,0,0,0,,0,,,0,h,WARRIORS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,83
+0042100401,115,PT02M36.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,SUB: Iguodala FOR Wiggins,Substitution,,0,0,84
+0042100401,116,PT02M36.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,SUB: Pritchard FOR Brown,Substitution,,0,0,85
+0042100401,117,PT02M36.00S,1,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Theis FOR Smart,Substitution,,0,0,86
+0042100401,118,PT02M36.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,SUB: Tatum FOR Horford,Substitution,,0,0,87
+0042100401,123,PT02M21.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,-129,151,20,Missed,1,,,0,v,MISS Tatum 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,88
+0042100401,124,PT02M20.00S,1,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,v,Pritchard REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,89
+0042100401,125,PT02M09.00S,1,1610612738,BOS,1628401,White,D. White,-22,286,29,Missed,1,,,0,v,MISS White 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,90
+0042100401,126,PT02M07.00S,1,1610612744,GSW,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,91
+0042100401,127,PT02M01.00S,1,1610612744,GSW,201939,Curry,S. Curry,123,262,29,Made,1,29,22,51,h,Curry 29' 3PT Jump Shot (18 PTS) (Green 2 AST),Made Shot,Jump Shot,1,3,92
+0042100401,129,PT01M42.00S,1,1610612738,BOS,1628401,White,D. White,-175,215,28,Missed,1,,,0,v,MISS White 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,93
+0042100401,130,PT01M39.00S,1,1610612744,GSW,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,94
+0042100401,131,PT01M24.00S,1,1610612744,GSW,203110,Green,D. Green,227,14,0,Missed,1,,,0,h,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,1,3,95
+0042100401,132,PT01M22.00S,1,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,96
+0042100401,133,PT01M05.00S,1,1610612738,BOS,1628401,White,D. White,-206,174,27,Made,1,29,25,54,v,White 27' 3PT Jump Shot (5 PTS) (Williams 1 AST),Made Shot,Jump Shot,1,3,97
+0042100401,135,PT00M48.10S,1,1610612744,GSW,203110,Green,D. Green,-18,43,5,Missed,1,,,0,h,MISS Green 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,98
+0042100401,135,PT00M48.10S,1,1610612738,BOS,1628464,Theis,D. Theis,0,0,0,,0,,,0,v,Theis BLOCK (1 BLK),,,1,2,99
+0042100401,137,PT00M46.30S,1,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,v,Pritchard REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,100
+0042100401,138,PT00M42.90S,1,1610612738,BOS,1628369,Tatum,J. Tatum,16,49,5,Made,1,29,27,56,v,Tatum 5' Running Layup (5 PTS) (Pritchard 1 AST),Made Shot,Running Layup Shot,1,2,101
+0042100401,140,PT00M42.90S,1,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala S.FOUL (P1.T3) (J.Williams),Foul,Shooting,1,0,102
+0042100401,142,PT00M42.90S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,29,28,57,v,Tatum Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,103
+0042100401,143,PT00M34.60S,1,1610612744,GSW,203110,Green,D. Green,0,93,9,Missed,1,,,0,h,MISS Green 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,104
+0042100401,144,PT00M30.90S,1,0,,1610612744,,,0,0,0,,0,,,0,h,WARRIORS Rebound,Rebound,Unknown,0,0,105
+0042100401,146,PT00M26.00S,1,1610612744,GSW,201939,Curry,S. Curry,-109,231,26,Made,1,32,28,60,h,Curry 26' 3PT Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,1,3,106
+0042100401,147,PT00M03.00S,1,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,v,White Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,107
+0042100401,147,PT00M03.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry STEAL (1 STL),,,1,0,108
+0042100401,149,PT00M00.30S,1,1610612744,GSW,201939,Curry,S. Curry,25,474,47,Missed,1,,,0,h,MISS Curry 47' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,109
+0042100401,150,PT00M00.10S,1,0,,1610612744,,,0,0,0,,0,,,0,h,WARRIORS Rebound,Rebound,Unknown,0,0,110
+0042100401,151,PT00M00.00S,1,0,,0,,,0,0,0,,0,32,28,60,,End of 1st Period (9:35 PM EST),period,end,1,0,111
+0042100401,154,PT12M00.00S,2,0,,0,,,0,0,0,,0,32,28,60,,Start of 2nd Period (9:38 PM EST),period,start,0,0,112
+0042100401,155,PT11M52.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,v,White P.FOUL (P1.T1) (J.Williams),Foul,Personal,0,0,113
+0042100401,157,PT11M40.00S,2,1610612744,GSW,203490,Porter Jr.,O. Porter Jr.,235,36,24,Made,1,35,28,63,h,Porter Jr. 24' 3PT Jump Shot (3 PTS) (Iguodala 1 AST),Made Shot,Jump Shot,1,3,114
+0042100401,159,PT11M25.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,-234,-9,0,Made,1,35,31,66,v,Pritchard 3PT Jump Shot (3 PTS) (Williams 2 AST),Made Shot,Jump Shot,1,3,115
+0042100401,161,PT11M08.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,203,162,26,Missed,1,,,0,h,MISS Thompson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,116
+0042100401,162,PT11M06.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,117
+0042100401,163,PT11M06.00S,2,1610612744,GSW,203110,Green,D. Green,29,10,3,Made,1,37,31,68,h,Green 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,118
+0042100401,164,PT11M06.00S,2,1610612738,BOS,1628464,Theis,D. Theis,0,0,0,,0,,,0,v,Theis S.FOUL (P1.T2) (J.Williams),Foul,Shooting,1,0,119
+0042100401,166,PT11M06.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,MISS Green Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,120
+0042100401,167,PT11M04.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,121
+0042100401,168,PT10M44.00S,2,1610612738,BOS,1628401,White,D. White,154,217,27,Made,1,37,34,71,v,White 27' 3PT Jump Shot (8 PTS) (Tatum 4 AST),Made Shot,Jump Shot,1,3,122
+0042100401,170,PT10M19.00S,2,1610612744,GSW,2738,Iguodala,A. Iguodala,-116,137,18,Made,1,39,34,73,h,Iguodala 18' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,123
+0042100401,172,PT10M00.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,v,White Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,124
+0042100401,172,PT10M00.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green STEAL (1 STL),,,1,0,125
+0042100401,174,PT09M54.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,199,189,27,Missed,1,,,0,h,MISS Thompson 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,126
+0042100401,175,PT09M52.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,127
+0042100401,176,PT09M48.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,-17,26,3,Missed,1,,,0,h,MISS Thompson 3' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,128
+0042100401,177,PT09M46.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,129
+0042100401,178,PT09M32.00S,2,1610612738,BOS,1628464,Theis,D. Theis,221,21,0,Made,1,39,37,76,v,Theis 3PT Jump Shot (3 PTS) (Tatum 5 AST),Made Shot,Jump Shot,1,3,130
+0042100401,180,PT09M15.00S,2,1610612744,GSW,1629673,Poole,J. Poole,-92,100,14,Made,1,41,37,78,h,Poole 14' Driving Floating Jump Shot (2 PTS) (Iguodala 2 AST),Made Shot,Driving Floating Jump Shot,1,2,131
+0042100401,182,PT08M55.00S,2,1610612738,BOS,1629684,Williams,G. Williams,-237,58,24,Missed,1,,,0,v,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,132
+0042100401,183,PT08M52.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,133
+0042100401,184,PT08M40.00S,2,1610612744,GSW,203490,Porter Jr.,O. Porter Jr.,-82,240,25,Made,1,44,37,81,h,Porter Jr. 25' 3PT Jump Shot (6 PTS) (Green 3 AST),Made Shot,Jump Shot,1,3,134
+0042100401,186,PT08M37.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,135
+0042100401,187,PT08M37.00S,2,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,SUB: Wiggins FOR Iguodala,Substitution,,0,0,136
+0042100401,188,PT08M37.00S,2,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,,,0,v,SUB: Williams III FOR Williams,Substitution,,0,0,137
+0042100401,189,PT08M37.00S,2,1610612738,BOS,1628464,Theis,D. Theis,0,0,0,,0,,,0,v,SUB: Brown FOR Theis,Substitution,,0,0,138
+0042100401,193,PT08M29.00S,2,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,Poole P.FOUL (P1.T1) (M.Davis),Foul,Personal,1,0,139
+0042100401,196,PT08M15.00S,2,1610612738,BOS,1627759,Brown,J. Brown,-185,167,25,Missed,1,,,0,v,MISS Brown 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,140
+0042100401,197,PT08M13.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,Wiggins REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,141
+0042100401,198,PT08M09.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,v,White P.FOUL (P2.T3) (M.Davis),Foul,Personal,1,0,142
+0042100401,200,PT08M09.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,SUB: Looney FOR Green,Substitution,,0,0,143
+0042100401,201,PT08M09.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,v,SUB: Smart FOR White,Substitution,,0,0,144
+0042100401,223,PT08M09.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,v,SUB: Horford FOR Pritchard,Substitution,,0,0,145
+0042100401,204,PT08M00.00S,2,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,Poole Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,146
+0042100401,204,PT08M00.00S,2,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart STEAL (1 STL),,,1,0,147
+0042100401,206,PT07M46.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,-4,99,10,Missed,1,,,0,v,MISS Tatum 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,148
+0042100401,207,PT07M45.00S,2,1610612744,GSW,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,149
+0042100401,208,PT07M36.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,210,171,27,Made,1,47,37,84,h,Thompson 27' 3PT Jump Shot (8 PTS) (Poole 1 AST),Made Shot,Jump Shot,1,3,150
+0042100401,210,PT07M21.00S,2,1610612738,BOS,1627759,Brown,J. Brown,-20,159,16,Made,1,47,39,86,v,Brown 16' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,151
+0042100401,211,PT07M11.00S,2,1610612744,GSW,1629673,Poole,J. Poole,38,41,6,Missed,1,,,0,h,MISS Poole 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,152
+0042100401,211,PT07M11.00S,2,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,v,Williams III BLOCK (2 BLK),,,1,2,153
+0042100401,213,PT07M10.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,154
+0042100401,215,PT07M10.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,Jump Ball Looney vs. Williams III: Tip to Horford,Jump Ball,,1,0,155
+0042100401,220,PT06M59.00S,2,1610612738,BOS,1629057,Williams III,R. Williams III,4,27,3,Made,1,47,41,88,v,Williams III 3' Cutting Layup Shot (4 PTS) (Tatum 6 AST),Made Shot,Cutting Layup Shot,1,2,156
+0042100401,222,PT06M59.00S,2,0,,1610612744,,,0,0,0,,0,,,0,h,WARRIORS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,157
+0042100401,225,PT06M59.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,h,SUB: Curry FOR Thompson,Substitution,,0,0,158
+0042100401,227,PT06M44.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,121,94,15,Missed,1,,,0,h,MISS Wiggins 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,159
+0042100401,228,PT06M41.00S,2,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,160
+0042100401,229,PT06M19.00S,2,1610612738,BOS,203935,Smart,M. Smart,-152,170,23,Made,1,47,43,90,v,Smart 23' Step Back Jump Shot (8 PTS) (Tatum 7 AST),Made Shot,Step Back Jump shot,1,2,161
+0042100401,231,PT06M06.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,Looney Lost Ball Turnover (P2.T3),Turnover,Lost Ball,1,0,162
+0042100401,231,PT06M06.00S,2,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart STEAL (2 STL),,,1,0,163
+0042100401,233,PT06M01.00S,2,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,164
+0042100401,233,PT06M01.00S,2,1610612744,GSW,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. STEAL (1 STL),,,1,0,165
+0042100401,235,PT05M58.00S,2,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,Poole Palming Turnover (P2.T4),Turnover,Palming Turnover,1,0,166
+0042100401,236,PT05M42.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,-55,74,9,Missed,1,,,0,v,MISS Tatum 9' Turnaround Fadeaway Bank Jump Shot,Missed Shot,Turnaround Fadeaway Bank Jump Shot,1,2,167
+0042100401,237,PT05M39.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,168
+0042100401,238,PT05M35.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,234,8,0,Missed,1,,,0,h,MISS Wiggins 3PT Jump Shot,Missed Shot,Jump Shot,1,3,169
+0042100401,239,PT05M33.00S,2,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,v,Williams III REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,170
+0042100401,240,PT05M26.00S,2,1610612738,BOS,1627759,Brown,J. Brown,34,18,4,Made,1,47,45,92,v,Brown 4' Layup (8 PTS) (Smart 2 AST),Made Shot,Layup Shot,1,2,171
+0042100401,242,PT05M12.00S,2,1610612744,GSW,201939,Curry,S. Curry,-150,215,26,Missed,1,,,0,h,MISS Curry 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,172
+0042100401,243,PT05M10.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,173
+0042100401,244,PT05M03.00S,2,1610612738,BOS,1627759,Brown,J. Brown,-40,184,19,Made,1,47,47,94,v,Brown 19' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,2,174
+0042100401,245,PT05M01.00S,2,0,,1610612744,,,0,0,0,,0,,,0,h,WARRIORS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,175
+0042100401,248,PT05M01.00S,2,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,SUB: Thompson FOR Poole,Substitution,,0,0,176
+0042100401,249,PT05M01.00S,2,1610612744,GSW,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,h,SUB: Green FOR Porter Jr.,Substitution,,0,0,177
+0042100401,250,PT05M01.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,SUB: White FOR Tatum,Substitution,,0,0,178
+0042100401,254,PT04M50.00S,2,1610612744,GSW,203110,Green,D. Green,54,51,7,Missed,1,,,0,h,MISS Green 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,179
+0042100401,255,PT04M48.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,Looney REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,180
+0042100401,256,PT04M45.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,-172,176,25,Missed,1,,,0,h,MISS Wiggins 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,181
+0042100401,257,PT04M42.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,Looney REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,182
+0042100401,258,PT04M42.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,Made,1,49,47,96,h,Looney Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,183
+0042100401,259,PT04M16.00S,2,1610612738,BOS,203935,Smart,M. Smart,-235,29,24,Missed,1,,,0,v,MISS Smart 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,184
+0042100401,260,PT04M15.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,185
+0042100401,261,PT04M15.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,0,0,186
+0042100401,262,PT04M03.00S,2,1610612744,GSW,201939,Curry,S. Curry,51,30,6,Missed,1,,,0,h,MISS Curry 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,187
+0042100401,263,PT04M01.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,188
+0042100401,264,PT03M55.00S,2,1610612738,BOS,1627759,Brown,J. Brown,33,69,8,Missed,1,,,0,v,MISS Brown 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,189
+0042100401,264,PT03M55.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,Wiggins BLOCK (2 BLK),,,1,2,190
+0042100401,266,PT03M53.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,191
+0042100401,267,PT03M49.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown Traveling Turnover (P1.T6),Turnover,Traveling,1,0,192
+0042100401,268,PT03M36.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green Backcourt Turnover (P1.T5),Turnover,Backcourt Turnover,1,0,193
+0042100401,269,PT03M35.00S,2,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,v,SUB: Tatum FOR Williams III,Substitution,,0,0,194
+0042100401,271,PT03M26.00S,2,1610612738,BOS,1627759,Brown,J. Brown,228,55,0,Missed,1,,,0,v,MISS Brown 3PT Jump Shot,Missed Shot,Jump Shot,1,3,195
+0042100401,272,PT03M24.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,196
+0042100401,273,PT03M07.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,Wiggins Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,197
+0042100401,273,PT03M07.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown STEAL (1 STL),,,1,0,198
+0042100401,275,PT02M56.00S,2,1610612738,BOS,203935,Smart,M. Smart,59,63,9,Made,1,49,49,98,v,Smart 9' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,199
+0042100401,276,PT02M39.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,-97,234,25,Missed,1,,,0,h,MISS Thompson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,200
+0042100401,277,PT02M36.00S,2,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,201
+0042100401,278,PT02M32.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,Wiggins S.FOUL (P2.T2) (J.Williams),Foul,Shooting,1,0,202
+0042100401,280,PT02M32.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,49,50,99,v,Brown Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,203
+0042100401,281,PT02M32.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,SUB: Porter Jr. FOR Looney,Substitution,,0,0,204
+0042100401,283,PT02M32.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,49,51,100,v,Brown Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,205
+0042100401,284,PT02M15.00S,2,1610612744,GSW,203490,Porter Jr.,O. Porter Jr.,-136,222,26,Made,1,52,51,103,h,Porter Jr. 26' 3PT Jump Shot (9 PTS) (Thompson 2 AST),Made Shot,Jump Shot,1,3,206
+0042100401,300,PT01M56.00S,2,1610612738,BOS,1627759,Brown,J. Brown,4,74,7,Missed,1,,,0,v,MISS Brown 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,207
+0042100401,301,PT01M56.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,208
+0042100401,287,PT01M55.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown Traveling Turnover (P2.T7),Turnover,Traveling,1,0,209
+0042100401,288,PT01M41.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry OFF.Foul (P2) (J.Goble),Foul,Offensive,1,0,210
+0042100401,290,PT01M41.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,1,0,211
+0042100401,291,PT01M31.00S,2,1610612738,BOS,201143,Horford,A. Horford,-180,196,27,Made,1,52,54,106,v,Horford 27' 3PT Jump Shot (8 PTS) (Smart 3 AST),Made Shot,Jump Shot,1,3,212
+0042100401,293,PT01M07.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,6,62,6,Made,1,54,54,108,h,Wiggins 6' Driving Floating Jump Shot (8 PTS) (Green 4 AST),Made Shot,Driving Floating Jump Shot,1,2,213
+0042100401,295,PT00M53.80S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry S.FOUL (P3.T3) (M.Davis),Foul,Shooting,1,0,214
+0042100401,297,PT00M53.80S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,54,55,109,v,Tatum Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,215
+0042100401,298,PT00M53.80S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,SUB: Poole FOR Curry,Substitution,,0,0,216
+0042100401,302,PT00M53.80S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,54,56,110,v,Tatum Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,217
+0042100401,303,PT00M32.00S,2,1610612744,GSW,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. Step Out of Bounds Turnover (P1.T8),Turnover,Step Out of Bounds Turnover,1,0,218
+0042100401,304,PT00M24.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,23,97,10,Missed,1,,,0,v,MISS Tatum 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,219
+0042100401,305,PT00M22.40S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,220
+0042100401,306,PT00M01.50S,2,1610612744,GSW,1629673,Poole,J. Poole,206,219,30,Missed,1,,,0,h,MISS Poole 30' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,221
+0042100401,307,PT00M00.10S,2,0,,1610612744,,,0,0,0,,0,,,0,h,WARRIORS Rebound,Rebound,Unknown,0,0,222
+0042100401,308,PT00M00.00S,2,0,,0,,,0,0,0,,0,54,56,110,,End of 2nd Period (10:07 PM EST),period,end,1,0,223
+0042100401,315,PT12M00.00S,3,0,,0,,,0,0,0,,0,54,56,110,,Start of 3rd Period (10:23 PM EST),period,start,0,0,224
+0042100401,316,PT11M46.00S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,-2,259,26,Made,1,57,56,113,h,Wiggins 26' 3PT Jump Shot (11 PTS) (Thompson 3 AST),Made Shot,Jump Shot,1,3,225
+0042100401,318,PT11M28.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,226
+0042100401,318,PT11M28.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry STEAL (2 STL),,,1,0,227
+0042100401,320,PT11M17.00S,3,1610612744,GSW,201939,Curry,S. Curry,-5,167,17,Made,1,59,56,115,h,Curry 17' Driving Floating Jump Shot (23 PTS) (Looney 4 AST),Made Shot,Driving Floating Jump Shot,1,2,228
+0042100401,322,PT11M02.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,-11,100,10,Missed,1,,,0,v,MISS Tatum 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,229
+0042100401,323,PT11M00.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,Looney REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,230
+0042100401,324,PT10M43.00S,3,1610612744,GSW,203110,Green,D. Green,-167,211,27,Missed,1,,,0,h,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,231
+0042100401,325,PT10M40.00S,3,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,232
+0042100401,326,PT10M31.00S,3,1610612738,BOS,203935,Smart,M. Smart,47,75,9,Made,1,59,58,117,v,Smart 9' Driving Floating Jump Shot (12 PTS) (Horford 2 AST),Made Shot,Driving Floating Jump Shot,1,2,233
+0042100401,328,PT10M20.00S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,110,141,18,Made,1,61,58,119,h,Wiggins 18' Step Back Jump Shot (13 PTS),Made Shot,Step Back Jump shot,1,2,234
+0042100401,329,PT09M58.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,235
+0042100401,329,PT09M58.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green STEAL (2 STL),,,1,0,236
+0042100401,331,PT09M58.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum Personal Take Foul (P1.T1) (J.Williams),Foul,Personal Take,1,0,237
+0042100401,333,PT09M44.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,238
+0042100401,333,PT09M44.00S,3,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,v,Williams III STEAL (1 STL),,,1,0,239
+0042100401,335,PT09M43.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green S.FOUL (P1.T1) (J.Williams),Foul,Shooting,1,0,240
+0042100401,337,PT09M43.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,61,59,120,v,Tatum Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,241
+0042100401,338,PT09M43.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,61,60,121,v,Tatum Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,242
+0042100401,339,PT09M33.00S,3,1610612744,GSW,201939,Curry,S. Curry,-147,223,27,Made,1,64,60,124,h,Curry 27' 3PT Pullup Jump Shot (26 PTS),Made Shot,Pullup Jump shot,1,3,243
+0042100401,340,PT09M18.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,91,235,25,Missed,1,,,0,v,MISS Tatum 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,244
+0042100401,341,PT09M16.00S,3,0,,1610612744,,,0,0,0,,0,,,0,h,WARRIORS Rebound,Rebound,Unknown,0,0,245
+0042100401,343,PT09M07.00S,3,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart P.FOUL (P1.T2) (M.Davis),Foul,Personal,1,0,246
+0042100401,345,PT08M57.00S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,225,-8,0,Missed,1,,,0,h,MISS Wiggins 3PT Jump Shot,Missed Shot,Jump Shot,1,3,247
+0042100401,346,PT08M54.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,248
+0042100401,347,PT08M48.00S,3,1610612744,GSW,203110,Green,D. Green,12,64,7,Missed,1,,,0,h,MISS Green 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,249
+0042100401,348,PT08M46.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,250
+0042100401,349,PT08M46.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,Missed,1,,,0,h,MISS Green Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,251
+0042100401,350,PT08M46.00S,3,0,,1610612744,,,0,0,0,,0,,,0,h,WARRIORS Rebound,Rebound,Unknown,0,0,252
+0042100401,352,PT08M40.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,-158,-3,16,Made,1,66,60,126,h,Thompson 16' Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,1,2,253
+0042100401,353,PT08M19.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green S.FOUL (P2.T2) (M.Davis),Foul,Shooting,1,0,254
+0042100401,355,PT08M19.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,MISS Horford Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,255
+0042100401,356,PT08M19.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,256
+0042100401,357,PT08M19.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,66,61,127,v,Horford Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,257
+0042100401,358,PT08M06.00S,3,1610612744,GSW,201939,Curry,S. Curry,99,251,27,Missed,1,,,0,h,MISS Curry 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,258
+0042100401,358,PT08M06.00S,3,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,v,Williams III BLOCK (3 BLK),,,1,3,259
+0042100401,360,PT08M04.00S,3,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,260
+0042100401,361,PT07M55.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,136,173,22,Missed,1,,,0,v,MISS Tatum 22' Jump Shot,Missed Shot,Jump Shot,1,2,261
+0042100401,362,PT07M52.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,262
+0042100401,363,PT07M35.00S,3,1610612744,GSW,201939,Curry,S. Curry,37,27,5,Missed,1,,,0,h,MISS Curry 5' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,263
+0042100401,364,PT07M34.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,Looney REBOUND (Off:5 Def:2),Rebound,Unknown,1,0,264
+0042100401,365,PT07M34.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford S.FOUL (P1.T3) (J.Williams),Foul,Shooting,1,0,265
+0042100401,367,PT07M34.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,67,61,128,h,Looney Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,266
+0042100401,368,PT07M34.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,68,61,129,h,Looney Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,267
+0042100401,369,PT07M17.00S,3,1610612738,BOS,201143,Horford,A. Horford,228,9,0,Made,1,68,64,132,v,Horford 3PT Jump Shot (12 PTS) (Smart 4 AST),Made Shot,Jump Shot,1,3,268
+0042100401,371,PT07M04.00S,3,1610612744,GSW,201939,Curry,S. Curry,227,0,0,Missed,1,,,0,h,MISS Curry 3PT Jump Shot,Missed Shot,Jump Shot,1,3,269
+0042100401,372,PT07M01.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,Looney REBOUND (Off:6 Def:2),Rebound,Unknown,1,0,270
+0042100401,373,PT07M00.00S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,-185,183,26,Made,1,71,64,135,h,Wiggins 26' 3PT Jump Shot (16 PTS) (Looney 5 AST),Made Shot,Jump Shot,1,3,271
+0042100401,375,PT06M59.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,272
+0042100401,377,PT06M59.00S,3,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,v,SUB: Williams FOR Williams III,Substitution,,0,0,273
+0042100401,379,PT06M42.00S,3,1610612738,BOS,1627759,Brown,J. Brown,-11,69,7,Missed,1,,,0,v,MISS Brown 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,274
+0042100401,380,PT06M39.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,275
+0042100401,381,PT06M26.00S,3,1610612744,GSW,201939,Curry,S. Curry,5,48,5,Made,1,73,64,137,h,Curry 5' Driving Finger Roll Layup (28 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,276
+0042100401,382,PT06M19.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green P.FOUL (P3.T3) (J.Goble),Foul,Personal,1,0,277
+0042100401,385,PT05M58.00S,3,1610612738,BOS,1627759,Brown,J. Brown,25,261,26,Missed,1,,,0,v,MISS Brown 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,278
+0042100401,386,PT05M55.00S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,Wiggins REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,279
+0042100401,387,PT05M50.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown P.FOUL (P1.T4) (J.Goble),Foul,Personal,1,0,280
+0042100401,389,PT05M50.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,SUB: Poole FOR Green,Substitution,,0,0,281
+0042100401,390,PT05M50.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,SUB: White FOR Brown,Substitution,,0,0,282
+0042100401,393,PT05M40.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,-7,162,16,Missed,1,,,0,h,MISS Thompson 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,283
+0042100401,394,PT05M37.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,284
+0042100401,395,PT05M36.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum Out of Bounds - Bad Pass Turnover Turnover (P2.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,285
+0042100401,397,PT05M19.00S,3,0,,1610612744,,,0,0,0,,0,,,0,h,WARRIORS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,286
+0042100401,398,PT05M13.00S,3,1610612744,GSW,1626172,Looney,K. Looney,-15,62,6,Missed,1,,,0,h,MISS Looney 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,287
+0042100401,399,PT05M11.00S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,Wiggins REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,288
+0042100401,400,PT05M10.00S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,Made,1,75,64,139,h,Wiggins Tip Layup Shot (18 PTS),Made Shot,Tip Layup Shot,1,2,289
+0042100401,401,PT04M47.00S,3,1610612738,BOS,1629684,Williams,G. Williams,-20,43,5,Missed,1,,,0,v,MISS Williams 5' Layup,Missed Shot,Layup Shot,1,2,290
+0042100401,401,PT04M47.00S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,Wiggins BLOCK (3 BLK),,,1,2,291
+0042100401,403,PT04M45.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,Looney REBOUND (Off:6 Def:3),Rebound,Unknown,1,0,292
+0042100401,404,PT04M38.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,107,125,16,Missed,1,,,0,h,MISS Thompson 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,293
+0042100401,405,PT04M36.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,294
+0042100401,406,PT04M29.00S,3,1610612738,BOS,1628401,White,D. White,34,17,4,Missed,1,,,0,v,MISS White 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,295
+0042100401,406,PT04M29.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,Looney BLOCK (1 BLK),,,1,2,296
+0042100401,408,PT04M28.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,297
+0042100401,410,PT04M22.00S,3,1610612738,BOS,203935,Smart,M. Smart,64,21,7,Missed,1,,,0,v,MISS Smart 7' Layup,Missed Shot,Layup Shot,1,2,298
+0042100401,410,PT04M22.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,Looney BLOCK (2 BLK),,,1,2,299
+0042100401,412,PT04M19.00S,3,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,300
+0042100401,413,PT04M17.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,27,47,5,Made,1,75,66,141,v,Tatum 5' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,1,2,301
+0042100401,414,PT04M02.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum S.FOUL (P2.PN) (J.Williams),Foul,Shooting,1,0,302
+0042100401,417,PT04M02.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,76,66,142,h,Curry Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,1,0,303
+0042100401,418,PT04M02.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,SUB: Porter Jr. FOR Looney,Substitution,,0,0,304
+0042100401,419,PT04M02.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,h,SUB: Green FOR Thompson,Substitution,,0,0,305
+0042100401,422,PT04M02.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,77,66,143,h,Curry Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,1,0,306
+0042100401,423,PT03M52.00S,3,1610612738,BOS,201143,Horford,A. Horford,230,56,24,Missed,1,,,0,v,MISS Horford 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,307
+0042100401,424,PT03M49.00S,3,1610612744,GSW,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,308
+0042100401,425,PT03M43.00S,3,1610612744,GSW,1629673,Poole,J. Poole,-26,295,30,Made,1,80,66,146,h,Poole 30' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,3,309
+0042100401,426,PT03M19.00S,3,1610612738,BOS,1628401,White,D. White,135,222,26,Made,1,80,69,149,v,White 26' 3PT Jump Shot (11 PTS) (Tatum 8 AST),Made Shot,Jump Shot,1,3,310
+0042100401,428,PT03M09.00S,3,1610612744,GSW,203490,Porter Jr.,O. Porter Jr.,51,274,28,Made,1,83,69,152,h,Porter Jr. 28' 3PT Jump Shot (12 PTS) (Curry 3 AST),Made Shot,Jump Shot,1,3,311
+0042100401,430,PT02M57.00S,3,1610612738,BOS,201143,Horford,A. Horford,-232,-7,0,Made,1,83,72,155,v,Horford 3PT Jump Shot (15 PTS) (Williams 3 AST),Made Shot,Jump Shot,1,3,312
+0042100401,432,PT02M37.00S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,v,White S.FOUL (P3.PN) (J.Goble),Foul,Shooting,1,0,313
+0042100401,434,PT02M37.00S,3,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,84,72,156,h,Poole Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,314
+0042100401,435,PT02M37.00S,3,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Williams III FOR Smart,Substitution,,0,0,315
+0042100401,436,PT02M37.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,SUB: Brown FOR Horford,Substitution,,0,0,316
+0042100401,439,PT02M37.00S,3,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,85,72,157,h,Poole Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,317
+0042100401,440,PT02M26.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,-140,225,27,Missed,1,,,0,v,MISS Tatum 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,318
+0042100401,441,PT02M24.00S,3,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,v,Williams III REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,319
+0042100401,442,PT02M23.00S,3,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,v,Williams III Lost Ball Turnover (P2.T11),Turnover,Lost Ball,1,0,320
+0042100401,442,PT02M23.00S,3,1610612744,GSW,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. STEAL (2 STL),,,1,0,321
+0042100401,444,PT02M12.00S,3,1610612744,GSW,203490,Porter Jr.,O. Porter Jr.,126,236,27,Missed,1,,,0,h,MISS Porter Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,322
+0042100401,445,PT02M10.00S,3,0,,1610612744,,,0,0,0,,0,,,0,h,WARRIORS Rebound,Rebound,Unknown,0,0,323
+0042100401,446,PT02M10.00S,3,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,v,Williams III L.B.FOUL (P1.PN) (J.Williams),Foul,Loose Ball,1,0,324
+0042100401,448,PT02M10.00S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,86,72,158,h,Wiggins Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,325
+0042100401,449,PT02M10.00S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,87,72,159,h,Wiggins Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,326
+0042100401,450,PT01M55.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown Bad Pass Turnover (P3.T12),Turnover,Bad Pass,1,0,327
+0042100401,450,PT01M55.00S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,Wiggins STEAL (1 STL),,,1,0,328
+0042100401,452,PT01M49.00S,3,1610612744,GSW,201939,Curry,S. Curry,-40,267,27,Missed,1,,,0,h,MISS Curry 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,329
+0042100401,453,PT01M47.00S,3,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,330
+0042100401,454,PT01M40.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,26,258,26,Missed,1,,,0,v,MISS Tatum 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,331
+0042100401,455,PT01M38.00S,3,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,Poole REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,332
+0042100401,456,PT01M35.00S,3,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,Poole Lost Ball Turnover (P3.T10),Turnover,Lost Ball,1,0,333
+0042100401,456,PT01M35.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum STEAL (1 STL),,,1,0,334
+0042100401,458,PT01M31.00S,3,1610612738,BOS,1627759,Brown,J. Brown,55,27,6,Made,1,87,74,161,v,Brown 6' Layup (14 PTS) (Tatum 9 AST),Made Shot,Layup Shot,1,2,335
+0042100401,464,PT01M07.00S,3,1610612744,GSW,201939,Curry,S. Curry,130,7,13,Missed,1,,,0,h,MISS Curry 13' Jump Shot,Missed Shot,Jump Shot,1,2,336
+0042100401,465,PT01M04.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,337
+0042100401,466,PT00M52.40S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,Wiggins S.FOUL (P3.T4) (J.Williams),Foul,Shooting,1,0,338
+0042100401,468,PT00M52.40S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,87,75,162,v,White Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,339
+0042100401,469,PT00M52.40S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,SUB: Thompson FOR Wiggins,Substitution,,0,0,340
+0042100401,470,PT00M52.40S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,SUB: Pritchard FOR Tatum,Substitution,,0,0,341
+0042100401,473,PT00M52.40S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,87,76,163,v,White Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,342
+0042100401,474,PT00M36.50S,3,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,v,Pritchard P.FOUL (P1.PN) (J.Goble),Foul,Personal,1,0,343
+0042100401,476,PT00M36.50S,3,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,88,76,164,h,Poole Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,344
+0042100401,477,PT00M36.50S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,SUB: Iguodala FOR Curry,Substitution,,0,0,345
+0042100401,479,PT00M36.50S,3,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,89,76,165,h,Poole Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,346
+0042100401,480,PT00M26.30S,3,1610612738,BOS,1627759,Brown,J. Brown,45,75,9,Missed,1,,,0,v,MISS Brown 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,347
+0042100401,481,PT00M25.60S,3,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,v,Williams III REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,348
+0042100401,482,PT00M25.60S,3,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,Made,1,89,78,167,v,Williams III Tip Dunk Shot (6 PTS),Made Shot,Tip Dunk Shot,1,2,349
+0042100401,483,PT00M06.30S,3,1610612744,GSW,2738,Iguodala,A. Iguodala,234,92,25,Made,1,92,78,170,h,Iguodala 25' 3PT Jump Shot (5 PTS) (Poole 2 AST),Made Shot,Jump Shot,1,3,350
+0042100401,485,PT00M01.60S,3,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala S.FOUL (P2.PN) (J.Williams),Foul,Shooting,1,0,351
+0042100401,487,PT00M01.60S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,92,79,171,v,White Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,352
+0042100401,646,PT00M01.60S,3,1610612744,GSW,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,h,SUB: Looney FOR Porter Jr.,Substitution,,0,0,353
+0042100401,490,PT00M01.60S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,92,80,172,v,White Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,354
+0042100401,491,PT00M00.40S,3,1610612744,GSW,1629673,Poole,J. Poole,170,552,58,Missed,1,,,0,h,MISS Poole 58' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,355
+0042100401,492,PT00M00.10S,3,0,,1610612744,,,0,0,0,,0,,,0,h,WARRIORS Rebound,Rebound,Unknown,0,0,356
+0042100401,493,PT00M00.00S,3,0,,0,,,0,0,0,,0,92,80,172,,End of 3rd Period (10:54 PM EST),period,end,1,0,357
+0042100401,498,PT12M00.00S,4,0,,0,,,0,0,0,,0,92,80,172,,Start of 4th Period (10:58 PM EST),period,start,0,0,358
+0042100401,499,PT11M36.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,-43,42,6,Missed,1,,,0,v,MISS Tatum 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,359
+0042100401,500,PT11M34.00S,4,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,Poole REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,360
+0042100401,501,PT11M22.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,78,252,26,Missed,1,,,0,h,MISS Thompson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,361
+0042100401,502,PT11M19.00S,4,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,v,Williams III REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,362
+0042100401,503,PT11M09.00S,4,1610612738,BOS,1627759,Brown,J. Brown,-66,162,17,Made,1,92,82,174,v,Brown 17' Step Back Jump Shot (16 PTS),Made Shot,Step Back Jump shot,1,2,363
+0042100401,504,PT10M47.00S,4,1610612744,GSW,1629673,Poole,J. Poole,-156,238,28,Missed,1,,,0,h,MISS Poole 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,364
+0042100401,505,PT10M44.00S,4,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,v,Williams III REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,365
+0042100401,506,PT10M38.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,-114,189,22,Missed,1,,,0,v,MISS Tatum 22' Jump Shot,Missed Shot,Jump Shot,1,2,366
+0042100401,507,PT10M35.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,367
+0042100401,508,PT10M19.00S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,-137,71,15,Missed,1,,,0,h,MISS Iguodala 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,368
+0042100401,509,PT10M17.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,v,Pritchard REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,369
+0042100401,511,PT10M01.00S,4,1610612738,BOS,1627759,Brown,J. Brown,100,237,26,Made,1,92,85,177,v,Brown 26' 3PT Pullup Jump Shot (19 PTS),Made Shot,Pullup Jump shot,1,3,370
+0042100401,512,PT09M43.00S,4,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,Poole Out of Bounds - Bad Pass Turnover Turnover (P4.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,371
+0042100401,513,PT09M35.00S,4,1610612738,BOS,1629057,Williams III,R. Williams III,17,6,2,Made,1,92,87,179,v,Williams III 2' Alley Oop Dunk (8 PTS) (Brown 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,372
+0042100401,515,PT09M35.00S,4,0,,1610612744,,,0,0,0,,0,,,0,h,WARRIORS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,373
+0042100401,516,PT09M35.00S,4,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,SUB: Curry FOR Poole,Substitution,,0,0,374
+0042100401,518,PT09M26.00S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,375
+0042100401,518,PT09M26.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown STEAL (2 STL),,,1,0,376
+0042100401,520,PT09M22.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,-27,31,4,Made,1,92,89,181,v,Pritchard 4' Running Layup (5 PTS) (Brown 2 AST),Made Shot,Running Layup Shot,1,2,377
+0042100401,522,PT09M03.00S,4,1610612744,GSW,201939,Curry,S. Curry,-40,31,5,Missed,1,,,0,h,MISS Curry 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,378
+0042100401,522,PT09M03.00S,4,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,v,Williams III BLOCK (4 BLK),,,1,2,379
+0042100401,524,PT09M01.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,v,Pritchard REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,380
+0042100401,525,PT08M56.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown Bad Pass Turnover (P4.T13),Turnover,Bad Pass,1,0,381
+0042100401,525,PT08M56.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry STEAL (3 STL),,,1,0,382
+0042100401,527,PT08M44.00S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,32,23,4,Made,1,94,89,183,h,Iguodala 4' Cutting Dunk Shot (7 PTS) (Green 5 AST),Made Shot,Cutting Dunk Shot,1,2,383
+0042100401,529,PT08M22.00S,4,1610612738,BOS,1627759,Brown,J. Brown,-233,67,24,Made,1,94,92,186,v,Brown 24' 3PT Jump Shot (22 PTS) (White 3 AST),Made Shot,Jump Shot,1,3,384
+0042100401,531,PT07M54.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,221,146,26,Made,1,97,92,189,h,Thompson 26' 3PT Jump Shot (13 PTS) (Curry 4 AST),Made Shot,Jump Shot,1,3,385
+0042100401,533,PT07M38.00S,4,1610612738,BOS,1627759,Brown,J. Brown,-22,22,3,Made,1,97,94,191,v,Brown 3' Driving Layup (24 PTS),Made Shot,Driving Layup Shot,1,2,386
+0042100401,534,PT07M18.00S,4,1610612744,GSW,203110,Green,D. Green,-23,25,3,Made,1,99,94,193,h,Green 3' Cutting Layup Shot (4 PTS) (Iguodala 3 AST),Made Shot,Cutting Layup Shot,1,2,387
+0042100401,536,PT07M09.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,-225,-6,0,Made,1,99,97,196,v,Pritchard 3PT Jump Shot (8 PTS) (Tatum 10 AST),Made Shot,Jump Shot,1,3,388
+0042100401,538,PT06M47.00S,4,1610612744,GSW,201939,Curry,S. Curry,60,186,20,Made,1,101,97,198,h,Curry 20' Step Back Jump Shot (32 PTS),Made Shot,Step Back Jump shot,1,2,389
+0042100401,539,PT06M34.00S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala P.FOUL (P3.T1) (M.Davis),Foul,Personal,1,0,390
+0042100401,541,PT06M34.00S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,SUB: Wiggins FOR Iguodala,Substitution,,0,0,391
+0042100401,542,PT06M34.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,SUB: Looney FOR Green,Substitution,,0,0,392
+0042100401,543,PT06M34.00S,4,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,v,SUB: Horford FOR Williams III,Substitution,,0,0,393
+0042100401,547,PT06M22.00S,4,1610612738,BOS,1628401,White,D. White,197,198,28,Made,1,101,100,201,v,White 28' 3PT Jump Shot (18 PTS) (Brown 3 AST),Made Shot,Jump Shot,1,3,394
+0042100401,549,PT06M05.00S,4,1610612744,GSW,201939,Curry,S. Curry,51,43,7,Made,1,103,100,203,h,Curry 7' Driving Finger Roll Layup (34 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,395
+0042100401,550,PT05M52.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,-39,35,5,Missed,1,,,0,v,MISS Tatum 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,396
+0042100401,550,PT05M52.00S,4,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,Looney BLOCK (3 BLK),,,1,2,397
+0042100401,552,PT05M51.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,398
+0042100401,554,PT05M40.00S,4,1610612738,BOS,1628401,White,D. White,-169,214,27,Made,1,103,103,206,v,White 27' 3PT Jump Shot (21 PTS) (Brown 4 AST),Made Shot,Jump Shot,1,3,399
+0042100401,556,PT05M23.00S,4,1610612744,GSW,201939,Curry,S. Curry,13,104,10,Missed,1,,,0,h,MISS Curry 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,400
+0042100401,557,PT05M21.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,v,Pritchard REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,401
+0042100401,558,PT05M10.00S,4,1610612738,BOS,201143,Horford,A. Horford,190,192,27,Made,1,103,106,209,v,Horford 27' 3PT Jump Shot (18 PTS) (Pritchard 2 AST),Made Shot,Jump Shot,1,3,402
+0042100401,560,PT05M08.00S,4,0,,1610612744,,,0,0,0,,0,,,0,h,WARRIORS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,403
+0042100401,561,PT05M08.00S,4,1610612744,GSW,203490,Porter Jr.,O. Porter Jr.,0,0,0,,0,,,0,h,SUB: Green FOR Porter Jr.,Substitution,,0,0,404
+0042100401,563,PT04M54.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green Bad Pass Turnover (P2.T13),Turnover,Bad Pass,1,0,405
+0042100401,563,PT04M54.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford STEAL (1 STL),,,1,0,406
+0042100401,565,PT04M49.00S,4,1610612738,BOS,201143,Horford,A. Horford,-65,237,25,Made,1,103,109,212,v,Horford 25' 3PT Jump Shot (21 PTS) (Tatum 11 AST),Made Shot,Jump Shot,1,3,407
+0042100401,567,PT04M22.00S,4,1610612744,GSW,203110,Green,D. Green,-25,301,30,Missed,1,,,0,h,MISS Green 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,408
+0042100401,568,PT04M20.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,409
+0042100401,569,PT04M09.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,-80,246,26,Missed,1,,,0,v,MISS Pritchard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,410
+0042100401,570,PT04M06.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:3 Def:8),Rebound,Unknown,1,0,411
+0042100401,571,PT03M55.00S,4,1610612744,GSW,201939,Curry,S. Curry,32,273,27,Missed,1,,,0,h,MISS Curry 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,412
+0042100401,572,PT03M53.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,v,Pritchard REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,413
+0042100401,573,PT03M47.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,414
+0042100401,574,PT03M47.00S,4,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,SUB: Poole FOR Looney,Substitution,,0,0,415
+0042100401,575,PT03M47.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,v,SUB: Smart FOR Pritchard,Substitution,,0,0,416
+0042100401,578,PT03M40.00S,4,1610612738,BOS,201143,Horford,A. Horford,169,-13,17,Made,1,103,111,214,v,Horford 17' Jump Shot (23 PTS) (Tatum 12 AST),Made Shot,Jump Shot,1,2,417
+0042100401,580,PT03M23.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford S.FOUL (P2.T1) (J.Williams),Foul,Shooting,1,0,418
+0042100401,582,PT03M23.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,MISS Green Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,419
+0042100401,583,PT03M23.00S,4,0,,1610612744,,,0,0,0,,0,,,0,h,WARRIORS Rebound,Rebound,Normal Rebound,0,0,420
+0042100401,584,PT03M23.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,MISS Green Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,421
+0042100401,585,PT03M21.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,422
+0042100401,586,PT03M17.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,423
+0042100401,587,PT03M07.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green P.FOUL (P4.T2) (J.Goble),Foul,Personal,1,0,424
+0042100401,589,PT02M57.00S,4,1610612738,BOS,1627759,Brown,J. Brown,11,61,6,Missed,1,,,0,v,MISS Brown 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,425
+0042100401,590,PT02M54.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,426
+0042100401,591,PT02M53.00S,4,1610612738,BOS,203935,Smart,M. Smart,229,26,0,Made,1,103,114,217,v,Smart 3PT Jump Shot (15 PTS) (Horford 3 AST),Made Shot,Jump Shot,1,3,427
+0042100401,593,PT02M37.00S,4,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,v,White Violation:Kicked Ball (J.Goble),Violation,Kicked Ball,0,0,428
+0042100401,594,PT02M31.00S,4,1610612744,GSW,203952,Wiggins,A. Wiggins,85,249,26,Missed,1,,,0,h,MISS Wiggins 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,429
+0042100401,595,PT02M28.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,430
+0042100401,596,PT02M07.00S,4,1610612738,BOS,1628401,White,D. White,-153,209,26,Missed,1,,,0,v,MISS White 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,431
+0042100401,597,PT02M04.00S,4,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,Wiggins REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,432
+0042100401,598,PT01M59.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green OFF.Foul (P5) (J.Goble),Foul,Offensive,1,0,433
+0042100401,600,PT01M59.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green Offensive Foul Turnover (P3.T14),Turnover,Offensive Foul Turnover,1,0,434
+0042100401,601,PT01M44.00S,4,1610612738,BOS,203935,Smart,M. Smart,-132,225,26,Made,1,103,117,220,v,Smart 26' 3PT Jump Shot (18 PTS) (Tatum 13 AST),Made Shot,Jump Shot,1,3,435
+0042100401,603,PT01M35.00S,4,1610612744,GSW,201939,Curry,S. Curry,-26,64,7,Missed,1,,,0,h,MISS Curry 7' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,436
+0042100401,604,PT01M32.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,437
+0042100401,605,PT01M14.00S,4,1610612738,BOS,1627759,Brown,J. Brown,-218,129,25,Missed,1,,,0,v,MISS Brown 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,438
+0042100401,606,PT01M10.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,439
+0042100401,607,PT01M09.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,59,23,6,Made,1,105,117,222,h,Thompson 6' Running Layup (15 PTS) (Curry 5 AST),Made Shot,Running Layup Shot,1,2,440
+0042100401,609,PT00M48.30S,4,1610612738,BOS,201143,Horford,A. Horford,36,29,5,Made,1,105,119,224,v,Horford 5' Cutting Layup Shot (25 PTS) (Brown 5 AST),Made Shot,Cutting Layup Shot,1,2,441
+0042100401,611,PT00M48.30S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green S.FOUL (P6.T3) (M.Davis),Foul,Shooting,1,0,442
+0042100401,614,PT00M48.30S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,SUB: Kuminga FOR Green,Substitution,,0,0,443
+0042100401,616,PT00M48.30S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,105,120,225,v,Horford Free Throw 1 of 1 (26 PTS),Free Throw,Free Throw 1 of 1,1,0,444
+0042100401,617,PT00M48.30S,4,0,,1610612744,,,0,0,0,,0,,,0,h,WARRIORS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,445
+0042100401,618,PT00M48.30S,4,1610612744,GSW,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,SUB: Toscano-Anderson FOR Poole,Substitution,,0,0,446
+0042100401,619,PT00M48.30S,4,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,h,SUB: Lee FOR Thompson,Substitution,,0,0,447
+0042100401,620,PT00M48.30S,4,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,SUB: Bjelica FOR Wiggins,Substitution,,0,0,448
+0042100401,621,PT00M48.30S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,SUB: Moody FOR Curry,Substitution,,0,0,449
+0042100401,622,PT00M48.30S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,SUB: Fitts FOR Tatum,Substitution,,0,0,450
+0042100401,623,PT00M48.30S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,SUB: Stauskas FOR Brown,Substitution,,0,0,451
+0042100401,624,PT00M48.30S,4,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,v,SUB: Morgan FOR White,Substitution,,0,0,452
+0042100401,625,PT00M48.30S,4,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Hauser FOR Smart,Substitution,,0,0,453
+0042100401,626,PT00M48.30S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,SUB: Nesmith FOR Horford,Substitution,,0,0,454
+0042100401,638,PT00M23.40S,4,1610612744,GSW,1627814,Lee,D. Lee,157,342,38,Missed,1,,,0,h,MISS Lee 38' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,455
+0042100401,639,PT00M20.10S,4,1610612744,GSW,202357,Bjelica,N. Bjelica,0,0,0,,0,,,0,h,Bjelica REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,456
+0042100401,640,PT00M16.40S,4,1610612744,GSW,202357,Bjelica,N. Bjelica,-158,256,30,Made,1,108,120,228,h,Bjelica 30' 3PT Jump Shot (3 PTS) (Toscano-Anderson 1 AST),Made Shot,Jump Shot,1,3,457
+0042100401,643,PT00M00.00S,4,0,,0,,,0,0,0,,0,108,120,228,,End of 4th Period (11:27 PM EST),period,end,1,0,458

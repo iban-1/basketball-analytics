@@ -1,0 +1,3 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,teamWins,teamLosses,period1Score,period2Score,period3Score,period4Score,score
+0041600403,1610612739,Cleveland,Cavaliers,CLE,cavaliers,0,3,32,29,33,19,113
+0041600403,1610612744,Golden State,Warriors,GSW,warriors,3,0,39,28,22,29,118

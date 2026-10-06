@@ -1,0 +1,6 @@
+recencyOrder,gameId,gameTimeUTC,gameEt,gameStatus,gameStatusText,awayTeamId,awayTeamCity,awayTeamName,awayTeamTricode,awayTeamScore,awayTeamWins,awayTeamLosses,homeTeamId,homeTeamCity,homeTeamName,homeTeamTricode,homeTeamScore,homeTeamWins,homeTeamLosses
+1,0042000403,2021-07-12T00:00:00Z,2021-07-11T20:00:00Z,3,Final,1610612756,Phoenix,Suns,PHX,100,2,1,1610612749,Milwaukee,Bucks,MIL,120,1,2
+2,0042000402,2021-07-09T01:00:00Z,2021-07-08T21:00:00Z,3,Final,1610612749,Milwaukee,Bucks,MIL,108,0,2,1610612756,Phoenix,Suns,PHX,118,2,0
+3,0042000401,2021-07-07T01:00:00Z,2021-07-06T21:00:00Z,3,Final,1610612749,Milwaukee,Bucks,MIL,105,0,1,1610612756,Phoenix,Suns,PHX,118,1,0
+4,0022000873,2021-04-20T00:00:00Z,2021-04-19T20:00:00Z,3,Final/OT,1610612756,Phoenix,Suns,PHX,128,41,16,1610612749,Milwaukee,Bucks,MIL,127,35,22
+5,0022000389,2021-02-11T03:00:00Z,2021-02-10T22:00:00Z,3,Final,1610612749,Milwaukee,Bucks,MIL,124,16,9,1610612756,Phoenix,Suns,PHX,125,15,9

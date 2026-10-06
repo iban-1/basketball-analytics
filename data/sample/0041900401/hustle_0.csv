@@ -1,0 +1,22 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,personId,firstName,familyName,nameI,playerSlug,position,comment,jerseyNum,minutes,points,contestedShots,contestedShots2pt,contestedShots3pt,deflections,chargesDrawn,screenAssists,screenAssistPoints,looseBallsRecoveredOffensive,looseBallsRecoveredDefensive,looseBallsRecoveredTotal,offensiveBoxOuts,defensiveBoxOuts,boxOutPlayerTeamRebounds,boxOutPlayerRebounds,boxOuts
+0041900401,1610612748,Miami,Heat,MIA,heat,202710,Jimmy,Butler III,J. Butler III,jimmy-butler-iii,F,,22,33:25,23,6,2,4,1,0,0,0,1,0,1,0,3,2,0,3
+0041900401,1610612748,Miami,Heat,MIA,heat,203109,Jae,Crowder,J. Crowder,jae-crowder,F,,99,24:30,12,7,4,3,0,0,0,0,0,0,0,0,1,0,0,1
+0041900401,1610612748,Miami,Heat,MIA,heat,1628389,Bam,Adebayo,B. Adebayo,bam-adebayo,C,,13,21:10,8,5,3,2,0,0,4,9,0,0,0,0,6,2,0,6
+0041900401,1610612748,Miami,Heat,MIA,heat,1629130,Duncan,Robinson,D. Robinson,duncan-robinson,G,,55,27:03,0,9,4,5,0,0,1,2,0,0,0,0,4,1,0,4
+0041900401,1610612748,Miami,Heat,MIA,heat,201609,Goran,Dragic,G. Dragic,goran-dragic,G,,7,14:50,6,3,2,1,2,0,0,0,0,0,0,0,0,0,0,0
+0041900401,1610612748,Miami,Heat,MIA,heat,2738,Andre,Iguodala,A. Iguodala,andre-iguodala,,,28,25:23,7,7,4,3,1,0,1,2,2,0,2,0,3,2,0,3
+0041900401,1610612748,Miami,Heat,MIA,heat,1629639,Tyler,Herro,T. Herro,tyler-herro,,,14,30:15,14,4,2,2,2,0,0,0,0,0,0,0,0,0,0,0
+0041900401,1610612748,Miami,Heat,MIA,heat,203524,Solomon,Hill,S. Hill,solomon-hill,,,44,18:02,4,5,2,3,1,0,0,0,1,0,1,0,0,0,0,0
+0041900401,1610612748,Miami,Heat,MIA,heat,1627884,Derrick,Jones Jr.,D. Jones Jr.,derrick-jones-jr,,,5,7:29,2,2,1,1,0,0,0,0,0,0,0,0,1,1,0,1
+0041900401,1610612748,Miami,Heat,MIA,heat,1629134,Kendrick,Nunn,K. Nunn,kendrick-nunn,,,25,19:49,18,3,0,3,0,0,1,2,0,0,0,0,0,0,0,0
+0041900401,1610612748,Miami,Heat,MIA,heat,203482,Kelly,Olynyk,K. Olynyk,kelly-olynyk,,,9,18:04,4,7,4,3,2,0,0,0,0,0,0,0,2,1,0,2
+0041900401,1610612747,Los Angeles,Lakers,LAL,lakers,2544,LeBron,James,L. James,lebron-james,F,,23,36:24,25,8,5,3,0,0,0,0,0,2,2,0,2,2,1,2
+0041900401,1610612747,Los Angeles,Lakers,LAL,lakers,203076,Anthony,Davis,A. Davis,anthony-davis,F,,3,38:04,34,18,12,6,1,0,0,0,0,0,0,2,0,2,2,2
+0041900401,1610612747,Los Angeles,Lakers,LAL,lakers,2730,Dwight,Howard,D. Howard,dwight-howard,C,,39,14:55,2,4,4,0,0,0,1,2,0,0,0,1,2,2,2,3
+0041900401,1610612747,Los Angeles,Lakers,LAL,lakers,201980,Danny,Green,D. Green,danny-green,G,,14,29:32,11,13,7,6,4,0,0,0,1,0,1,0,1,1,0,1
+0041900401,1610612747,Los Angeles,Lakers,LAL,lakers,203484,Kentavious,Caldwell-Pope,K. Caldwell-Pope,kentavious-caldwell-pope,G,,1,30:26,13,3,1,2,4,0,0,0,0,1,1,0,0,0,0,0
+0041900401,1610612747,Los Angeles,Lakers,LAL,lakers,1628398,Kyle,Kuzma,K. Kuzma,kyle-kuzma,,,0,22:03,3,5,3,2,1,0,0,0,0,1,1,0,0,0,0,0
+0041900401,1610612747,Los Angeles,Lakers,LAL,lakers,200765,Rajon,Rondo,R. Rondo,rajon-rondo,,,9,24:51,7,3,0,3,3,0,1,2,0,0,0,0,0,0,0,0
+0041900401,1610612747,Los Angeles,Lakers,LAL,lakers,1627936,Alex,Caruso,A. Caruso,alex-caruso,,,4,21:59,10,3,2,1,2,0,0,0,0,0,0,1,1,1,0,2
+0041900401,1610612747,Los Angeles,Lakers,LAL,lakers,202693,Markieff,Morris,M. Morris,markieff-morris,,,88,17:37,8,5,2,3,0,0,2,6,0,0,0,0,1,1,0,1
+0041900401,1610612747,Los Angeles,Lakers,LAL,lakers,201162,Jared,Dudley,J. Dudley,jared-dudley,,,10,1:23,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0

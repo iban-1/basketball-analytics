@@ -1,0 +1,3 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,minutes,points,contestedShots,contestedShots2pt,contestedShots3pt,deflections,chargesDrawn,screenAssists,screenAssistPoints,looseBallsRecoveredOffensive,looseBallsRecoveredDefensive,looseBallsRecoveredTotal,offensiveBoxOuts,defensiveBoxOuts,boxOutPlayerTeamRebounds,boxOutPlayerRebounds,boxOuts
+0041800403,1610612744,Golden State,Warriors,GSW,warriors,237:00,109,54,29,25,13,3,8,20,2,5,7,2,18,7,3,19
+0041800403,1610612761,Toronto,Raptors,TOR,raptors,232:00,123,67,40,27,12,0,6,15,3,4,7,2,26,12,3,28

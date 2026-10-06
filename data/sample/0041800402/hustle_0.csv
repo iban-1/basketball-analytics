@@ -1,0 +1,20 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,personId,firstName,familyName,nameI,playerSlug,position,comment,jerseyNum,minutes,points,contestedShots,contestedShots2pt,contestedShots3pt,deflections,chargesDrawn,screenAssists,screenAssistPoints,looseBallsRecoveredOffensive,looseBallsRecoveredDefensive,looseBallsRecoveredTotal,offensiveBoxOuts,defensiveBoxOuts,boxOutPlayerTeamRebounds,boxOutPlayerRebounds,boxOuts
+0041800402,1610612744,Golden State,Warriors,GSW,warriors,2738,Andre,Iguodala,A. Iguodala,andre-iguodala,F,,9,28:04,8,6,2,4,2,0,0,0,1,1,2,0,3,2,0,3
+0041800402,1610612744,Golden State,Warriors,GSW,warriors,203110,Draymond,Green,D. Green,draymond-green,F,,23,40:36,17,18,13,5,4,0,1,3,0,0,0,1,5,2,1,6
+0041800402,1610612744,Golden State,Warriors,GSW,warriors,202326,DeMarcus,Cousins,D. Cousins,demarcus-cousins,C,,0,27:37,11,15,9,6,0,0,1,2,1,0,1,0,4,3,1,4
+0041800402,1610612744,Golden State,Warriors,GSW,warriors,202691,Klay,Thompson,K. Thompson,klay-thompson,G,,11,32:08,25,9,6,3,2,0,0,0,1,0,1,0,1,1,0,1
+0041800402,1610612744,Golden State,Warriors,GSW,warriors,201939,Stephen,Curry,S. Curry,stephen-curry,G,,30,40:40,23,4,1,3,3,0,4,8,0,2,2,0,2,1,0,2
+0041800402,1610612744,Golden State,Warriors,GSW,warriors,1626172,Kevon,Looney,K. Looney,kevon-looney,,,5,10:23,0,9,8,1,0,0,1,2,0,0,0,0,1,0,0,1
+0041800402,1610612744,Golden State,Warriors,GSW,warriors,1628035,Alfonzo,McKinnie,A. McKinnie,alfonzo-mckinnie,,,28,9:47,2,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+0041800402,1610612744,Golden State,Warriors,GSW,warriors,2733,Shaun,Livingston,S. Livingston,shaun-livingston,,,34,16:06,6,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0
+0041800402,1610612744,Golden State,Warriors,GSW,warriors,1626188,Quinn,Cook,Q. Cook,quinn-cook,,,4,21:12,9,6,4,2,0,0,0,0,0,0,0,0,1,1,0,1
+0041800402,1610612744,Golden State,Warriors,GSW,warriors,201973,Jonas,Jerebko,J. Jerebko,jonas-jerebko,,,21,6:04,2,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0
+0041800402,1610612744,Golden State,Warriors,GSW,warriors,101106,Andrew,Bogut,A. Bogut,andrew-bogut,,,12,7:09,6,4,3,1,0,0,0,0,0,0,0,0,3,0,0,3
+0041800402,1610612761,Toronto,Raptors,TOR,raptors,202695,Kawhi,Leonard,K. Leonard,kawhi-leonard,F,,2,38:43,34,15,7,8,2,0,0,0,0,2,2,0,1,1,0,1
+0041800402,1610612761,Toronto,Raptors,TOR,raptors,1627783,Pascal,Siakam,P. Siakam,pascal-siakam,F,,43,40:56,12,14,6,8,0,0,1,3,0,0,0,1,1,0,0,2
+0041800402,1610612761,Toronto,Raptors,TOR,raptors,201188,Marc,Gasol,M. Gasol,marc-gasol,C,,33,31:28,6,8,6,2,1,0,3,7,0,0,0,2,6,5,2,8
+0041800402,1610612761,Toronto,Raptors,TOR,raptors,201980,Danny,Green,D. Green,danny-green,G,,14,25:40,8,6,3,3,0,0,0,0,1,0,1,1,1,2,0,2
+0041800402,1610612761,Toronto,Raptors,TOR,raptors,200768,Kyle,Lowry,K. Lowry,kyle-lowry,G,,7,27:41,13,5,5,0,2,1,0,0,1,0,1,0,3,3,0,3
+0041800402,1610612761,Toronto,Raptors,TOR,raptors,1627832,Fred,VanVleet,F. VanVleet,fred-vanvleet,,,23,38:08,17,9,4,5,8,0,0,0,0,0,0,0,3,3,0,3
+0041800402,1610612761,Toronto,Raptors,TOR,raptors,201586,Serge,Ibaka,S. Ibaka,serge-ibaka,,,9,16:17,7,3,2,1,2,0,1,3,0,0,0,0,2,1,1,2
+0041800402,1610612761,Toronto,Raptors,TOR,raptors,1626181,Norman,Powell,N. Powell,norman-powell,,,24,21:07,7,5,3,2,1,0,0,0,1,0,1,0,1,1,0,1

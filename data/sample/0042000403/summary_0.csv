@@ -1,0 +1,2 @@
+gameId,gameCode,gameStatus,gameStatusText,period,gameClock,gameTimeUTC,gameEt,awayTeamId,homeTeamId,duration,attendance,sellout
+0042000403,20210711/PHXMIL,3,Final,4,PT00M00.00S,2021-07-12T00:00:00Z,2021-07-11T20:00:00Z,1610612756,1610612749,2:24,16637,1

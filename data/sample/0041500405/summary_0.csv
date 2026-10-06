@@ -1,0 +1,2 @@
+gameId,gameCode,gameStatus,gameStatusText,period,gameClock,gameTimeUTC,gameEt,awayTeamId,homeTeamId,duration,attendance,sellout
+0041500405,20160613/CLEGSW,3,Final,4,PT00M00.00S,2016-06-14T01:00:00Z,2016-06-13T21:00:00Z,1610612739,1610612744,2:40,19596,1

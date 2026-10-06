@@ -1,0 +1,2 @@
+gameId,gameCode,gameStatus,gameStatusText,period,gameClock,gameTimeUTC,gameEt,awayTeamId,homeTeamId,duration,attendance,sellout
+0041800402,20190602/GSWTOR,3,Final,4,PT00M00.00S,2019-06-03T00:00:00Z,2019-06-02T20:00:00Z,1610612744,1610612761,2:36,20014,1

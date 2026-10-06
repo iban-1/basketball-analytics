@@ -1,0 +1,3 @@
+gameId,teamId,teamCity,teamName,teamTricode,teamSlug,minutes,pointsOffTurnovers,pointsSecondChance,pointsFastBreak,pointsPaint,oppPointsOffTurnovers,oppPointsSecondChance,oppPointsFastBreak,oppPointsPaint,blocks,blocksAgainst,foulsPersonal,foulsDrawn
+0041600405,1610612744,Golden State,Warriors,GSW,warriors,240:00,21,15,18,52,25,20,25,62,2,5,24,22
+0041600405,1610612739,Cleveland,Cavaliers,CLE,cavaliers,240:00,25,20,25,62,21,15,18,52,5,2,22,24
