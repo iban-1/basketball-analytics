@@ -32,13 +32,17 @@ header[data-testid="stHeader"] {{ background: transparent; }}
 /* ---- glass panels ---- */
 .block-container {{
   max-width: 1120px; margin-left: auto; margin-right: auto;
+  position: relative; isolation: isolate;
+  padding: 2.2rem 2.4rem 3rem 2.4rem !important;
+  margin-top: 1.2rem; margin-bottom: 2rem;
+}}
+/* the glass lives on a layer behind the content (a blur on the panel itself would trap the fixed nav inside it) */
+.block-container::before {{
+  content: ""; position: absolute; inset: 0; z-index: -1; border-radius: 22px;
   background: rgba(14,17,26,.55);
   backdrop-filter: blur(12px) saturate(130%);
   -webkit-backdrop-filter: blur(12px) saturate(130%);
   border: 1px solid rgba(255,255,255,.10);
-  border-radius: 22px;
-  padding: 2.2rem 2.4rem 3rem 2.4rem !important;
-  margin-top: 1.2rem; margin-bottom: 2rem;
   box-shadow: 0 18px 60px rgba(0,0,0,.45);
 }}
 section[data-testid="stSidebar"] > div {{
@@ -53,25 +57,22 @@ section[data-testid="stSidebar"] > div {{
   display: none !important;
 }}
 
-/* ---- translucent pill navigation, fixed at the top centre ---- */
+/* ---- navigation: fully transparent, just words, fixed at the top left ---- */
 .st-key-pillnav {{
-  position: fixed; top: 14px; left: 50%; transform: translateX(-50%); z-index: 999991;
-  width: auto !important; flex-direction: row !important; flex-wrap: nowrap; gap: .15rem !important;
-  padding: 6px 8px; border-radius: 999px;
-  background: rgba(60,66,84,.46);
-  backdrop-filter: blur(14px) saturate(140%); -webkit-backdrop-filter: blur(14px) saturate(140%);
-  border: 1px solid rgba(255,255,255,.14); box-shadow: 0 8px 30px rgba(0,0,0,.35);
+  position: fixed; top: 16px; left: 26px; z-index: 999991;
+  width: auto !important; flex-direction: row !important; flex-wrap: nowrap; gap: .3rem !important;
+  background: none; border: none; box-shadow: none; padding: 0;
 }}
 .st-key-pillnav a {{
-  border-radius: 999px; padding: .42rem 1.15rem; white-space: nowrap;
-  letter-spacing: .14em; text-transform: uppercase; font-size: .72rem; font-weight: 600;
-  color: rgba(238,240,244,.78) !important; text-decoration: none; background: transparent;
+  padding: .3rem .8rem; white-space: nowrap; background: transparent; text-decoration: none;
+  color: rgba(255,255,255,.72) !important; border-bottom: 2px solid transparent;
+  text-shadow: 0 1px 10px rgba(0,0,0,.85);
 }}
-.st-key-pillnav a p {{ font-size: .72rem !important; letter-spacing: .14em; text-transform: uppercase; font-weight: 600; }}
-.st-key-pillnav a:hover {{ background: rgba(255,255,255,.12); color: #fff !important; }}
-.st-key-pillnav a[aria-current="page"] {{
-  background: rgba(255,255,255,.22); color: #fff !important; box-shadow: inset 0 0 0 1px rgba(255,255,255,.18);
+.st-key-pillnav a p {{
+  font-size: .74rem !important; letter-spacing: .16em; text-transform: uppercase; font-weight: 700;
 }}
+.st-key-pillnav a:hover {{ color: #fff !important; }}
+.st-key-pillnav a[aria-current="page"] {{ color: #fff !important; border-bottom-color: {ACCENT}; }}
 .block-container {{ margin-top: 4.6rem !important; }}
 
 /* ---- type ---- */
@@ -109,7 +110,7 @@ hr {{ border-color: rgba(255,255,255,.12) !important; }}
 /* ---- hero banner: the photo, unveiled, with the page title ---- */
 .hero {{
   position: relative; height: 230px; margin: -.4rem 0 1.4rem 0; border-radius: 18px; overflow: hidden;
-  background: {"url('app/static/background.webp') center 52% / cover no-repeat," if BACKGROUND.exists() else ""}
+  background: {"url('app/static/background.webp') center 45% / cover no-repeat," if BACKGROUND.exists() else ""}
               linear-gradient(135deg, #2a1f3d, #0b0d12);
   border: 1px solid rgba(255,255,255,.14);
 }}
@@ -129,14 +130,27 @@ def apply() -> None:
     st.markdown(_css(), unsafe_allow_html=True)
 
 
+_PAGES: list = []
+
+
+def pages() -> list:
+    """The st.Page objects, built once so main.py (routing) and nav() (links) share the same ones."""
+    if not _PAGES:
+        for label, path in NAV:
+            _PAGES.append(st.Page(path, title=label, default=(path == "Home.py"),
+                                  url_path=None if path == "Home.py" else path.split("_", 1)[1][:-3]))
+    return _PAGES
+
+
 def nav() -> None:
     """The pill navigation (only when the app runs through app/main.py, which registers the pages)."""
     try:
         with st.container(horizontal=True, key="pillnav"):
-            for label, path in NAV:
-                st.page_link(path, label=label)
-    except Exception:          # a page run on its own (tests) has no registered pages to link to
-        pass
+            for page in pages():
+                st.page_link(page, label=page.title)
+    except Exception as exc:   # a page run on its own (tests) has no registered pages to link to
+        import sys
+        print("NAV ERROR:", repr(exc), file=sys.stderr)
 
 
 def hero(title: str) -> None:
