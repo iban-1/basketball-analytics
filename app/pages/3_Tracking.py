@@ -1,4 +1,5 @@
 """Tracking: NBA.com's optical player-tracking numbers for any game, plus the video clip's own tracking."""
+import numpy as np
 import pandas as pd
 import streamlit as st
 
@@ -85,6 +86,48 @@ if game["game_id"] == clip_game and (V / "players.csv").exists():
                                "Distance (m)": show["distance_m"].round(1),
                                "Top speed (km/h)": (show["top_speed_ms"] * 3.6).round(1)}), hide_index=True)
     st.caption("The annotated video, radar and pass/interception counts are on the Video analysis page.")
+
+    # ---------- frame viewer: top-down court, slider and 10-second playback ----------
+    viewer_path = V / "viewer_frames.csv"
+    if viewer_path.exists():
+        import time
+
+        import matplotlib.pyplot as plt
+
+        from src.bball import viz
+        st.subheader("Frame viewer")
+        vf = pd.read_csv(viewer_path)
+        ev = pd.read_csv(V / "events.csv") if (V / "events.csv").exists() else pd.DataFrame(columns=["frame", "type", "team"])
+        FPS = 30
+        frames = np.sort(vf["frame"].unique())
+        by_frame = {f: g for f, g in vf.groupby("frame")}
+        ev_frames = ev.sort_values("frame")[["frame", "type", "team"]].to_numpy()
+        start_s = st.slider("Time in the clip (seconds)", 0.0, float(frames[-1] / FPS), 12.0, step=0.5)
+        near = frames[np.searchsorted(frames, int(start_s * FPS)):]
+        holder = st.empty()
+
+        def draw(f: int) -> None:
+            banner = None
+            for ef, typ, team in ev_frames:
+                if 0 <= f - ef <= 36:
+                    banner = f"{str(typ).upper()}  {teams.get(team, team)}"
+            fig = viz.tracking_frame(by_frame[f], teams, f"Clip time {f / FPS:5.1f} s", banner)
+            holder.pyplot(fig)
+            plt.close(fig)
+
+        if len(near):
+            draw(int(near[0]))
+            if st.button("▶ Play next 10 seconds"):
+                end = int(near[0]) + 10 * FPS
+                for f in near[near <= end][::6]:                 # 5 pictures per second of clip time
+                    draw(int(f))
+                    time.sleep(0.05)
+        st.caption("Blue = light kit, orange = dark kit, grey = referees and others. The yellow ring marks the player "
+                   "the analysis says holds the ball, with the ball drawn beside him (the ball is not placed from the "
+                   "video's pixels because a ball in the air cannot be located on the floor). Only camera shots that "
+                   "show the whole court are tracked, so playback skips the gaps; players are not tracked across cuts.")
+    else:
+        st.info("Run `python -m scripts.run_analysis` to create the frame viewer data.")
 else:
     st.caption("Video tracking exists only for the clip supplied by the user "
                f"(game {clip_game}). Select the 2022 Finals Game 4 to see it here.")

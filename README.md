@@ -33,7 +33,7 @@ and a game; the choice follows you across pages. The stats pages need no video.
 | **Home** | Line score and the full stat tables: box score, shooting, advanced, miscellaneous, hustle, player tracking |
 | **Team analysis** | The four factors, where the points came from, score margin over the game, biggest scoring runs, shot map and shot zones per team |
 | **Player analysis** | One player's headline numbers, share of his team's production, shot map and shot log, hustle and tracking rows, and a side-by-side comparison of any players |
-| **Tracking** | NBA.com's optical tracking (distance, speed, touches, passes, rebound chances, contested shots) as charts and tables, plus this project's own video tracking when the clip's game is selected |
+| **Tracking** | NBA.com's optical tracking (distance, speed, touches, passes, rebound chances, contested shots) as charts and tables, plus, when the clip's game is selected, this project's own video tracking and a **frame viewer**: a top-down court with a time slider and a "Play next 10 seconds" button that animates the tracked players and the ball holder |
 | **Video analysis** | The annotated clip with radar, passes, interceptions, possession and per-player distance/speed |
 
 Team and player analysis are computed from NBA.com's box-score tables and play-by-play log. The tests

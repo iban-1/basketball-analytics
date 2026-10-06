@@ -30,6 +30,34 @@ def draw_half_court(ax, colour: str = LINE) -> None:
     ax.axis("off")
 
 
+def tracking_frame(players: pd.DataFrame, names: dict[str, str], label: str = "", banner: str | None = None):
+    """One instant of tracking on a full top-down court (metres). `players` has Xs, Ys, team, has_ball, speed_kmh."""
+    from src.bball.video.court import L, W, court_lines
+    colours = {"light": "#4cc2ff", "dark": "#ff9a3c", "other": "#9aa0aa"}
+    fig, ax = plt.subplots(figsize=(9.4, 5.2))
+    fig.patch.set_alpha(0)
+    ax.set_facecolor("#1e4d34")
+    for line in court_lines():
+        ax.plot(line[:, 0], line[:, 1], color=LINE, lw=1.1)
+    for team, grp in players.groupby("team"):
+        ax.scatter(grp["Xs"], grp["Ys"], s=140 if team != "other" else 60, c=colours.get(team, "#888"), edgecolors="white",
+                   lw=0.8, zorder=3, label=names.get(team, "Referee / other"))
+    for r in players[players["has_ball"]].itertuples():
+        ax.scatter([r.Xs], [r.Ys], s=330, facecolors="none", edgecolors="#ffe14d", lw=2.6, zorder=4)
+        ax.scatter([r.Xs + 0.5], [r.Ys + 0.5], s=70, c="#ff6a1a", edgecolors="black", lw=0.8, zorder=5)
+    ax.set_xlim(-1, L + 1)
+    ax.set_ylim(-1, W + 1)
+    ax.set_aspect("equal")
+    ax.axis("off")
+    ax.legend(loc="lower center", ncol=3, frameon=False, labelcolor="white", bbox_to_anchor=(0.5, -0.06), fontsize=9)
+    if label:
+        ax.text(0.5, 1.01, label, transform=ax.transAxes, ha="center", va="bottom", color="#cfd3da", fontsize=11)
+    if banner:
+        ax.text(0.5, 0.5, banner, transform=ax.transAxes, ha="center", va="center", color="#ffe14d",
+                fontsize=20, fontweight="bold", alpha=0.9)
+    return fig
+
+
 def shot_map(shots: pd.DataFrame, title: str = "", figsize=(5.2, 5.0)):
     """Made shots (filled green) and misses (red crosses) on a half court."""
     fig, ax = plt.subplots(figsize=figsize)

@@ -94,6 +94,15 @@ def main() -> None:
     poss = possession_frames(states, analysed)
     share = possession_share(poss)
 
+    # Compact per-frame table for the dashboard's top-down viewer: court positions of everyone tracked,
+    # and which player holds the ball (the ball is drawn at the holder, not projected from pixels).
+    viewer = pframes[["frame", "pid", "Xs", "Ys", "speed"]].dropna(subset=["Xs", "Ys"]).copy()
+    viewer["team"] = viewer["pid"].map(kept.drop_duplicates("pid").set_index("pid")["team"])
+    viewer["speed_kmh"] = (viewer.pop("speed") * 3.6).round(1)
+    held = set(zip(holders["frame"], holders["pid"]))
+    viewer["has_ball"] = [(f, p) in held for f, p in zip(viewer["frame"], viewer["pid"])]
+    viewer[["Xs", "Ys"]] = viewer[["Xs", "Ys"]].round(2)
+
     mapped_frames = int(frames["mapped"].sum())
     labelled = kept[kept["team"].isin(["light", "dark"])]
     per_frame = labelled.groupby("frame").size().reindex(frames.loc[frames["mapped"], "frame"], fill_value=0)
@@ -136,6 +145,7 @@ def main() -> None:
     events.to_csv(res / "events.csv", index=False)
     poss.to_csv(res / "possession_frames.csv", index=False)
     kept.to_csv(res / "people_labelled.csv", index=False)
+    viewer.to_csv(res / "viewer_frames.csv", index=False)
     (res / "summary.json").write_text(json.dumps(summary, indent=2, default=str), encoding="utf-8")
     print(json.dumps(summary, indent=2, default=str))
 
